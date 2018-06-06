@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ihg-security-compliance-wp-client-side-solution",
+    "id": "6ab597f2-e6a6-4d70-b4ce-1910d7a48f8f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/security-compliance-wp.sppkg"
+  }
+}

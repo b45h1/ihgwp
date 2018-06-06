@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/securityCompliance/SecurityComplianceWebPart.js",
+      "manifest": "./src/webparts/securityCompliance/SecurityComplianceWebPart.manifest.json",
+      "outputPath": "./dist/security-compliance.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "securityComplianceStrings": "webparts/securityCompliance/loc/{locale}.js"
+  }
+}

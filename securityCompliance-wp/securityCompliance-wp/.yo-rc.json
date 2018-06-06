@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "security-compliance-wp",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "6ab597f2-e6a6-4d70-b4ce-1910d7a48f8f"
+  }
+}
