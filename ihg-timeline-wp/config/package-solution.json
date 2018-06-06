@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ihg-timeline-wp-client-side-solution",
+    "id": "4492e912-5ad2-42a0-ad05-370ead8f6f0a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ihg-timeline-wp.sppkg"
+  }
+}

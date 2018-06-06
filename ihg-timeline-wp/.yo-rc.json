@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "ihg-timeline-wp",
+    "libraryId": "4492e912-5ad2-42a0-ad05-370ead8f6f0a",
+    "environment": "spo"
+  }
+}

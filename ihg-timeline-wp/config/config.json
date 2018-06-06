@@ -1,0 +1,26 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ihg-timeline-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/ihgTimelineWebpart/IhgTimelineWebpartWebPart.js",
+          "manifest": "./src/webparts/ihgTimelineWebpart/IhgTimelineWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "sp-client-custom-fields": "node_modules/sp-client-custom-fields/dist/sp-client-custom-fields.bundle.js",
+    "jquery": {
+      "path": "node_modules/jquery/dist/jquery.min.js",
+      "globalName": "jQuery"
+    },
+    "jqueryui": "node_modules/jqueryui/jquery-ui.js"
+  },
+  "localizedResources": {
+    "IhgTimelineWebpartWebPartStrings": "lib/webparts/ihgTimelineWebpart/loc/{locale}.js",
+    "sp-client-custom-fields/strings": "node_modules/sp-client-custom-fields/lib/loc/{locale}.js"
+  }
+}
