@@ -1,0 +1,29 @@
+{
+    "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+    "id": "4a8180df-c6b5-413e-a7cf-e5f4af80b1bf",
+    "alias": "IhgContentCard",
+    "componentType": "WebPart",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+
+    "preconfiguredEntries": [{
+        "groupId": "4a8180df-c6b5-413e-a7cf-e5f4af80b1bf",
+        "group": { "default": "IHG Content Card Web Parts" },
+        "title": { "default": "IHG Content Card" },
+        "description": { "default": "A list of links from a SharePoint list" },
+        "officeFabricIconFontName": "List",
+        "properties": {
+            "title": "",
+            "layoutMode": 0,
+            "hubLinksItems": [],
+            "usesListMode": false,
+            "listQuery": "",
+            "data": "",
+            "groups": [],
+            "showDescription": false,
+            "defaultExpand": false,
+            "version": "1.0"
+        }
+    }]
+}

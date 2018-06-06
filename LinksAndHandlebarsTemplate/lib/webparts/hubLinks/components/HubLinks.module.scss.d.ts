@@ -1,0 +1,27 @@
+declare const styles: {
+    'webpart-header': string;
+    edit: string;
+    view: string;
+    promoUnorderList: string;
+    promoTitle: string;
+    promoPrefix: string;
+    'webpart-header-promo': string;
+    'webpart-headerSidePanel': string;
+    sidePanelHeader: string;
+    'webpart-desription': string;
+    'webpart-desription-promo': string;
+    sidePanelBtn: string;
+    sidePanelBtnPromo: string;
+    linkPicker: string;
+    tabs: string;
+    linkInsert: string;
+    buttons: string;
+    showPanelBtn: string;
+    showPanelBtnPromo: string;
+    content: string;
+    sidePanelDescription: string;
+    sidePanelContentArea: string;
+    'ms-Panel-content': string;
+    header: string;
+};
+export default styles;

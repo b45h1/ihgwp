@@ -1,0 +1,13 @@
+{
+    "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "IHG - Content Card",
+        "id": "520c2090-be2a-4538-b2b0-fd3eeca0cea0",
+        "version": "1.0.3.9",
+        "includeClientSideAssets": true,
+        "skipFeatureDeployment": true
+    },
+    "paths": {
+        "zippedPackage": "solution/ihg-content-card.sppkg"
+    }
+}
