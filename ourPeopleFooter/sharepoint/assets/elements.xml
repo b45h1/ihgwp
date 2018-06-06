@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="IhgOurPeopleFooter"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="995178fe-4d40-4c2b-886e-2a461ed5535d"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
