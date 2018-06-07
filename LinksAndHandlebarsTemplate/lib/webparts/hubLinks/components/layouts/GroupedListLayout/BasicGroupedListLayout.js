@@ -34,11 +34,7 @@ var BasicGroupedListLayout = (function () {
         return (React.createElement("div", { className: GLLStyles_module_scss_1.default["hubLinks"] + (this.webpart.props.isEdit ? " " + GLLStyles_module_scss_1.default["edit"] : "") },
             items &&
                 items.map(function (item) {
-                    {
-                        item.Links.length > 0 ?
-                            console.log(item.Heading.Title + " has " + item.Links.length + " links") :
-                            console.log("NO ITEMS" + item.Heading.Title);
-                    }
+                    // +" " + (item.Links.length==0&&gllStyles["hide"])
                     return (React.createElement("div", __assign({ className: GLLStyles_module_scss_1.default["grouped"] + " " + (item.Links.length == 0 && GLLStyles_module_scss_1.default["hide"]) }, _this.groupDefault, { onClick: _this.webpart.toggleGroup.bind(_this), "data-group": "group-" + item.Heading.Title }),
                         React.createElement("div", { role: "button", className: GLLStyles_module_scss_1.default["groupHeader"] },
                             item.Heading.Title,

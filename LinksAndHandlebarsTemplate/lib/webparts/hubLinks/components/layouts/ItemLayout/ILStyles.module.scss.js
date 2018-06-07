@@ -3,15 +3,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /* tslint:disable */
 require('./ILStyles.module.css');
 var styles = {
-    hubLinks: 'hubLinks_cddf832e',
-    blue: 'blue_cddf832e',
-    faIcon: 'faIcon_cddf832e',
-    linktitle: 'linktitle_cddf832e',
-    linkdescription: 'linkdescription_cddf832e',
-    editControls: 'editControls_cddf832e',
-    emptyBox: 'emptyBox_cddf832e',
-    edit: 'edit_cddf832e',
-    myUnorderList: 'myUnorderList_cddf832e',
+    hubLinks: 'hubLinks_f9b3a987',
+    blue: 'blue_f9b3a987',
+    faIcon: 'faIcon_f9b3a987',
+    linktitle: 'linktitle_f9b3a987',
+    linkdescription: 'linkdescription_f9b3a987',
+    editControls: 'editControls_f9b3a987',
+    emptyBox: 'emptyBox_f9b3a987',
+    edit: 'edit_f9b3a987',
+    myUnorderList: 'myUnorderList_f9b3a987',
 };
 exports.default = styles;
 /* tslint:enable */ 

@@ -30,12 +30,9 @@ export default class BasicGroupedListLayout implements IHubLinksLayout{
       <div className={gllStyles["hubLinks"]+ (this.webpart.props.isEdit? " " + gllStyles["edit"] : "")}>
         { items &&
             items.map((item) => {
-              {item.Links.length > 0 ? 
-                console.log(item.Heading.Title + " has "+ item.Links.length + " links") :
-                console.log("NO ITEMS" + item.Heading.Title);
-              }
+              // +" " + (item.Links.length==0&&gllStyles["hide"])
               return (
-                <div className={gllStyles["grouped"]+" " + (item.Links.length==0&&gllStyles["hide"])} {...this.groupDefault} onClick={this.webpart.toggleGroup.bind(this)} data-group={"group-"+item.Heading.Title}>
+                <div className={gllStyles["grouped"] +" " + (item.Links.length==0&&gllStyles["hide"])} {...this.groupDefault} onClick={this.webpart.toggleGroup.bind(this)} data-group={"group-"+item.Heading.Title}>
                   <div role="button" className={gllStyles["groupHeader"]}>
                     {item.Heading.Title}
                     <div className={gllStyles["expand"]}>
