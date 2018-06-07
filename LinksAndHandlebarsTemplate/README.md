@@ -1,4 +1,4 @@
-# Hub and Link Web Parts
+<!-- # Hub and Link Web Parts
 
 ## Summary
 
@@ -85,4 +85,4 @@ Version  | Date               | Comments
   - `npm install`
   - `gulp serve`
 
-<img src="https://telemetry.sharepointpnp.com/sp-dev-solutions/solutions/linksandhandlebarstemplate" />
+<img src="https://telemetry.sharepointpnp.com/sp-dev-solutions/solutions/linksandhandlebarstemplate" /> -->
