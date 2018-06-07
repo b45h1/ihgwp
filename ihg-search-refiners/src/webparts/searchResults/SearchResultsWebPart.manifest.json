@@ -17,7 +17,7 @@
                 "default": "IHG - Custom Webparts"
             },
             "title": {
-                "default": "IHG - Search Refiners"
+                "default": "IHG - Search Results"
             },
             "description": {
                 "default": "Displays search results with customizable dynamic refiners",

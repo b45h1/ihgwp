@@ -19,7 +19,7 @@
       "default": "IHG - Custom Webparts" 
     },
     "title": { 
-      "default": "IHG - Search Refiners Webpart Search"
+      "default": "IHG - Search Input"
     },
     "description": { "default": "Allows users to enter query keywords" },
     "officeFabricIconFontName": "Search",
