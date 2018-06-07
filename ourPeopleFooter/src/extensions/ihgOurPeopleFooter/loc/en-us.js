@@ -1,7 +1,7 @@
 define([], function() {
   return {
-    "myHrStr": "myHR",
-    "askMyHrStr": "Ask myHR",
+    "myHrStr": "MyHR",
+    "askMyHrStr": "Ask MyHR",
     "helpNSupportStr": "Help & Support",
     "contactStr": "Contacts"
   }
