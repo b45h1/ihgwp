@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "ihg-promo-webpart",
+    "libraryId": "c62140ca-90a4-4c3f-a182-e814204ed990",
+    "environment": "spo"
+  }
+}

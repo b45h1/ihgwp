@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ihg-promo-webpart-client-side-solution",
+    "id": "c62140ca-90a4-4c3f-a182-e814204ed990",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ihg-promo-webpart.sppkg"
+  }
+}

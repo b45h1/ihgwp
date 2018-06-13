@@ -1,0 +1,23 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.ihgPromo {
+  
+
+  .image {
+    width:100%;
+  }
+  .image a{
+    text-decoration: none;
+  }
+  .image a:hover{
+    text-decoration:none;
+  }
+  .image a:visited{
+    text-decoration:none;
+  }
+  .image img{
+    width:100%;
+  }
+
+  
+}

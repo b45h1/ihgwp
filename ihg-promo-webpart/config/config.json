@@ -1,0 +1,19 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ihg-promo-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/ihgPromo/IhgPromoWebPart.js",
+          "manifest": "./src/webparts/ihgPromo/IhgPromoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "IhgPromoWebPartStrings": "lib/webparts/ihgPromo/loc/{locale}.js",
+    "sp-client-custom-fields/strings": "node_modules/sp-client-custom-fields/lib/loc/{locale}.js"
+  }
+}
