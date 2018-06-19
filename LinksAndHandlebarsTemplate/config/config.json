@@ -19,7 +19,7 @@
   "externals": {
     "sp-client-custom-fields": "node_modules/sp-client-custom-fields/dist/sp-client-custom-fields.bundle.js",
     "camljs": {
-      "path": "./src/webparts/camljs.js",
+      "path": "./src/webparts/hubLinks/camljs.js",
       "globalName": "camljs"
     },
     "jquery": {

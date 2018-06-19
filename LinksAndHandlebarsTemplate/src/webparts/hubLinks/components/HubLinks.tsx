@@ -218,7 +218,7 @@ export default class HubLinks extends React.Component<IHubLinksProps, IPanelStat
 
         this.solidColorHeaderWidth={
             width:"100%",
-        }
+        };
 
         this.bgStylePromo = {
           backgroundColor: this.props.bgImagePicker,

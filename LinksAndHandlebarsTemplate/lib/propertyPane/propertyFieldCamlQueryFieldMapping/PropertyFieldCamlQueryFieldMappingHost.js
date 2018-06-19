@@ -33,7 +33,8 @@ var Utilities_1 = require("office-ui-fabric-react/lib/Utilities");
 var PropertyFields_module_scss_1 = require("../PropertyFields.module.scss");
 var strings = require("propertyFieldStrings");
 var sp_pnp_js_1 = require("sp-pnp-js");
-require("camljs");
+// import 'camljs';
+var CamlBuilder = require("camljs");
 var linqts_1 = require("linqts");
 /**
  * @class

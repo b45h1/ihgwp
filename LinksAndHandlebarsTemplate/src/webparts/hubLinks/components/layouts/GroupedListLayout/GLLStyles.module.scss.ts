@@ -1,20 +1,20 @@
 /* tslint:disable */
 require('./GLLStyles.module.css');
 const styles = {
-  hubLinks: 'hubLinks_d8e58e29',
-  linkItem: 'linkItem_d8e58e29',
-  faIcon: 'faIcon_d8e58e29',
-  linktitle: 'linktitle_d8e58e29',
-  linkdescription: 'linkdescription_d8e58e29',
-  editControls: 'editControls_d8e58e29',
-  edit: 'edit_d8e58e29',
-  grouped: 'grouped_d8e58e29',
-  expand: 'expand_d8e58e29',
-  collapse: 'collapse_d8e58e29',
-  groupHeader: 'groupHeader_d8e58e29',
-  row: 'row_d8e58e29',
-  hubLinksPanel: 'hubLinksPanel_d8e58e29',
-  hide: 'hide_d8e58e29',
+  hubLinks: 'hubLinks_ccfa7b49',
+  linkItem: 'linkItem_ccfa7b49',
+  faIcon: 'faIcon_ccfa7b49',
+  linktitle: 'linktitle_ccfa7b49',
+  linkdescription: 'linkdescription_ccfa7b49',
+  editControls: 'editControls_ccfa7b49',
+  edit: 'edit_ccfa7b49',
+  grouped: 'grouped_ccfa7b49',
+  expand: 'expand_ccfa7b49',
+  collapse: 'collapse_ccfa7b49',
+  groupHeader: 'groupHeader_ccfa7b49',
+  row: 'row_ccfa7b49',
+  hubLinksPanel: 'hubLinksPanel_ccfa7b49',
+  hide: 'hide_ccfa7b49',
 };
 
 export default styles;

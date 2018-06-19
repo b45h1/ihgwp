@@ -324,6 +324,16 @@
         }
     }
 }
+
+@media (max-width:767px) {
+    .webpart-header { 
+        & .view{
+            width:80%;
+        }
+    }
+}
+
+
 .showPanelBtn{
     color:#fff;
     background-color:"[theme: themePrimary]";

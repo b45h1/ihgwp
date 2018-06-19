@@ -12,7 +12,6 @@
 import * as React from 'react';
 import { IPropertyFieldCamlQueryFieldMappingPropsInternal, IField, IList, ISort, IMapping } from './PropertyFieldCamlQueryFieldMapping';
 import { IDropdownOption } from 'office-ui-fabric-react/lib/Dropdown';
-import 'camljs';
 import { List } from 'linqts';
 /**
  * @interface

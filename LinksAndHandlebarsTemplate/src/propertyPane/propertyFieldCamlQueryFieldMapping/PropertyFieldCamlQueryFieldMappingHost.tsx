@@ -32,7 +32,8 @@ import { Async } from 'office-ui-fabric-react/lib/Utilities';
 import styles from '../PropertyFields.module.scss';
 import * as strings from 'propertyFieldStrings';
 import pnp from 'sp-pnp-js';
-import 'camljs';
+// import 'camljs';
+import * as CamlBuilder from 'camljs';
 import { List } from 'linqts';
 
 /**
