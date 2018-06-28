@@ -30,10 +30,12 @@ div[class^="feedback_"]{
         .footerContainer{
             clear:both;
             width:60%;
+            position:fixed;
             
             .footerDivBox{
                 float:left;
-                width:25%;
+                //width:25%;
+                width:33%;
                 margin-top:1%;
                 .imgContainer{
                     width:30%;

@@ -44,6 +44,29 @@ export default class IhgOurPeopleFooterApplicationCustomizer
     // }
 
     // Dialog.alert(`Hello from ${strings.Title}:\n\n${message}`);
+        //Adding GTM Script
+        let gtmStr: string = '';
+        gtmStr += `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KPX8NQH');`;
+    
+        let head: any = document.getElementsByTagName("head")[0] || document.documentElement,
+          script = document.createElement("script");
+        script.type = "text/javascript";
+        try {   
+          script.appendChild(document.createTextNode(gtmStr));
+        }
+        catch (e) {
+          
+          script.text = gtmStr;
+        }
+        head.insertBefore(script, head.firstChild);
+        head.removeChild(script);
+    
+        console.log("Extension execution-DONE");
+        // /Adding GTM Script
 
     // Call render method for generating the HTML elements.
     this._renderPlaceHolders();
@@ -52,7 +75,9 @@ export default class IhgOurPeopleFooterApplicationCustomizer
   }
 
   private _renderPlaceHolders(): void {
-      // Handling the bottom placeholder
+      
+
+    // Handling the bottom placeholder
     if (!this._bottomPlaceholder) {
       this._bottomPlaceholder =
         this.context.placeholderProvider.tryCreateContent(
@@ -90,14 +115,14 @@ export default class IhgOurPeopleFooterApplicationCustomizer
                   <div class="${styles.textContainer}">${strings.askMyHrStr}</div>
                 </div>
               </a>
-              <a href="https://ihg.sharepoint.com/sites/ourpeople/SitePages/Help-&-support.aspx">
+              <!--<a href="https://ihg.sharepoint.com/sites/ourpeople/SitePages/Help-&-support.aspx">
                 <div class="${styles.footerDivBox}">
                   <div class="${styles.imgContainer}">
                     <img src="${helpImage}"/>
                   </div>
                   <div class="${styles.textContainer}">${strings.helpNSupportStr}</div>
                 </div>
-              </a>
+              </a>-->
 
               <a href="https://ihg.sharepoint.com/sites/ourpeople/SitePages/Contacts.aspx">
                 <div class="${styles.footerDivBox}">
@@ -107,6 +132,7 @@ export default class IhgOurPeopleFooterApplicationCustomizer
                   <div class="${styles.textContainer}">${strings.contactStr}</div>
                 </div>
               </a>
+              <div style="clear:both;"></div>
             </div>
           </div>
         </div>`;
