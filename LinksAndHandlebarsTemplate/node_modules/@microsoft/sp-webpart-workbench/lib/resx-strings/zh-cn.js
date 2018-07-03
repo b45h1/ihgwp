@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "未能提取 Web 部件，出现错误“{0}”。可能无法呈现缓存的工作台。"
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "警告",
-      "SubText": "你的 Web 部件不会出现在工具箱中。请确保 \"gulp serve\" 在 Web 部件项目中处于运行状态。一旦 \"gulp serve\" 处于运行状态，请刷新页面。",
-      "OkButtonText": "确定",
-      "ClickHerePrefix": "单击",
-      "ClickHereLink": "此处",
-      "ClickHereSuffix": "了解详细信息。"
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "以在移动预览工具中输入要查看的 URL。",
       "ScreenReaderMobilePreviewEntered": "你已进入移动预览工具。若要预览其他页面，请在 URL 文本字段内输入 URL。按 Esc 可关闭该工具并返回工作台。",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "按 Enter 选择此设备。",
       "Width": "宽度",
       "Height": "高度"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "警告",
+      "SubText": "你的 Web 部件不会出现在工具箱中。请确保 \"gulp serve\" 在 Web 部件项目中处于运行状态。一旦 \"gulp serve\" 处于运行状态，请刷新页面。",
+      "OkButtonText": "确定",
+      "ClickHerePrefix": "单击",
+      "ClickHereLink": "此处",
+      "ClickHereSuffix": "了解详细信息。"
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Web 部件数据",

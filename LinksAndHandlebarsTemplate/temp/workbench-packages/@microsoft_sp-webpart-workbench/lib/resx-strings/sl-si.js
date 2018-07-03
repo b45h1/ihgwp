@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Postopek pridobivanja spletnih poti ni uspel z napako »{0}«. Upodabljalnik delovnega okolja v predpomnilniku morda ne bo deloval."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Opozorilo",
-      "SubText": "Vaš spletni gradnik ne bo prikazan v kompletu orodij. Preverite, ali se v projektu spletnega gradnika izvaja »gulp serve«. Ko se »gulp serve« začne izvajati, osvežite stran.",
-      "OkButtonText": "V redu",
-      "ClickHerePrefix": "Kliknite",
-      "ClickHereLink": "tukaj",
-      "ClickHereSuffix": " za več informacij."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Vnesite URL za ogled v orodju za mobilni predogled.",
       "ScreenReaderMobilePreviewEntered": "Premaknili ste se v orodje za mobilni predogled. Če si želite ogledati predogled druge strani, vnesite URL v polje z besedilom za URL. Če želite orodje zapreti in se vrniti v Workbench, pritisnite Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Če želite izbrati to napravo, pritisnite Enter.",
       "Width": "Širina",
       "Height": "Višina"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Opozorilo",
+      "SubText": "Vaš spletni gradnik ne bo prikazan v kompletu orodij. Preverite, ali se v projektu spletnega gradnika izvaja »gulp serve«. Ko se »gulp serve« začne izvajati, osvežite stran.",
+      "OkButtonText": "V redu",
+      "ClickHerePrefix": "Kliknite",
+      "ClickHereLink": "tukaj",
+      "ClickHereSuffix": " za več informacij."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Podatki spletnega gradnika",

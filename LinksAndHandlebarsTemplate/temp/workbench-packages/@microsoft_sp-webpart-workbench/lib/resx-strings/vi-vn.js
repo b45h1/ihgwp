@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Không tải được phần web với lỗi \"{0}\". Kết xuất bàn làm việc được lưu trữ trong bộ đệm ẩn có thể không thành công."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Cảnh báo",
-      "SubText": "Phần web của bạn sẽ không xuất hiện trong hộp công cụ. Vui lòng đảm bảo rằng \"gulp serve\" đang chạy trong dự án phần web. Vui lòng làm mới trang nếu \"gulp serve\" đang chạy.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Bấm vào ",
-      "ClickHereLink": "đây",
-      "ClickHereSuffix": " để biết thêm chi tiết."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Nhập URL để xem trong Công cụ Xem trước trên Thiết bị di động.",
       "ScreenReaderMobilePreviewEntered": "Bạn đã vào Công cụ Xem trước trên Thiết bị di động. Nếu bạn muốn xem trước một trang khác, hãy nhập URL trong trường văn bản URL. Để đóng công cụ này và quay lại Workbench, hãy nhấn Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Nhấn Enter để chọn thiết bị này.",
       "Width": "Chiều rộng",
       "Height": "Chiều cao"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Cảnh báo",
+      "SubText": "Phần web của bạn sẽ không xuất hiện trong hộp công cụ. Vui lòng đảm bảo rằng \"gulp serve\" đang chạy trong dự án phần web. Vui lòng làm mới trang nếu \"gulp serve\" đang chạy.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Bấm vào ",
+      "ClickHereLink": "đây",
+      "ClickHereSuffix": " để biết thêm chi tiết."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dữ liệu Phần Web",

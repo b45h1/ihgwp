@@ -1,6 +1,11 @@
 # Change Log - @microsoft/sp-webpart-workbench
 
-This log was last generated on Fri, 01 Jun 2018 20:13:50 GMT and should not be manually modified.
+This log was last generated on Tue, 26 Jun 2018 14:50:55 GMT and should not be manually modified.
+
+## 1.5.1
+Tue, 26 Jun 2018 14:50:55 GMT
+
+*Version update only*
 
 ## 1.5.0
 Fri, 01 Jun 2018 18:13:37 GMT

@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "La récupération de composants WebPart a échoué avec l’erreur « {0} ». La restitution d’un banc d’essai mis en cache risque d’échouer."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Avertissement",
-      "SubText": "Votre composant WebPart n’apparaîtra pas dans la boîte à outils. Assurez-vous que « gulp serve » est en cours d’exécution dans un projet de composant WebPart. Actualisez la page dès que « gulp serve » est en cours d’exécution.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Cliquez ",
-      "ClickHereLink": "ici",
-      "ClickHereSuffix": " pour plus d’informations."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Entrez une URL à afficher dans l’outil d’aperçu mobile.",
       "ScreenReaderMobilePreviewEntered": "Vous avez activé l’outil d’aperçu mobile. Pour afficher un aperçu d’une autre page, entrez l’URL dans le champ de texte URL. Pour fermer l’outil et revenir à Workbench, appuyez sur Échap.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Appuyez sur Entrée pour choisir cet appareil.",
       "Width": "Largeur",
       "Height": "Hauteur"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Avertissement",
+      "SubText": "Votre composant WebPart n’apparaîtra pas dans la boîte à outils. Assurez-vous que « gulp serve » est en cours d’exécution dans un projet de composant WebPart. Actualisez la page dès que « gulp serve » est en cours d’exécution.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Cliquez ",
+      "ClickHereLink": "ici",
+      "ClickHereSuffix": " pour plus d’informations."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Données de composant WebPart",

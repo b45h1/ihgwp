@@ -1,8 +1,8 @@
 require('./LoadingOrErrorModule.module.css');
 var styles = {
-    module: 'module_1d0b65d6',
-    loadingModule: 'loadingModule_1d0b65d6',
-    errorText: 'errorText_1d0b65d6',
-    screenReaderErrorMessage: 'screenReaderErrorMessage_1d0b65d6',
+    module: 'module_052d659b',
+    loadingModule: 'loadingModule_052d659b',
+    errorText: 'errorText_052d659b',
+    screenReaderErrorMessage: 'screenReaderErrorMessage_052d659b',
 };
 export default styles;

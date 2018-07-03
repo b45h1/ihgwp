@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Ezin izan dira eskuratu web zatiak, errore hau gertatu delako: \"{0}\". Baliteke ezin errendatu ahal izatea cachean gordetako."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Abisua",
-      "SubText": "Web zatiak ez dira agertuko tresnetan. Ziurtatu \"gulp serve\" exekutatzen ari dela web zatiaren proiektuan. Freskatu orria \"gulp serve\" exekutatzen hasten denean.",
-      "OkButtonText": "Ados",
-      "ClickHerePrefix": "Egin klik ",
-      "ClickHereLink": "hemen",
-      "ClickHereSuffix": " informazio gehiago lortzeko."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Idatzi URLa mugikorretarako aurrebistaren tresnan ikusteko.",
       "ScreenReaderMobilePreviewEntered": "Mugikorretarako aurrebistaren tresnan sartu zara. Beste orri bat aurreikusi nahi baduzu, idatzi URLa URLen testu-eremuan. Tresna itxi eta lan-eremura itzultzeko, sakatu Ihes.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Sakatu Sartu gailua aukeratzeko.",
       "Width": "Zabalera",
       "Height": "Altuera"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Abisua",
+      "SubText": "Web zatiak ez dira agertuko tresnetan. Ziurtatu \"gulp serve\" exekutatzen ari dela web zatiaren proiektuan. Freskatu orria \"gulp serve\" exekutatzen hasten denean.",
+      "OkButtonText": "Ados",
+      "ClickHerePrefix": "Egin klik ",
+      "ClickHereLink": "hemen",
+      "ClickHereSuffix": " informazio gehiago lortzeko."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Web zatiaren datuak",

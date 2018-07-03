@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Web bölümlerini getirme işlemi, \"{0}\" hatasıyla başarısız oldu. Önbelleğe alınmış bir çalışma ekranı işlenemeyebilir."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Uyarı",
-      "SubText": "Web bölümünüz araç kutusunda görünmez. \"Gulp serve\" eklentisinin bir web bölümü projesinde çalıştığından emin olun. \"Gulp serve\" eklentisi çalışmaya başladığında lütfen sayfayı yenileyin.",
-      "OkButtonText": "Tamam",
-      "ClickHerePrefix": "Daha fazla bilgi için ",
-      "ClickHereLink": "buraya",
-      "ClickHereSuffix": " tıklayın."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Mobil Önizleme Aracında görüntülemek için bir URL girin.",
       "ScreenReaderMobilePreviewEntered": "Mobil Önizleme Aracına girdiniz. Farklı bir sayfanın önizlemesini görüntülemek istiyorsanız, URL metni alanına URL'yi girin. Aracı kapatıp Workbench'e geri dönmek için Escape tuşuna basın.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Bu cihazı seçmek için Enter tuşuna basın.",
       "Width": "Genişlik",
       "Height": "Yükseklik"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Uyarı",
+      "SubText": "Web bölümünüz araç kutusunda görünmez. \"Gulp serve\" eklentisinin bir web bölümü projesinde çalıştığından emin olun. \"Gulp serve\" eklentisi çalışmaya başladığında lütfen sayfayı yenileyin.",
+      "OkButtonText": "Tamam",
+      "ClickHerePrefix": "Daha fazla bilgi için ",
+      "ClickHereLink": "buraya",
+      "ClickHereSuffix": " tıklayın."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Web Bölümü Verileri",

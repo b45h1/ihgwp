@@ -1,11 +1,11 @@
 require('./Workbench.module.css');
 var styles = {
-    workbench: 'workbench_803fb3fb',
-    header: 'header_803fb3fb',
-    headerMenu: 'headerMenu_803fb3fb',
-    headerTitle: 'headerTitle_803fb3fb',
-    headerPerson: 'headerPerson_803fb3fb',
-    pageContent: 'pageContent_803fb3fb',
-    commandBar: 'commandBar_803fb3fb',
+    workbench: 'workbench_41829fcd',
+    header: 'header_41829fcd',
+    headerMenu: 'headerMenu_41829fcd',
+    headerTitle: 'headerTitle_41829fcd',
+    headerPerson: 'headerPerson_41829fcd',
+    pageContent: 'pageContent_41829fcd',
+    commandBar: 'commandBar_41829fcd',
 };
 export default styles;

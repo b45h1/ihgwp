@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Не вдалось отримати веб-частини. Помилка: \"{0}\". Відтворення кешованих інструментальних засобів може завершитися з помилкою."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Попередження",
-      "SubText": "Веб-частина не відображатиметься в наборі інструментів. Переконайтеся, що \"gulp serve\" працює в проекті веб-частини. Оновіть сторінку після запуску \"gulp serve\".",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Клацніть ",
-      "ClickHereLink": "тут",
-      "ClickHereSuffix": ", щоб отримати докладні відомості."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Введіть URL-адресу, щоб переглянути її в засобі попереднього перегляду для мобільних пристроїв.",
       "ScreenReaderMobilePreviewEntered": "Ви перейшли до засобу попереднього перегляду для мобільних пристроїв. Якщо потрібно переглянути іншу сторінку, введіть URL-адресу у відповідному текстовому полі. Щоб закрити засіб і повернутися до Workbench, натисніть клавішу Esc.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Натисніть клавішу Enter, щоб вибрати цей пристрій.",
       "Width": "Ширина",
       "Height": "Висота"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Попередження",
+      "SubText": "Веб-частина не відображатиметься в наборі інструментів. Переконайтеся, що \"gulp serve\" працює в проекті веб-частини. Оновіть сторінку після запуску \"gulp serve\".",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Клацніть ",
+      "ClickHereLink": "тут",
+      "ClickHereSuffix": ", щоб отримати докладні відомості."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Дані веб-частини",

@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Fehler beim Abrufen von Webparts mit Fehler \"{0}\". Das Rendern einer zwischengespeicherten Workbench schlägt eventuell fehl."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Warnung",
-      "SubText": "Ihr Webpart wird nicht in der Toolbox angezeigt. Stellen Sie sicher, dass \"gulp serve\" in einem Webpartprojekt ausgeführt wird. Aktualisieren Sie die Seite, sobald \"gulp serve\" ausgeführt wird.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klicken ",
-      "ClickHereLink": "hier",
-      "ClickHereSuffix": " um weitere Informationen zu erhalten."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Geben Sie eine URL ein, um im mobilen Vorschautool anzuzeigen.",
       "ScreenReaderMobilePreviewEntered": "Sie haben das mobile Vorschautool geöffnet. Wenn Sie die Vorschau einer anderen Seite anzeigen möchten, geben Sie die URL in das Textfeld \"URL\" ein. Um das Tool zu schließen und zur Workbench zurückzukehren, drücken Sie ESC.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Drücken Sie die EINGABETASTE, um dieses Gerät auszuwählen.",
       "Width": "Breite",
       "Height": "Höhe"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Warnung",
+      "SubText": "Ihr Webpart wird nicht in der Toolbox angezeigt. Stellen Sie sicher, dass \"gulp serve\" in einem Webpartprojekt ausgeführt wird. Aktualisieren Sie die Seite, sobald \"gulp serve\" ausgeführt wird.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klicken ",
+      "ClickHereLink": "hier",
+      "ClickHereSuffix": " um weitere Informationen zu erhalten."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Webpartdaten",

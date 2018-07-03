@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "การดึงข้อมูล Webpart ล้มเหลว โดยมีข้อผิดพลาด \"{0}\" การแสดงผลเวิร์กเบนช์ที่แคชไว้อาจล้มเหลว"
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "คำเตือน",
-      "SubText": "Web Part ของคุณจะไม่ปรากฏในกล่องเครื่องมือ โปรดตรวจสอบให้แน่ใจว่า \"gulp serve\" กำลังทำงานอยู่ในโครงการ Web Part และโปรดรีเฟรชหน้าเมื่อ \"gulp serve\" ทำงานแล้ว",
-      "OkButtonText": "ตกลง",
-      "ClickHerePrefix": "คลิก ",
-      "ClickHereLink": "ที่นี่",
-      "ClickHereSuffix": " สำหรับข้อมูลเพิ่มเติม"
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "ใส่ URL ที่จะดูในเครื่องมือแสดงตัวอย่างแบบอุปกรณ์เคลื่อนที่",
       "ScreenReaderMobilePreviewEntered": "คุณได้ใส่เครื่องมือแสดงตัวอย่างแบบอุปกรณ์เคลื่อนที่ ถ้าคุณต้องการแสดงตัวอย่างเพจอื่น ให้ป้อน URL ลงในเขตข้อมูลข้อความ URL เมื่อต้องการปิดเครื่องมือนี้และกลับไปยังบนเวิร์กเบนช์ ให้กด Escape",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "กด Enter เพื่อเลือกอุปกรณ์นี้",
       "Width": "ความกว้าง",
       "Height": "ความสูง"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "คำเตือน",
+      "SubText": "Web Part ของคุณจะไม่ปรากฏในกล่องเครื่องมือ โปรดตรวจสอบให้แน่ใจว่า \"gulp serve\" กำลังทำงานอยู่ในโครงการ Web Part และโปรดรีเฟรชหน้าเมื่อ \"gulp serve\" ทำงานแล้ว",
+      "OkButtonText": "ตกลง",
+      "ClickHerePrefix": "คลิก ",
+      "ClickHereLink": "ที่นี่",
+      "ClickHereSuffix": " สำหรับข้อมูลเพิ่มเติม"
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "ข้อมูล Web Part ",

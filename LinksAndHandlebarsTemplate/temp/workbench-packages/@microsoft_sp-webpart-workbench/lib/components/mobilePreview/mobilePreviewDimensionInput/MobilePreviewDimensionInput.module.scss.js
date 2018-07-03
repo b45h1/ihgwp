@@ -1,9 +1,9 @@
 require('./MobilePreviewDimensionInput.module.css');
 var styles = {
-    xField: 'xField_ac708d6d',
-    yField: 'yField_ac708d6d',
-    mobilePreviewTextfieldXY: 'mobilePreviewTextfieldXY_ac708d6d',
-    xyTextfields: 'xyTextfields_ac708d6d',
-    xyLabels: 'xyLabels_ac708d6d',
+    xField: 'xField_98088b94',
+    yField: 'yField_98088b94',
+    mobilePreviewTextfieldXY: 'mobilePreviewTextfieldXY_98088b94',
+    xyTextfields: 'xyTextfields_98088b94',
+    xyLabels: 'xyLabels_98088b94',
 };
 export default styles;

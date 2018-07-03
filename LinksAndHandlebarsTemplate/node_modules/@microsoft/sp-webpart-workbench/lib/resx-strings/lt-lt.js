@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Puslapio dalių gavimas baigtas gavus klaidą: {0}. Gali nepavykti nuskaityti išsaugotos darbo srities."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Įspėjimas",
-      "SubText": "Jūsų puslapio dalis nebus rodoma įrankių rinkinyje. Įsitikinkite, kad puslapio dalies projekte veikia „gulp serve“. Atnaujinkite puslapį, kai „gulp serve“ veiks.",
-      "OkButtonText": "Gerai",
-      "ClickHerePrefix": "Spustelėkite",
-      "ClickHereLink": "čia",
-      "ClickHereSuffix": " norėdami gauti daugiau informacijos."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Įveskite URL, jei norite peržiūrėti mobiliosios prieigos peržiūros įrankyje.",
       "ScreenReaderMobilePreviewEntered": "Jūs naudojate mobiliosios prieigos peržiūros įrankį. Jei norite peržiūrėti kitą puslapį, URL teksto lauke įveskite URL. Norėdami uždaryti įrankį ir grįžti į darbo sritį, paspauskite Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Norėdami pasirinkti šį prietaisą, paspauskite Enter.",
       "Width": "Plotis",
       "Height": "Aukštis"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Įspėjimas",
+      "SubText": "Jūsų puslapio dalis nebus rodoma įrankių rinkinyje. Įsitikinkite, kad puslapio dalies projekte veikia „gulp serve“. Atnaujinkite puslapį, kai „gulp serve“ veiks.",
+      "OkButtonText": "Gerai",
+      "ClickHerePrefix": "Spustelėkite",
+      "ClickHereLink": "čia",
+      "ClickHereSuffix": " norėdami gauti daugiau informacijos."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Puslapio dalies duomenys",

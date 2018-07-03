@@ -1,9 +1,9 @@
 require('./PerformanceGraphItem.module.css');
 var styles = {
-    bar: 'bar_7ff536c6',
-    tableRowPerfList: 'tableRowPerfList_7ff536c6',
-    tableRowBottomLight: 'tableRowBottomLight_7ff536c6',
-    tableRowRightLight: 'tableRowRightLight_7ff536c6',
-    tdDelimiter: 'tdDelimiter_7ff536c6',
+    bar: 'bar_59f415b2',
+    tableRowPerfList: 'tableRowPerfList_59f415b2',
+    tableRowBottomLight: 'tableRowBottomLight_59f415b2',
+    tableRowRightLight: 'tableRowRightLight_59f415b2',
+    tdDelimiter: 'tdDelimiter_59f415b2',
 };
 export default styles;

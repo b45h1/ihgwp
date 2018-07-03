@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Извличането на уеб части е неуспешно с грешка \"{0}\". Възможно е рендирането на кеширана работна област да е неуспешно."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Предупреждение",
-      "SubText": "Вашата уеб част няма да се появи в кутията с инструменти. Уверете се, че \"gulp serve\" се изпълнява в проекта на уеб частта. Обновете страницата, след като \"gulp serve\" започне да се изпълнява.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Щракнете ",
-      "ClickHereLink": "тук",
-      "ClickHereSuffix": " за повече информация."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Въведете URL адрес за преглед в инструмента за мобилен преглед.",
       "ScreenReaderMobilePreviewEntered": "Влязохте в инструмента за мобилен преглед. Ако искате да визуализирате друга страница, въведете URL адреса в текстовото поле за URL адрес. За да затворите инструмента и да се върнете към работната област, натиснете Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Натиснете Enter, за да изберете това устройство.",
       "Width": "Ширина",
       "Height": "Височина"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Предупреждение",
+      "SubText": "Вашата уеб част няма да се появи в кутията с инструменти. Уверете се, че \"gulp serve\" се изпълнява в проекта на уеб частта. Обновете страницата, след като \"gulp serve\" започне да се изпълнява.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Щракнете ",
+      "ClickHereLink": "тук",
+      "ClickHereSuffix": " за повече информация."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Данни на уеб част",

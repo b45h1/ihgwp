@@ -1,5 +1,5 @@
 require('./SerializedWebPart.module.css');
 var styles = {
-    serializedWebPartItem: 'serializedWebPartItem_eefeedf6',
+    serializedWebPartItem: 'serializedWebPartItem_65922bc8',
 };
 export default styles;

@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Mae’r broses o nôl rhannau gwe wedi methu gyda’r gwall \"{0}\". Efallai bydd rendro mainc gwaith sydd wedi’i storio yn methu."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Rhybudd",
-      "SubText": "Fydd eich rhan gwe ddim yn ymddangos yn y blwch offer hwn. Gwnewch yn siŵr fod “gulp serve” yn rhedeg mewn prosiect rhan gwe. Adnewyddwch y dudalen unwaith y mae “gulp serve” yn rhedeg.",
-      "OkButtonText": "Iawn",
-      "ClickHerePrefix": "Cliciwch ",
-      "ClickHereLink": "yma",
-      "ClickHereSuffix": " am fwy o wybodaeth."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Rhowch URL i weld yn yr Offeryn Rhagolwg Symudol.",
       "ScreenReaderMobilePreviewEntered": "Rydych chi wedi mynd i mewn i’r Offeryn Rhagolwg Symudol. Os ydych chi am gael rhagolwg o dudalen wahanol, rhowch yr URL yn y maes testun URL. I gau’r offeryn a mynd yn ôl i Workbench, pwyswch Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pwyswch Enter i ddewis y ddyfais hon.",
       "Width": "Lled",
       "Height": "Uchder"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Rhybudd",
+      "SubText": "Fydd eich rhan gwe ddim yn ymddangos yn y blwch offer hwn. Gwnewch yn siŵr fod “gulp serve” yn rhedeg mewn prosiect rhan gwe. Adnewyddwch y dudalen unwaith y mae “gulp serve” yn rhedeg.",
+      "OkButtonText": "Iawn",
+      "ClickHerePrefix": "Cliciwch ",
+      "ClickHereLink": "yma",
+      "ClickHereSuffix": " am fwy o wybodaeth."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Data Rhan Gwe",

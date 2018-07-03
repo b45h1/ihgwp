@@ -2,25 +2,25 @@
   "_args": [
     [
       {
-        "raw": "@microsoft/sp-webpart-workbench@~1.5.0",
+        "raw": "@microsoft/sp-webpart-workbench@~1.5.1",
         "scope": "@microsoft",
         "escapedName": "@microsoft%2fsp-webpart-workbench",
         "name": "@microsoft/sp-webpart-workbench",
-        "rawSpec": "~1.5.0",
-        "spec": ">=1.5.0 <1.6.0",
+        "rawSpec": "~1.5.1",
+        "spec": ">=1.5.1 <1.6.0",
         "type": "range"
       },
       "C:\\_noEntry\\spfx\\LinksAndHandlebarsTemplate"
     ]
   ],
-  "_from": "@microsoft/sp-webpart-workbench@>=1.5.0 <1.6.0",
-  "_id": "@microsoft/sp-webpart-workbench@1.5.0",
+  "_from": "@microsoft/sp-webpart-workbench@>=1.5.1 <1.6.0",
+  "_id": "@microsoft/sp-webpart-workbench@1.5.1",
   "_inCache": true,
   "_location": "/@microsoft/sp-webpart-workbench",
   "_nodeVersion": "6.9.5",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/sp-webpart-workbench_1.5.0_1528221684773_0.27503626618238464"
+    "tmp": "tmp/sp-webpart-workbench_1.5.1_1530040105596_0.4049068339756512"
   },
   "_npmUser": {
     "name": "odspnpm",
@@ -31,34 +31,34 @@
     "fbjs": "0.8.17"
   },
   "_requested": {
-    "raw": "@microsoft/sp-webpart-workbench@~1.5.0",
+    "raw": "@microsoft/sp-webpart-workbench@~1.5.1",
     "scope": "@microsoft",
     "escapedName": "@microsoft%2fsp-webpart-workbench",
     "name": "@microsoft/sp-webpart-workbench",
-    "rawSpec": "~1.5.0",
-    "spec": ">=1.5.0 <1.6.0",
+    "rawSpec": "~1.5.1",
+    "spec": ">=1.5.1 <1.6.0",
     "type": "range"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "https://registry.npmjs.org/@microsoft/sp-webpart-workbench/-/sp-webpart-workbench-1.5.0.tgz",
-  "_shasum": "6ac393921ae89551dd4029c3f5f00294ab367c35",
+  "_resolved": "https://registry.npmjs.org/@microsoft/sp-webpart-workbench/-/sp-webpart-workbench-1.5.1.tgz",
+  "_shasum": "a552a439e60cc8d847b1b2e170109ef6701be01f",
   "_shrinkwrap": null,
-  "_spec": "@microsoft/sp-webpart-workbench@~1.5.0",
+  "_spec": "@microsoft/sp-webpart-workbench@~1.5.1",
   "_where": "C:\\_noEntry\\spfx\\LinksAndHandlebarsTemplate",
   "dependencies": {
     "@microsoft/gulp-core-build-serve": "3.2.26",
     "@microsoft/node-core-library": "1.2.0",
-    "@microsoft/office-ui-fabric-react-bundle": "1.5.0",
-    "@microsoft/sp-application-base": "1.5.0",
-    "@microsoft/sp-build-core-tasks": "1.5.0",
-    "@microsoft/sp-client-preview": "1.5.0",
-    "@microsoft/sp-core-library": "1.5.0",
-    "@microsoft/sp-loader": "1.5.0",
-    "@microsoft/sp-lodash-subset": "1.5.0",
-    "@microsoft/sp-module-interfaces": "1.5.0",
-    "@microsoft/sp-webpart-base": "1.5.0",
+    "@microsoft/office-ui-fabric-react-bundle": "1.5.1",
+    "@microsoft/sp-application-base": "1.5.1",
+    "@microsoft/sp-build-core-tasks": "1.5.1",
+    "@microsoft/sp-client-preview": "1.5.1",
+    "@microsoft/sp-core-library": "1.5.1",
+    "@microsoft/sp-loader": "1.5.1",
+    "@microsoft/sp-lodash-subset": "1.5.1",
+    "@microsoft/sp-module-interfaces": "1.5.1",
+    "@microsoft/sp-webpart-base": "1.5.1",
     "@types/es6-promise": "0.0.33",
     "@types/fs-extra": "0.0.37",
     "@types/react": "15.6.6",
@@ -76,8 +76,8 @@
     "@ms/i18n-utilities": "~0.0.2",
     "@ms/odsp-utilities-bundle": "1.1.9",
     "@ms/sp-a11y": "~0.0.5",
-    "@ms/sp-build-internal-tasks": "~0.7.27",
-    "@ms/sp-build-internal-web": "~0.16.13",
+    "@ms/sp-build-internal-tasks": "~0.7.30",
+    "@ms/sp-build-internal-web": "~0.16.16",
     "@ms/sp-canvas": "~1.1.1",
     "@ms/sp-canvas-toolbox": "~1.0.0",
     "@ms/sp-load-themed-styles": "~0.1.2",
@@ -92,11 +92,10 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "6ac393921ae89551dd4029c3f5f00294ab367c35",
-    "tarball": "https://registry.npmjs.org/@microsoft/sp-webpart-workbench/-/sp-webpart-workbench-1.5.0.tgz",
+    "shasum": "a552a439e60cc8d847b1b2e170109ef6701be01f",
+    "tarball": "https://registry.npmjs.org/@microsoft/sp-webpart-workbench/-/sp-webpart-workbench-1.5.1.tgz",
     "fileCount": 235,
-    "unpackedSize": 11911116,
-    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbFs/1CRA9TVsSAnZWagAA+PMQAJc4hQ2KND1+NgfQDh8t\nwHHXTW4ND5+8MEAzGmKRFfV9LAs00vU0+4hzVHN2RPnObcQFi6r431PKvgd3\nr3EXWBBUogNufeWuaxfOCO1+izDDMY2FrKojBFrZ47XxHjuO41PPPuDVWHqr\n4AkwyHuL4YVSpGKteOggX3TQecCkQ8f/b+mhwKfN9iI16okZ1LhF6MUUm9b+\nj44c6qCbAaHVJ/IUl7aPRG9IWuvC9d4L9XR11azAS9UsaN1H2qZhaGVQTveJ\nUDYB9KkR9/1Sd+47YRhJKyiCA9HB0Up6qG59Zxz3C6hj7EJaE4BSOYAw7YWg\nqniQ8wCK5O6Un2EEfzonoVE4M0aY8lR69+9NMP0nGb6CZXllflhUuiaEK/EE\n/dMeA8jr7mzIZ7D/2QD7xRi+DfIq2S04DU0pBmf6nGX+imIFNJtuxBHaZsuL\n75+IxuBE1XUhTiEZ4WzbBXzH/ykep4kbdvQwtPYmIyJ9K8a213runAxijbIh\n9odrmrXTvS2qzj0HEByQnvauaKlwRbbTuvgR8SX0YUOimyOu27wmmmCGEl8J\nbKe/I6SZrTg0EKvqgd9eVK5PQQTJTeLTwvTY2G+ape1zk1ewCzSByLLN4Cpz\nYKz2dNXT8OqN9mfzR0MWP0KbNgAOZmmMjehjLlU8MVJ5r73BKc9xA5xH7pie\nelZl\r\n=gEfU\r\n-----END PGP SIGNATURE-----\r\n"
+    "unpackedSize": 11914044
   },
   "engines": {
     "node": ">=0.10.0"
@@ -120,5 +119,5 @@
   "scripts": {
     "build": "gulp test --clean"
   },
-  "version": "1.5.0"
+  "version": "1.5.1"
 }

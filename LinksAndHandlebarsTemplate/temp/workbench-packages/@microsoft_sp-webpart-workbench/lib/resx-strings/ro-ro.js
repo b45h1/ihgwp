@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Preluarea părților web nu a reușit, eroare „{0}”. Redarea unui workbench din cache este posibil să nu reușească."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Avertisment",
-      "SubText": "Partea web nu va apărea în caseta de instrumente. Asigurați-vă că „gulp serve” rulează într-un proiect de parte web. Reîmprospătați pagina după ce „gulp serve” rulează.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Faceți clic ",
-      "ClickHereLink": "aici",
-      "ClickHereSuffix": " pentru mai multe informații."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Introduceți un URL pentru a vizualiza instrumentul Previzualizare mobilă.",
       "ScreenReaderMobilePreviewEntered": "Ați accesat instrumentul Previzualizare mobilă. Dacă doriți să previzualizați o altă pagină, introduceți adresa URL în câmpul de text URL. Pentru a închide instrumentul și a reveni la bancul de lucru, apăsați pe Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Apăsați pe Enter pentru a alege acest dispozitiv.",
       "Width": "Lățime",
       "Height": "Înălțime"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Avertisment",
+      "SubText": "Partea web nu va apărea în caseta de instrumente. Asigurați-vă că „gulp serve” rulează într-un proiect de parte web. Reîmprospătați pagina după ce „gulp serve” rulează.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Faceți clic ",
+      "ClickHereLink": "aici",
+      "ClickHereSuffix": " pentru mai multe informații."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Date parte web",

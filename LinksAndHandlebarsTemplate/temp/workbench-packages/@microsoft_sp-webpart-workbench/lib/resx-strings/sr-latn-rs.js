@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Dobavljanje veb segmenata nije uspelo uz grešku „{0}“. Prikazivanje keširanog radnog prostora možda neće uspeti."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Upozorenje",
-      "SubText": "Vaš veb segment se neće pojaviti u okviru sa alatkama. Uverite se da je „gulp serve“ pokrenut u projektu veb segmenta. Osvežite stranicu kada se „gulp serve“ pokrene.",
-      "OkButtonText": "U redu",
-      "ClickHerePrefix": "Kliknite ",
-      "ClickHereLink": "ovde",
-      "ClickHereSuffix": " za više informacija."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Unesite URL adresu za prikaz u alatki za pregled na mobilnom uređaju.",
       "ScreenReaderMobilePreviewEntered": "Ušli ste u alatku za pregled na mobilnom uređaju. Ako želite da pregledate neku drugu stranicu, unesite URL adresu u tekstualno polje „URL adresa“. Da biste zatvorili alatku i vratili se u Workbench, pritisnite Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pritisnite Enter da biste odabrali ovaj uređaj.",
       "Width": "Širina",
       "Height": "Visina"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Upozorenje",
+      "SubText": "Vaš veb segment se neće pojaviti u okviru sa alatkama. Uverite se da je „gulp serve“ pokrenut u projektu veb segmenta. Osvežite stranicu kada se „gulp serve“ pokrene.",
+      "OkButtonText": "U redu",
+      "ClickHerePrefix": "Kliknite ",
+      "ClickHereLink": "ovde",
+      "ClickHereSuffix": " za više informacija."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Podaci veb segmenta",

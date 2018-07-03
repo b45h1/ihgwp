@@ -2,25 +2,25 @@
   "_args": [
     [
       {
-        "raw": "@microsoft/sp-loader@1.5.0",
+        "raw": "@microsoft/sp-loader@1.5.1",
         "scope": "@microsoft",
         "escapedName": "@microsoft%2fsp-loader",
         "name": "@microsoft/sp-loader",
-        "rawSpec": "1.5.0",
-        "spec": "1.5.0",
+        "rawSpec": "1.5.1",
+        "spec": "1.5.1",
         "type": "version"
       },
       "C:\\_noEntry\\spfx\\LinksAndHandlebarsTemplate\\node_modules\\@microsoft\\sp-webpart-base"
     ]
   ],
-  "_from": "@microsoft/sp-loader@1.5.0",
-  "_id": "@microsoft/sp-loader@1.5.0",
+  "_from": "@microsoft/sp-loader@1.5.1",
+  "_id": "@microsoft/sp-loader@1.5.1",
   "_inCache": true,
   "_location": "/@microsoft/sp-loader",
   "_nodeVersion": "6.9.5",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/sp-loader_1.5.0_1528221606576_0.13131070389690813"
+    "tmp": "tmp/sp-loader_1.5.1_1530040052305_0.6946221187114248"
   },
   "_npmUser": {
     "name": "odspnpm",
@@ -29,16 +29,16 @@
   "_npmVersion": "4.5.0",
   "_phantomChildren": {
     "@uifabric/merge-styles": "5.17.1",
-    "prop-types": "15.6.1",
+    "prop-types": "15.6.2",
     "tslib": "1.8.1"
   },
   "_requested": {
-    "raw": "@microsoft/sp-loader@1.5.0",
+    "raw": "@microsoft/sp-loader@1.5.1",
     "scope": "@microsoft",
     "escapedName": "@microsoft%2fsp-loader",
     "name": "@microsoft/sp-loader",
-    "rawSpec": "1.5.0",
-    "spec": "1.5.0",
+    "rawSpec": "1.5.1",
+    "spec": "1.5.1",
     "type": "version"
   },
   "_requiredBy": [
@@ -49,22 +49,22 @@
     "/@microsoft/sp-webpart-workbench",
     "/sp-client-custom-fields"
   ],
-  "_resolved": "https://registry.npmjs.org/@microsoft/sp-loader/-/sp-loader-1.5.0.tgz",
-  "_shasum": "59a9a40366e4241dd0b8e4cf57810e90ac301c75",
+  "_resolved": "https://registry.npmjs.org/@microsoft/sp-loader/-/sp-loader-1.5.1.tgz",
+  "_shasum": "dfca36ec39cfbaf9c68dee23ea0a54b4ebdc47ca",
   "_shrinkwrap": null,
-  "_spec": "@microsoft/sp-loader@1.5.0",
+  "_spec": "@microsoft/sp-loader@1.5.1",
   "_where": "C:\\_noEntry\\spfx\\LinksAndHandlebarsTemplate\\node_modules\\@microsoft\\sp-webpart-base",
   "dependencies": {
-    "@microsoft/office-ui-fabric-react-bundle": "1.5.0",
-    "@microsoft/sp-core-library": "1.5.0",
-    "@microsoft/sp-diagnostics": "1.5.0",
-    "@microsoft/sp-dynamic-data": "1.5.0",
-    "@microsoft/sp-http": "1.5.0",
-    "@microsoft/sp-lodash-subset": "1.5.0",
-    "@microsoft/sp-module-interfaces": "1.5.0",
-    "@microsoft/sp-odata-types": "1.5.0",
-    "@microsoft/sp-page-context": "1.5.0",
-    "@microsoft/sp-polyfills": "1.5.0",
+    "@microsoft/office-ui-fabric-react-bundle": "1.5.1",
+    "@microsoft/sp-core-library": "1.5.1",
+    "@microsoft/sp-diagnostics": "1.5.1",
+    "@microsoft/sp-dynamic-data": "1.5.1",
+    "@microsoft/sp-http": "1.5.1",
+    "@microsoft/sp-lodash-subset": "1.5.1",
+    "@microsoft/sp-module-interfaces": "1.5.1",
+    "@microsoft/sp-odata-types": "1.5.1",
+    "@microsoft/sp-page-context": "1.5.1",
+    "@microsoft/sp-polyfills": "1.5.1",
     "@types/es6-promise": "0.0.33",
     "@types/node": "8.5.8",
     "@types/react": "15.6.6",
@@ -81,10 +81,10 @@
   "devDependencies": {
     "@microsoft/loader-raw-script": "1.2.34",
     "@microsoft/resolve-chunk-plugin": "1.0.18",
-    "@microsoft/sp-diagnostics": "1.5.0",
+    "@microsoft/sp-diagnostics": "1.5.1",
     "@ms/react-bundle": "~15.6.2",
     "@ms/react-dom-bundle": "~15.6.2",
-    "@ms/sp-build-internal-web": "~0.16.13",
+    "@ms/sp-build-internal-web": "~0.16.16",
     "@ms/sp-load-themed-styles": "~0.1.2",
     "@ms/sp-telemetry": "~0.2.2",
     "@types/chai": "3.4.34",
@@ -101,11 +101,10 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "59a9a40366e4241dd0b8e4cf57810e90ac301c75",
-    "tarball": "https://registry.npmjs.org/@microsoft/sp-loader/-/sp-loader-1.5.0.tgz",
+    "shasum": "dfca36ec39cfbaf9c68dee23ea0a54b4ebdc47ca",
+    "tarball": "https://registry.npmjs.org/@microsoft/sp-loader/-/sp-loader-1.5.1.tgz",
     "fileCount": 351,
-    "unpackedSize": 9324229,
-    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbFs+nCRA9TVsSAnZWagAAn2UP/RapHc1mjmvDqbKk8G7k\nNAlXJsbXOqcaNmQwA6V1FRCtnaGnvRNFR5VDpo2q9cDwWfAqyXvQ0Ymgl7M8\nkmqQdUXJynwIccjtg2OrjMdMxhe5HLWCz/f+cyiRBn0jJFU1VuZkAK+4lJnz\nZ7oSWJjBIxKUlgTVnIACtK10G7eGDiK5l2CVmuszFu0WuRqmuuEdeGou6e0V\nRfR0YThVBrakx1KIIm1EXUeLJGwYKQf5U2zJpfSXhnkc6zCSBlSc+SiZMViS\nQcgloSMUNQQRiFitNrrYc4VcNTXJfe7cpv5ZdiYlcQbVG53WQBNnYOgiUj1g\nvAJ0YD7n6jLc+82Ixl4++s0XM/kvYd2L4BEOe4BEWIOAV5vFtHcqzWY8OGVJ\ne6X+OGEwQQX1jgyfE1bPHvDLXaLBuJki7pgUy9QbrsBHNQj5Y2VB9BDRUY/9\nV55t5UnXGmu9HH+9m1uJbCPczgfK7At2GKtx1zG8qM80D+2YjjDzvqQTvhAF\nRZ4/tFWj15ACus0XV99JskpwSwik3qWD1nf6osZVmYk6Gw3sDYOmuUrkaVrc\n7xneMmevGi5NH4LXyTrCP+ztQYrdMTgFSeLfJsarLA5NrwUtgSkV5G28FMjc\nqrR3do/wgx2l+bf7caB4JEv5Jfw8mgNXCqAHaqqfQ06rXJuO913vVWxgRq90\n4RZy\r\n=LrYC\r\n-----END PGP SIGNATURE-----\r\n"
+    "unpackedSize": 9325013
   },
   "engines": {
     "node": ">=0.10.0"
@@ -133,5 +132,5 @@
     "tsdocFlavor": "AEDoc"
   },
   "typings": "dist/index-internal.d.ts",
-  "version": "1.5.0"
+  "version": "1.5.1"
 }

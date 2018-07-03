@@ -2,6 +2,21 @@
   "name": "@microsoft/sp-webpart-workbench",
   "entries": [
     {
+      "version": "1.5.1",
+      "tag": "@microsoft/sp-webpart-workbench_v1.5.1",
+      "date": "Tue, 26 Jun 2018 14:50:55 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@ms/sp-build-internal-web\" from `~0.16.15` to `~0.16.16`"
+          },
+          {
+            "comment": "Updating dependency \"@ms/sp-build-internal-tasks\" from `~0.7.29` to `~0.7.30`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.5.0",
       "tag": "@microsoft/sp-webpart-workbench_v1.5.0",
       "date": "Fri, 01 Jun 2018 18:13:37 GMT",

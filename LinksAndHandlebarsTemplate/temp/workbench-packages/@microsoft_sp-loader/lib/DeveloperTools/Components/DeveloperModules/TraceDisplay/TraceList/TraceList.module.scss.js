@@ -1,6 +1,6 @@
 require('./TraceList.module.css');
 var styles = {
-    container: 'container_00d2496b',
-    traceListItemsContainer: 'traceListItemsContainer_00d2496b',
+    container: 'container_f298c75f',
+    traceListItemsContainer: 'traceListItemsContainer_f298c75f',
 };
 export default styles;

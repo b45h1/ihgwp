@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "\"{0}\" त्रुटि वाले विफल वेबपार्ट्स ला रहा है. किसी कैशेड वर्कबेंच को रेंडर करना विफल हो सकता है."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "चेतावनी",
-      "SubText": "आपका वेब पार्ट उपकरण बॉक्स में प्रकट नहीं होगा. कृपया सुनिश्चित करें कि \"gulp serve\" वेब पार्ट प्रोजेक्ट में चल रहा है. कृपया \"gulp serve\" चलने के बाद पृष्ठ ताज़ा करें.",
-      "OkButtonText": "ठीक",
-      "ClickHerePrefix": "क्लिक करें ",
-      "ClickHereLink": "यहाँ",
-      "ClickHereSuffix": " अधिक जानकारी के लिए."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "मोबाइल पूर्वावलोकन उपकरण में देखने के लिए कोई URL दर्ज करें.",
       "ScreenReaderMobilePreviewEntered": "आपने मोबाइल पूर्वावलोकन उपकरण में प्रवेश किया है. अगर आप किसी भिन्न पृष्ठ का पूर्वावलोकन करना चाहते हैं, तो URL पाठ फ़ील्ड में URL दर्ज करें. उपकरण बंद करने और वर्कबेंच पर वापस जाने के लिए Escape दबाएँ.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "यह डिवाइस चुनने के लिए Enter दबाएँ.",
       "Width": "चौड़ाई",
       "Height": "ऊँचाई"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "चेतावनी",
+      "SubText": "आपका वेब पार्ट उपकरण बॉक्स में प्रकट नहीं होगा. कृपया सुनिश्चित करें कि \"gulp serve\" वेब पार्ट प्रोजेक्ट में चल रहा है. कृपया \"gulp serve\" चलने के बाद पृष्ठ ताज़ा करें.",
+      "OkButtonText": "ठीक",
+      "ClickHerePrefix": "क्लिक करें ",
+      "ClickHereLink": "यहाँ",
+      "ClickHereSuffix": " अधिक जानकारी के लिए."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "वेब पार्ट डेटा",

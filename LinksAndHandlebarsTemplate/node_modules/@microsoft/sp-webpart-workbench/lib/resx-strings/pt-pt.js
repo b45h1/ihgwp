@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Falha ao obter as peças Web com o erro \"{0}\". A composição de um Workbench em cache poderá falhar."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Aviso",
-      "SubText": "A sua peça Web não será apresentada na caixa de ferramentas. Certifique-se de que \"gulp serve\" está em execução num projeto de peça Web. Atualize a página quando \"gulp serve\" estiver em execução.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Clique ",
-      "ClickHereLink": "aqui",
-      "ClickHereSuffix": " para saber mais informações."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Introduza um URL para o ver na Ferramenta de Pré-visualização.",
       "ScreenReaderMobilePreviewEntered": "Entrou na Ferramenta de Pré-visualização. Se quiser pré-visualizar uma página diferente, introduza o URL no campo de texto URL. Para fechar a ferramenta e regressar ao Workbench, prima a tecla Esc.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Prima Enter para escolher este dispositivo.",
       "Width": "Largura",
       "Height": "Altura"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Aviso",
+      "SubText": "A sua peça Web não será apresentada na caixa de ferramentas. Certifique-se de que \"gulp serve\" está em execução num projeto de peça Web. Atualize a página quando \"gulp serve\" estiver em execução.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Clique ",
+      "ClickHereLink": "aqui",
+      "ClickHereSuffix": " para saber mais informações."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dados da Peça Web",

@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Hentning af webdele mislykkedes med fejlen \"{0}\". Gengivelse af en cachelagret workbench kan mislykkes."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Advarsel",
-      "SubText": "Webdelen vises ikke i værktøjskassen. Kontrollér, at \"gulp serve\" kører i et webdelsprojekt. Opdater siden én gang, når \"gulp serve\" kører.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klik på ",
-      "ClickHereLink": "her",
-      "ClickHereSuffix": " for at få flere oplysninger."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Angiv en URL-adresse, der skal vises i mobilværktøjet til eksempelvisning.",
       "ScreenReaderMobilePreviewEntered": "Du har åbnet værktøjet til eksempelvisning på mobilenhed. Hvis du vil have vist en anden side, kan du angive URL-adressen i URL-tekstfeltet. Tryk på ESC for at lukke værktøjet og gå tilbage til Workbench.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Tryk på Enter for at vælge denne enhed.",
       "Width": "Bredde",
       "Height": "Højde"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Advarsel",
+      "SubText": "Webdelen vises ikke i værktøjskassen. Kontrollér, at \"gulp serve\" kører i et webdelsprojekt. Opdater siden én gang, når \"gulp serve\" kører.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klik på ",
+      "ClickHereLink": "her",
+      "ClickHereSuffix": " for at få flere oplysninger."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Webdeldata",

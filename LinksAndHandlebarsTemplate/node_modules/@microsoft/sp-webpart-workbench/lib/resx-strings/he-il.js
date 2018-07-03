@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "הבאת רכיבי Web Part נכשלה עם השגיאה \"{0}\". העיבוד של Workbench המאוחסן במטמון עלול להיכשל."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "אזהרה",
-      "SubText": "ה- Web Part שלך לא יופיע בארגז הכלים. ודא ש- \"gulp serve\" פועל בפרוייקט Web Part. רענן את הדף לאחר הפעלת \"gulp serve\".",
-      "OkButtonText": "אישור",
-      "ClickHerePrefix": "לחץ ",
-      "ClickHereLink": "כאן",
-      "ClickHereSuffix": " לקבלת מידע נוסף."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "הזן כתובת URL כדי להציג בכלי התצוגה המקדימה הניידת.",
       "ScreenReaderMobilePreviewEntered": "נכנסת לכלי התצוגה המקדימה הניידת. אם ברצונך להציג דף אחר בתצוגה מקדימה, הזן את כתובת ה- URL בשדה הטקסט של כתובת ה- URL. כדי לסגור את הכלי ולחזור ל- Workbench, הקש Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "הקש Enter כדי לבחור מכשיר זה.",
       "Width": "רוחב",
       "Height": "גובה"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "אזהרה",
+      "SubText": "ה- Web Part שלך לא יופיע בארגז הכלים. ודא ש- \"gulp serve\" פועל בפרוייקט Web Part. רענן את הדף לאחר הפעלת \"gulp serve\".",
+      "OkButtonText": "אישור",
+      "ClickHerePrefix": "לחץ ",
+      "ClickHereLink": "כאן",
+      "ClickHereSuffix": " לקבלת מידע נוסף."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "נתוני Web Part",

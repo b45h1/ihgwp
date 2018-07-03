@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Dobavljanje web dijelova nije uspjelo uz grešku \"{0}\". Prikazivanje keširanog radnog prostora možda neće uspjeti."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Upozorenje",
-      "SubText": "Vaš web dio se neće pojaviti u okviru s alatima. Provjerite da li je \"gulp serve\" pokrenut u projektu web dijela. Osvježite stranicu kada se \"gulp serve\" pokrene.",
-      "OkButtonText": "Uredu",
-      "ClickHerePrefix": "Kliknite ",
-      "ClickHereLink": "ovdje",
-      "ClickHereSuffix": " za više informacija."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Unesite URL koji želite pogledati u alatu za pregled na mobilnim uređajima.",
       "ScreenReaderMobilePreviewEntered": "Otvorili ste alat za pregled na mobilnim uređajima. Ako želite pregledati neku drugu stranicu, unesite URL u polje za tekst URL-a. Da biste zatvorili alat i vratili se u radnu okolinu, pritisnite Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pritisnite Enter da biste odabrali uređaj.",
       "Width": "Širina",
       "Height": "Visina"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Upozorenje",
+      "SubText": "Vaš web dio se neće pojaviti u okviru s alatima. Provjerite da li je \"gulp serve\" pokrenut u projektu web dijela. Osvježite stranicu kada se \"gulp serve\" pokrene.",
+      "OkButtonText": "Uredu",
+      "ClickHerePrefix": "Kliknite ",
+      "ClickHereLink": "ovdje",
+      "ClickHereSuffix": " za više informacija."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Podaci web dijela",

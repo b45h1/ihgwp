@@ -1,6 +1,6 @@
 require('./DebugError.module.css');
 var styles = {
-    detailText: 'detailText_fececa01',
-    errorText: 'errorText_fececa01',
+    detailText: 'detailText_20a5f8d5',
+    errorText: 'errorText_20a5f8d5',
 };
 export default styles;

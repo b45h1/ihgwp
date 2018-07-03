@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Pobieranie składników Web Part nie powiodło się i wystąpił błąd „{0}”. Renderowanie buforowanego środowiska roboczego może się nie powieść."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Ostrzeżenie",
-      "SubText": "Twój składnik Web Part nie będzie wyświetlany w przyborniku. Upewnij się, że element „gulp serve” jest uruchomiony w projekcie składnika Web Part. Odśwież stronę po uruchomieniu elementu „gulp serve”.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Kliknij ",
-      "ClickHereLink": "tutaj",
-      "ClickHereSuffix": ", aby uzyskać więcej informacji."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Wprowadź adres URL, aby wyświetlić zawartość w narzędziu do wyświetlania podglądu na urządzeniach przenośnych.",
       "ScreenReaderMobilePreviewEntered": "Otwarto narzędzie do wyświetlania podglądu na urządzeniach przenośnych. Aby wyświetlić podgląd innej strony, wprowadź adres URL w polu tekstowym adresu URL. Aby zamknąć narzędzie i wrócić do środowiska roboczego, naciśnij klawisz Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Naciśnij klawisz Enter, aby wybrać to urządzenie.",
       "Width": "Szerokość",
       "Height": "Wysokość"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Ostrzeżenie",
+      "SubText": "Twój składnik Web Part nie będzie wyświetlany w przyborniku. Upewnij się, że element „gulp serve” jest uruchomiony w projekcie składnika Web Part. Odśwież stronę po uruchomieniu elementu „gulp serve”.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Kliknij ",
+      "ClickHereLink": "tutaj",
+      "ClickHereSuffix": ", aby uzyskać więcej informacji."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dane składnika Web Part",

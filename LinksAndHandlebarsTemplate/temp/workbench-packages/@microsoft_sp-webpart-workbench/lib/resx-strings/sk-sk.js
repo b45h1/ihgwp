@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Načítanie webových častí zlyhalo s chybou {0}. Vykreslenie Workbenchu vo vyrovnávacej pamäti môže zlyhať."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Upozornenie",
-      "SubText": "Webová časť sa nezobrazí na paneli s nástrojmi. Skontrolujte, či v projekte webovej časti beží gulp serve. Keď sa gulp serve spustí, obnovte stránku.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Po kliknutí ",
-      "ClickHereLink": "sem",
-      "ClickHereSuffix": " získate ďalšie informácie."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Zadajte URL adresu na zobrazenie v nástroji na ukážku pre mobilného klienta.",
       "ScreenReaderMobilePreviewEntered": "Prešli ste do režimu nástroja na ukážku pre mobilného klienta. Ak chcete zobraziť ukážku inej stránky, zadajte jej URL adresu do textového poľa URL adresy. Ak chcete nástroj zavrieť a vrátiť sa na Workbench, stlačte kláves ESC.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Stlačením klávesu Enter vyberte toto zariadenie.",
       "Width": "Šírka",
       "Height": "Výška"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Upozornenie",
+      "SubText": "Webová časť sa nezobrazí na paneli s nástrojmi. Skontrolujte, či v projekte webovej časti beží gulp serve. Keď sa gulp serve spustí, obnovte stránku.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Po kliknutí ",
+      "ClickHereLink": "sem",
+      "ClickHereSuffix": " získate ďalšie informácie."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Údaje webovej časti",

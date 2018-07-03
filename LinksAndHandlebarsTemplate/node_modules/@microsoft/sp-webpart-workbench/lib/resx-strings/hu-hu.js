@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "A kijelzők beolvasása sikertelen (hiba: {0}). A gyorsítótárazott munkaterület megjelenítése sikertelen lehet."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Figyelmeztetés",
-      "SubText": "A kijelző nem fog megjelenni az eszközkészletben. Győződjön meg arról, hogy fut a gulp serve feladat valamely kijelzőprojektben. Ha nem, indítsa el, és frissítse a lapot.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Kattintson ",
-      "ClickHereLink": "ide",
-      "ClickHereSuffix": " további információért."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Írja be a mobilelőnézeti eszközben megtekintendő lap URL-címét.",
       "ScreenReaderMobilePreviewEntered": "Megnyitotta a mobilelőnézeti eszközt. Ha egy másik lap előnézetét szeretné megjeleníteni, írja be az URL-címét az URL-cím szövegmezőbe. Az Esc billentyűvel bezárhatja az eszközt, és visszatérhet a munkaterülethez.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Ha ezt az eszközt szeretné választani, nyomja meg az Enter billentyűt.",
       "Width": "Szélesség",
       "Height": "Magasság"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Figyelmeztetés",
+      "SubText": "A kijelző nem fog megjelenni az eszközkészletben. Győződjön meg arról, hogy fut a gulp serve feladat valamely kijelzőprojektben. Ha nem, indítsa el, és frissítse a lapot.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Kattintson ",
+      "ClickHereLink": "ide",
+      "ClickHereSuffix": " további információért."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Kijelző adatai",

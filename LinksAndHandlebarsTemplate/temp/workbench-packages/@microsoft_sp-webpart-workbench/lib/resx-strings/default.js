@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "FetchFailedError"
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Title",
-      "SubText": "SubText",
-      "OkButtonText": "OkButtonText",
-      "ClickHerePrefix": "ClickHerePrefix",
-      "ClickHereLink": "ClickHereLink",
-      "ClickHereSuffix": "ClickHereSuffix"
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "UrlTextBoxPlaceholder",
       "ScreenReaderMobilePreviewEntered": "ScreenReaderMobilePreviewEntered",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "ScreenReaderDevicePickerSelectionChanged",
       "Width": "Width",
       "Height": "Height"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Title",
+      "SubText": "SubText",
+      "OkButtonText": "OkButtonText",
+      "ClickHerePrefix": "ClickHerePrefix",
+      "ClickHereLink": "ClickHereLink",
+      "ClickHereSuffix": "ClickHereSuffix"
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "WebPartData",

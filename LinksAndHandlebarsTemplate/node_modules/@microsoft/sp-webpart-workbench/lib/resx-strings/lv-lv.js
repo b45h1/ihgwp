@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Tīmekļa daļu ienese neizdevās ar kļūdu {0}. Kešotā rīka atveide var neizdoties."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Brīdinājums",
-      "SubText": "Jūsu tīmekļa daļa rīklodziņā netiks rādīta. Lūdzu, pārliecinieties, vai tīmekļa daļas projektā darbojas \"gulp serve\". Lūdzu, atsvaidziniet lapu, tiklīdz \"gulp serve\" sāk darboties.",
-      "OkButtonText": "Labi",
-      "ClickHerePrefix": "Noklikšķiniet ",
-      "ClickHereLink": "šeit",
-      "ClickHereSuffix": ", lai iegūtu plašāku informāciju."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Ievadiet URL, lai skatītu mobilā priekšskatījuma rīku.",
       "ScreenReaderMobilePreviewEntered": "Esat atvēris mobilā priekšskatījuma rīku. Ja vēlaties priekšskatīt citu lapu, URL teksta laukā ievadiet vietrādi URL. Lai aizvērtu rīku un dotos atpakaļ uz Workbench, nospiediet taustiņu ESC.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Nospiediet taustiņu Enter, lai izvēlētos šo ierīci.",
       "Width": "Platums",
       "Height": "Augstums"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Brīdinājums",
+      "SubText": "Jūsu tīmekļa daļa rīklodziņā netiks rādīta. Lūdzu, pārliecinieties, vai tīmekļa daļas projektā darbojas \"gulp serve\". Lūdzu, atsvaidziniet lapu, tiklīdz \"gulp serve\" sāk darboties.",
+      "OkButtonText": "Labi",
+      "ClickHerePrefix": "Noklikšķiniet ",
+      "ClickHereLink": "šeit",
+      "ClickHereSuffix": ", lai iegūtu plašāku informāciju."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Tīmekļa daļas dati",

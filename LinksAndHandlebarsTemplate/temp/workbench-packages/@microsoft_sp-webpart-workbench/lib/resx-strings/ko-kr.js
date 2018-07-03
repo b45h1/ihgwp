@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "웹 파트를 가져오는 중 다음 오류가 발생했습니다. \"{0}\". 캐시된 워크벤치의 렌더링이 실패할 수 있습니다."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "경고",
-      "SubText": "웹 파트가 도구 상자에 나타나지 않습니다. 웹 파트 프로젝트에서 \"gulp serve\"가 실행되고 있는지 확인하세요. \"gulp serve\"가 실행 중인 경우 페이지를 새로 고치세요.",
-      "OkButtonText": "확인",
-      "ClickHerePrefix": "자세한 내용을 보려면",
-      "ClickHereLink": "여기",
-      "ClickHereSuffix": "를 클릭하세요."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "모바일 미리 보기 도구에서 볼 URL을 입력하세요.",
       "ScreenReaderMobilePreviewEntered": "모바일 미리 보기 도구로 전환했습니다. 다른 페이지를 미리 보려면 URL 텍스트 필드에 URL을 입력하세요. 도구를 닫고 워크벤치로 돌아가려면 &lt;Esc&gt; 키를 누르세요.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "이 장치를 선택하려면 &lt;Enter&gt; 키를 누르세요.",
       "Width": "너비",
       "Height": "높이"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "경고",
+      "SubText": "웹 파트가 도구 상자에 나타나지 않습니다. 웹 파트 프로젝트에서 \"gulp serve\"가 실행되고 있는지 확인하세요. \"gulp serve\"가 실행 중인 경우 페이지를 새로 고치세요.",
+      "OkButtonText": "확인",
+      "ClickHerePrefix": "자세한 내용을 보려면",
+      "ClickHereLink": "여기",
+      "ClickHereSuffix": "를 클릭하세요."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "웹 파트 데이터",

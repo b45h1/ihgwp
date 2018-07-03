@@ -1,5 +1,5 @@
 require('./MobilePreviewRotate.module.css');
 var styles = {
-    mobilePreviewRotateIcon: 'mobilePreviewRotateIcon_a98dc566',
+    mobilePreviewRotateIcon: 'mobilePreviewRotateIcon_c5c15c50',
 };
 export default styles;

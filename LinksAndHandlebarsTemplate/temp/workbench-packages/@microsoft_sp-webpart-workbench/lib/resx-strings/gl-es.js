@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Produciuse o erro \"{0}\" ao obter as pezas web. Podería fallar o procesamento da área de traballo en caché."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Aviso",
-      "SubText": "A peza web non aparecerá na caixa de ferramentas. Asegúrate de que \"gulp serve\" está executando un proxecto de peza web. Actualiza a páxina cando \"gulp serve\" estea executándose.",
-      "OkButtonText": "Aceptar",
-      "ClickHerePrefix": "Premer",
-      "ClickHereLink": "aquí",
-      "ClickHereSuffix": " para obter máis información."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Introduce un URL para velo na Ferramenta de previsualización móbil.",
       "ScreenReaderMobilePreviewEntered": "Iniciaches a Ferramenta de previsualización móbil. Se queres obter a previsualización doutra páxina, introduce o URL no campo de texto de URL. Para pechar a ferramenta e volver á área de traballo, preme Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Preme Intro para escoller este dispositivo.",
       "Width": "Largura",
       "Height": "Altura"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Aviso",
+      "SubText": "A peza web non aparecerá na caixa de ferramentas. Asegúrate de que \"gulp serve\" está executando un proxecto de peza web. Actualiza a páxina cando \"gulp serve\" estea executándose.",
+      "OkButtonText": "Aceptar",
+      "ClickHerePrefix": "Premer",
+      "ClickHereLink": "aquí",
+      "ClickHereSuffix": " para obter máis información."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Datos do elemento web",

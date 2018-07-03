@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Recupero delle web part non riuscito con l'errore \"{0}\". Il rendering di un'area di lavoro memorizzata nella cache potrebbe non riuscire."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Avviso",
-      "SubText": "La web part non verrà visualizzata nella casella degli strumenti. Assicurarsi che \"gulp serve\" sia in esecuzione in un progetto della web part. Aggiornare la pagina dopo l'avvio di \"gulp serve\".",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Fare clic ",
-      "ClickHereLink": "qui",
-      "ClickHereSuffix": " per altre informazioni."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Immettere un URL da visualizzare nello strumento di anteprima modalità mobile.",
       "ScreenReaderMobilePreviewEntered": "È stato aperto lo strumento di anteprima modalità mobile. Se si vuole visualizzare in anteprima una pagina diversa, immettere l'URL nel campo di testo URL. Per chiudere lo strumento e tornare al workbench, premere ESC.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Premere INVIO per scegliere questo dispositivo.",
       "Width": "Larghezza",
       "Height": "Altezza"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Avviso",
+      "SubText": "La web part non verrà visualizzata nella casella degli strumenti. Assicurarsi che \"gulp serve\" sia in esecuzione in un progetto della web part. Aggiornare la pagina dopo l'avvio di \"gulp serve\".",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Fare clic ",
+      "ClickHereLink": "qui",
+      "ClickHereSuffix": " per altre informazioni."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dati web part",

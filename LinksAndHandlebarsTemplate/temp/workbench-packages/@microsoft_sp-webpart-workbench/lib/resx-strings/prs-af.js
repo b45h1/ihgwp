@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "واکشی بخش های وب با خطای \"{0}\" ناکام ماند. ارائه یک میزکاری نهان شده ممکن ناکام باشد."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "اخطار",
-      "SubText": "بخش وب شما در جعبه ابزار ظاهر نخواهد شد. لطفا مطمئن شوید که \"خدمت گروه چندین بایت\" در پروژه بخش وب در حال اجرا است. لطفا زمانیکه \"خدمت گروه چندین بایت\" در حال اجرا است، صفحه را مجددا تازه کنید.",
-      "OkButtonText": "تأیید",
-      "ClickHerePrefix": "کلیک ",
-      "ClickHereLink": "اینجا",
-      "ClickHereSuffix": " برای معلومات بیشتر."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "یک URL را برای دیدن در اسباب پیش دید موبایل وارد کنید.",
       "ScreenReaderMobilePreviewEntered": "شما به اسباب پیش دید موبایل وارد شده اید. اگر شما می خواهید یک صفحه متفاوت را پیش دید کنید، URL را در ساحه نوشته URL وارد کنید. برای بستن اسباب و برگشت به میزکار، Escape را فشار دهید.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "برای انتخاب این دستگاه Enter را فشار دهید.",
       "Width": "عرض",
       "Height": "ارتفاع"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "اخطار",
+      "SubText": "بخش وب شما در جعبه ابزار ظاهر نخواهد شد. لطفا مطمئن شوید که \"خدمت گروه چندین بایت\" در پروژه بخش وب در حال اجرا است. لطفا زمانیکه \"خدمت گروه چندین بایت\" در حال اجرا است، صفحه را مجددا تازه کنید.",
+      "OkButtonText": "تأیید",
+      "ClickHerePrefix": "کلیک ",
+      "ClickHereLink": "اینجا",
+      "ClickHereSuffix": " برای معلومات بیشتر."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "داده های بخش وب",

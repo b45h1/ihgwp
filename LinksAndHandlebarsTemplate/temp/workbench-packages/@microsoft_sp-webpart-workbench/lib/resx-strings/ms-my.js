@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Pengambilan bahagian web gagal dengan ralat \"{0}\". Pemapar meja kerja bercache mungkin gagal."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Amaran",
-      "SubText": "Bahagian web anda tidak akan kelihatan dalam kotak alat. Sila pastikan \"gulp serve\" dijalankan dalam projek bahagian web. Sila segar semula halaman sebaik sahaja \"gulp serve\" dijalankan.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klik ",
-      "ClickHereLink": "di sini",
-      "ClickHereSuffix": " untuk maklumat lanjut."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Masukkan URL untuk melihat dalam Alat Pratonton Mudah Alih.",
       "ScreenReaderMobilePreviewEntered": "Anda telah memasuki Alat Pratonton Mudah Alih. Jika anda ingin pratonton halaman yaag berbeza, masukkan URL dalam medan teks URL. Untuk menutup alat dan kembali ke Meja kerja, tekan Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Tekan Enter untuk memilih peranti ini.",
       "Width": "Lebar",
       "Height": "Ketinggian"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Amaran",
+      "SubText": "Bahagian web anda tidak akan kelihatan dalam kotak alat. Sila pastikan \"gulp serve\" dijalankan dalam projek bahagian web. Sila segar semula halaman sebaik sahaja \"gulp serve\" dijalankan.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klik ",
+      "ClickHereLink": "di sini",
+      "ClickHereSuffix": " untuk maklumat lanjut."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Data Bahagian Web",

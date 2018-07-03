@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Error \"{0}\" al obtener los elementos web. El procesamiento de una estación de trabajo en caché puede fallar."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Advertencia",
-      "SubText": "El elemento web no aparecerá en el cuadro de herramientas. Asegúrese de que \"gulp serve\" se está ejecutando en un proyecto de elemento web. Actualice la página cuando se esté ejecutando \"gulp serve\".",
-      "OkButtonText": "Aceptar",
-      "ClickHerePrefix": "Haga clic ",
-      "ClickHereLink": "aquí",
-      "ClickHereSuffix": " para obtener más información."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Escriba una URL para ver en la Herramienta de vista previa móvil.",
       "ScreenReaderMobilePreviewEntered": "Ha entrado en la Herramienta de vista previa móvil. Si desea obtener una vista previa de una página diferente, escriba la URL en el campo de texto URL. Para cerrar la herramienta y volver a Área de trabajo, pulse Esc.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pulse Entrar para elegir este dispositivo.",
       "Width": "Ancho",
       "Height": "Altura"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Advertencia",
+      "SubText": "El elemento web no aparecerá en el cuadro de herramientas. Asegúrese de que \"gulp serve\" se está ejecutando en un proyecto de elemento web. Actualice la página cuando se esté ejecutando \"gulp serve\".",
+      "OkButtonText": "Aceptar",
+      "ClickHerePrefix": "Haga clic ",
+      "ClickHereLink": "aquí",
+      "ClickHereSuffix": " para obtener más información."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Datos del elemento web",

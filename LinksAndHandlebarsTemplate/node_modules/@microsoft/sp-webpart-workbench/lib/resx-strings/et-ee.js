@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Veebiosade toomine nurjus tõrkega \"{0}\". Vahemällu salvestatud tööjärgu renderdamine võib nurjuda."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Hoiatus",
-      "SubText": "Teie veebiosa ei kuvata tööriistakastis. Veenduge, et \"gulp serve\" töötab veebiosaprojektis. Kui \"gulp serve\" töötab, värskendage lehte.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klõpsake ",
-      "ClickHereLink": "siin",
-      "ClickHereSuffix": " lisateabe saamiseks."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Sisestage mobiilieelvaate tööriistas kuvamiseks URL.",
       "ScreenReaderMobilePreviewEntered": "Olete avanud mobiilieelvaate tööriista. Kui soovite kuvada mõne teise lehe eelvaate, sisestage URL vastavale tekstiväljale. Tööriista sulgemiseks ja Workbenchi naasmiseks vajutage paoklahvi (Esc).",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Selle seadme valimiseks vajutage sisestusklahvi.",
       "Width": "Laius",
       "Height": "Kõrgus"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Hoiatus",
+      "SubText": "Teie veebiosa ei kuvata tööriistakastis. Veenduge, et \"gulp serve\" töötab veebiosaprojektis. Kui \"gulp serve\" töötab, värskendage lehte.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klõpsake ",
+      "ClickHereLink": "siin",
+      "ClickHereSuffix": " lisateabe saamiseks."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Veebiosa andmed",

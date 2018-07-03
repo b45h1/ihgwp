@@ -1,7 +1,7 @@
-define("1c6c9123-7aac-41f3-a376-3caea41ed83f_1.5.0", ["@microsoft/sp-core-library","@microsoft/sp-diagnostics","@ms/sp-telemetry","resx-strings","@microsoft/sp-http","@microsoft/sp-page-context","@microsoft/sp-lodash-subset","@microsoft/sp-dynamic-data","@microsoft/load-themed-styles"], function(__WEBPACK_EXTERNAL_MODULE_0__, __WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_8__, __WEBPACK_EXTERNAL_MODULE_12__, __WEBPACK_EXTERNAL_MODULE_24__, __WEBPACK_EXTERNAL_MODULE_25__, __WEBPACK_EXTERNAL_MODULE_28__, __WEBPACK_EXTERNAL_MODULE_32__, __WEBPACK_EXTERNAL_MODULE_40__) { return /******/ (function(modules) { // webpackBootstrap
+define("1c6c9123-7aac-41f3-a376-3caea41ed83f_1.5.1", ["@microsoft/sp-core-library","@microsoft/sp-diagnostics","@ms/sp-telemetry","resx-strings","@microsoft/sp-http","@microsoft/sp-page-context","@microsoft/sp-lodash-subset","@microsoft/sp-dynamic-data","@microsoft/load-themed-styles"], function(__WEBPACK_EXTERNAL_MODULE_0__, __WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_8__, __WEBPACK_EXTERNAL_MODULE_12__, __WEBPACK_EXTERNAL_MODULE_24__, __WEBPACK_EXTERNAL_MODULE_25__, __WEBPACK_EXTERNAL_MODULE_28__, __WEBPACK_EXTERNAL_MODULE_32__, __WEBPACK_EXTERNAL_MODULE_40__) { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// install a JSONP callback for chunk loading
-/******/ 	var parentJsonpFunction = window["webpackJsonp1c6c9123_7aac_41f3_a376_3caea41ed83f_1_5_0"];
-/******/ 	window["webpackJsonp1c6c9123_7aac_41f3_a376_3caea41ed83f_1_5_0"] = function webpackJsonpCallback(chunkIds, moreModules, executeModules) {
+/******/ 	var parentJsonpFunction = window["webpackJsonp1c6c9123_7aac_41f3_a376_3caea41ed83f_1_5_1"];
+/******/ 	window["webpackJsonp1c6c9123_7aac_41f3_a376_3caea41ed83f_1_5_1"] = function webpackJsonpCallback(chunkIds, moreModules, executeModules) {
 /******/ 		// add "moreModules" to the modules object,
 /******/ 		// then flag all "chunkIds" as loaded and fire callback
 /******/ 		var moduleId, chunkId, i = 0, resolves = [], result;
@@ -86,7 +86,7 @@ define("1c6c9123-7aac-41f3-a376-3caea41ed83f_1.5.0", ["@microsoft/sp-core-librar
 /******/ 		if (__webpack_require__.nc) {
 /******/ 			script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 		}
-/******/ 		script.src = __webpack_require__.p + "" + chunkId + "." + ({"0":"developer-tools"}[chunkId]||chunkId) + "_" + {"0":"77cafe81f9222bdcdbe9","1":"94758b2c4434ddb2f367","2":"bdd440637e9da7e33f3d"}[chunkId] + ".js";
+/******/ 		script.src = __webpack_require__.p + "" + chunkId + "." + ({"0":"developer-tools"}[chunkId]||chunkId) + "_" + {"0":"42b0d2909ff20ce5b7f1","1":"548a0bef62f937ed2b30","2":"28bd5f7def1e9882fb6c"}[chunkId] + ".js";
 /******/ 		var timeout = setTimeout(onScriptComplete, 120000);
 /******/ 		script.onerror = script.onload = onScriptComplete;
 /******/ 		function onScriptComplete() {
@@ -2540,7 +2540,7 @@ var SPStarter_SPStarter = (function () {
             farmLabel: pageContextInfo.farmLabel,
             clientSideApplicationId: preloadedData.clientSideApplicationId || '',
             siteSubscriptionId: pageContextInfo.siteSubscriptionId,
-            version:  true ? 'sp-client-npm-build-artifacts_20180604.001' : preloadedData.manifests[0].version,
+            version:  true ? 'sp-client-npm-build-artifacts_20180626.001' : preloadedData.manifests[0].version,
             loginName: pageContextInfo.userLoginName,
             systemUserKey: pageContextInfo.systemUserKey,
             currentUICultureName: pageContextInfo.currentUICultureName,
@@ -3955,7 +3955,7 @@ webpackContext.id = 34;
 /* 35 */
 /***/ (function(module, exports) {
 
-module.exports = {"id":"8217e442-8ed3-41fd-957d-b112e841286a","alias":"SPTelemetry","componentType":"Library","version":"0.2.2","manifestVersion":2,"loaderConfig":{"entryModuleId":"sp-telemetry","internalModuleBaseUrls":["https://localhost:4321/"],"scriptResources":{"sp-telemetry":{"type":"path","path":"dist/sp-telemetry.js"},"@microsoft/sp-diagnostics":{"type":"component","version":"1.0.0","id":"78359e4b-07c2-43c6-8d0b-d060b4d577e8"},"@ms/odsp-utilities-bundle":{"type":"component","version":"1.1.8","id":"cc2cc925-b5be-41bb-880a-f0f8030c6aff"},"@microsoft/sp-core-library":{"type":"component","version":"1.5.0","id":"7263c7d0-1d6a-45ec-8d85-d4d1d234171b"},"@microsoft/sp-lodash-subset":{"type":"component","version":"1.5.0","id":"73e1dc6c-8441-42cc-ad47-4bd3659f8a3a"}}},"isInternal":true}
+module.exports = {"id":"8217e442-8ed3-41fd-957d-b112e841286a","alias":"SPTelemetry","componentType":"Library","version":"0.2.2","manifestVersion":2,"loaderConfig":{"entryModuleId":"sp-telemetry","internalModuleBaseUrls":["https://localhost:4321/"],"scriptResources":{"sp-telemetry":{"type":"path","path":"dist/sp-telemetry.js"},"@microsoft/sp-diagnostics":{"type":"component","version":"1.0.0","id":"78359e4b-07c2-43c6-8d0b-d060b4d577e8"},"@ms/odsp-utilities-bundle":{"type":"component","version":"1.1.8","id":"cc2cc925-b5be-41bb-880a-f0f8030c6aff"},"@microsoft/sp-core-library":{"type":"component","version":"1.5.1","id":"7263c7d0-1d6a-45ec-8d85-d4d1d234171b"},"@microsoft/sp-lodash-subset":{"type":"component","version":"1.5.1","id":"73e1dc6c-8441-42cc-ad47-4bd3659f8a3a"}}},"isInternal":true}
 
 /***/ }),
 /* 36 */

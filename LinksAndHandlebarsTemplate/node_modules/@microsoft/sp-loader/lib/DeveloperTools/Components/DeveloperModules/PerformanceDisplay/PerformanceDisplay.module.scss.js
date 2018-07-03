@@ -1,8 +1,8 @@
 require('./PerformanceDisplay.module.css');
 var styles = {
-    performanceDisplayContainer: 'performanceDisplayContainer_649c2d37',
-    graphContainer: 'graphContainer_649c2d37',
-    errorMessage: 'errorMessage_649c2d37',
-    msFontColorRedDark: 'msFontColorRedDark_649c2d37',
+    performanceDisplayContainer: 'performanceDisplayContainer_e124fa3e',
+    graphContainer: 'graphContainer_e124fa3e',
+    errorMessage: 'errorMessage_e124fa3e',
+    msFontColorRedDark: 'msFontColorRedDark_e124fa3e',
 };
 export default styles;

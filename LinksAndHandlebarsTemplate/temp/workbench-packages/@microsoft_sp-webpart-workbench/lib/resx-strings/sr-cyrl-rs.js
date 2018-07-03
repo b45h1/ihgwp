@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Добављање веб сегмената није успело уз грешку „{0}“. Приказивање кешираног радног простора можда неће успети."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Упозорење",
-      "SubText": "Ваш веб сегмент се неће појавити у оквиру са алаткама. Уверите се да је „gulp serve“ покренут у пројекту веб сегмента. Освежите страницу када се „gulp serve“ покрене.",
-      "OkButtonText": "У реду",
-      "ClickHerePrefix": "Кликните ",
-      "ClickHereLink": "овде",
-      "ClickHereSuffix": " за више информација."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Унесите URL адресу за приказ у алатки за преглед на мобилном уређају.",
       "ScreenReaderMobilePreviewEntered": "Ушли сте у алатку за преглед на мобилном уређају. Ако желите да прегледате неку другу страницу, унесите URL адресу у текстуално поље „URL адреса“. Да бисте затворили алатку и вратили се у Workbench, притисните Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Притисните Enter да бисте одабрали овај уређај.",
       "Width": "Ширина",
       "Height": "Висина"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Упозорење",
+      "SubText": "Ваш веб сегмент се неће појавити у оквиру са алаткама. Уверите се да је „gulp serve“ покренут у пројекту веб сегмента. Освежите страницу када се „gulp serve“ покрене.",
+      "OkButtonText": "У реду",
+      "ClickHerePrefix": "Кликните ",
+      "ClickHereLink": "овде",
+      "ClickHereSuffix": " за више информација."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Подаци веб сегмента",

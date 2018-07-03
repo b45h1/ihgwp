@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Henting av nettdeler mislyktes med feilen {0}. Gjengivelse av et bufret arbeidsområde kan mislykkes."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Advarsel",
-      "SubText": "Nettdelen blir ikke vist i verktøykassen. Kontroller at gulp serve kjører i et nettdelprosjekt. Oppdater siden når gulp serve kjører.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klikk ",
-      "ClickHereLink": "her",
-      "ClickHereSuffix": " for å få mer informasjon."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Angi en nettadresse du vil vise i mobilforhåndsvisningsverktøyet.",
       "ScreenReaderMobilePreviewEntered": "Du er inne i mobilforhåndsvisningsverktøyet. Hvis du vil forhåndsvise en annen side, kan du angi nettadressen i nettadressefeltet. Hvis du vil lukke verktøyet og gå tilbake til arbeidsområdet, trykker du Esc.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Trykk Enter for å velge denne enheten.",
       "Width": "Bredde",
       "Height": "Høyde"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Advarsel",
+      "SubText": "Nettdelen blir ikke vist i verktøykassen. Kontroller at gulp serve kjører i et nettdelprosjekt. Oppdater siden når gulp serve kjører.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klikk ",
+      "ClickHereLink": "her",
+      "ClickHereSuffix": " for å få mer informasjon."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Nettdelsdata",

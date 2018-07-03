@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Ophalen van webonderdelen is mislukt met fout {0}. Weergeven van een workbench in cache kan mislukken."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Waarschuwing",
-      "SubText": "Het webonderdeel wordt niet weergegeven in de werkset. Controleer of 'gulp serve' wordt uitgevoerd in een webonderdeelproject. Vernieuw de pagina als 'gulp serve' wordt uitgevoerd.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klik ",
-      "ClickHereLink": "hier",
-      "ClickHereSuffix": " voor meer informatie."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Voer een URL in om een pagina weer te geven met het hulpprogramma Mobiele voorbeeldweergave.",
       "ScreenReaderMobilePreviewEntered": "U hebt het hulpprogramma Mobiele voorbeeldweergave geopend. Als u een voorbeeld van een andere pagina wilt bekijken, voert u de bijbehorende URL in het tekstveld URL in. Druk op ESC om het hulpprogramma te sluiten en terug te keren naar Workbench.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Druk op Enter om dit apparaat te kiezen.",
       "Width": "Breedte",
       "Height": "Hoogte"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Waarschuwing",
+      "SubText": "Het webonderdeel wordt niet weergegeven in de werkset. Controleer of 'gulp serve' wordt uitgevoerd in een webonderdeelproject. Vernieuw de pagina als 'gulp serve' wordt uitgevoerd.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klik ",
+      "ClickHereLink": "hier",
+      "ClickHereSuffix": " voor meer informatie."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Webonderdeelgegevens",

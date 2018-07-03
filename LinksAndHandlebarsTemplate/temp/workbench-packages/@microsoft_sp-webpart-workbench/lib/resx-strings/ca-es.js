@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Error \"{0}\" en obtenir els elements web. El processament d'una estació de treball en memòria cau pot fallar."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Advertiment",
-      "SubText": "El vostre element web no apareixerà al quadre d'eines. Assegureu-vos que \"gulp serve\" s'està executant en un projecte d'element web. Actualitzeu la pàgina quan \"gulp serve\" s'estigui executant.",
-      "OkButtonText": "D'acord",
-      "ClickHerePrefix": "Feu clic ",
-      "ClickHereLink": "aquí",
-      "ClickHereSuffix": " per obtenir més informació."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Escriviu una adreça URL per veure-la amb l'eina de visualització prèvia mòbil.",
       "ScreenReaderMobilePreviewEntered": "Heu accedit a l'eina de visualització prèvia mòbil. Si voleu consultar una visualització prèvia d'una altra pàgina, introduïu-ne l'adreça URL al camp de text corresponent. Premeu Esc per tancar l'eina i tornar al taulell.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Premeu Retorn per triar aquest dispositiu.",
       "Width": "Amplada",
       "Height": "Alçada"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Advertiment",
+      "SubText": "El vostre element web no apareixerà al quadre d'eines. Assegureu-vos que \"gulp serve\" s'està executant en un projecte d'element web. Actualitzeu la pàgina quan \"gulp serve\" s'estigui executant.",
+      "OkButtonText": "D'acord",
+      "ClickHerePrefix": "Feu clic ",
+      "ClickHereLink": "aquí",
+      "ClickHereSuffix": " per obtenir més informació."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dades d'element web",

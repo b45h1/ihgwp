@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "فشل إحضار webpats مع الخطأ \"{0}\". قد تفشل عملية تقديم لوحة عمل مخزنة."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "تحذير",
-      "SubText": "لن يظهر جزء الويب في مربع الأدوات. الرجاء التأكد من تشغيل \"gulp serve\" في مشروع جزء الويب. الرجاء تحديث الصفحة بمجرد تشغيل \"gulp serve\".",
-      "OkButtonText": "موافق",
-      "ClickHerePrefix": "انقر فوق ",
-      "ClickHereLink": "هنا",
-      "ClickHereSuffix": " لمزيد من المعلومات."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "أدخل عنوان URL للعرض في \"أداة معاينة الجوال\".",
       "ScreenReaderMobilePreviewEntered": "لقد أدخلت \"أداة معاينة الجوال\". إذا أردت معاينة صفحة أخرى، أدخل عنوان URL في حقل نص URL. لإغلاق الأداة والعودة إلى منضدة العمل، اضغط على مفتاح الخروج Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "اضغط على مفتاح الإدخال Enter لاختيار هذا الجهاز.",
       "Width": "العرض",
       "Height": "الارتفاع"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "تحذير",
+      "SubText": "لن يظهر جزء الويب في مربع الأدوات. الرجاء التأكد من تشغيل \"gulp serve\" في مشروع جزء الويب. الرجاء تحديث الصفحة بمجرد تشغيل \"gulp serve\".",
+      "OkButtonText": "موافق",
+      "ClickHerePrefix": "انقر فوق ",
+      "ClickHereLink": "هنا",
+      "ClickHereSuffix": " لمزيد من المعلومات."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "بيانات جزء الويب",

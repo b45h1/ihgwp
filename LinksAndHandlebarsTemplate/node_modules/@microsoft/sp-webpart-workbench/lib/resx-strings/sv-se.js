@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Hämtningen av webbdelar misslyckades med felmeddelandet {0}. Återgivning av en cachelagrad workbench kan misslyckas."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Varning",
-      "SubText": "Webbdelen visas inte i verktygslådan. Kontrollera att \"gulp serve\" körs i ett webbdelsprojekt. Uppdatera sidan när \"gulp serve\" har börjat köra.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klicka ",
-      "ClickHereLink": "här",
-      "ClickHereSuffix": " för mer information."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Ange en URL-adress att visa i mobilförhandsgranskningsverktyget.",
       "ScreenReaderMobilePreviewEntered": "Du har öppnat mobilförhandsgranskningsverktyget. Om du vill förhandsgranska en annan sida anger du URL-adressen i URL-textfältet. Tryck på Escape om du vill stänga verktyget och gå tillbaka till Workbench.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Tryck på RETUR för att välja den här enheten.",
       "Width": "Bredd",
       "Height": "Höjd"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Varning",
+      "SubText": "Webbdelen visas inte i verktygslådan. Kontrollera att \"gulp serve\" körs i ett webbdelsprojekt. Uppdatera sidan när \"gulp serve\" har börjat köra.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klicka ",
+      "ClickHereLink": "här",
+      "ClickHereSuffix": " för mer information."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Webbdelsdata",

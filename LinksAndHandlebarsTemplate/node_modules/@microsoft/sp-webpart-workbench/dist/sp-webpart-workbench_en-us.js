@@ -1,4 +1,4 @@
-define("8be81a5c-af38-4bb2-af97-afa3b64dfbed_1.5.0", ["@microsoft/sp-lodash-subset","@microsoft/office-ui-fabric-react-bundle","@microsoft/load-themed-styles","@microsoft/sp-core-library","@ms/sp-telemetry","@microsoft/sp-diagnostics","react","react-dom","@microsoft/sp-webpart-base","@microsoft/sp-loader","@microsoft/sp-page-context","@microsoft/sp-application-base"], function(__WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_2__, __WEBPACK_EXTERNAL_MODULE_3__, __WEBPACK_EXTERNAL_MODULE_4__, __WEBPACK_EXTERNAL_MODULE_5__, __WEBPACK_EXTERNAL_MODULE_6__, __WEBPACK_EXTERNAL_MODULE_8__, __WEBPACK_EXTERNAL_MODULE_9__, __WEBPACK_EXTERNAL_MODULE_10__, __WEBPACK_EXTERNAL_MODULE_11__, __WEBPACK_EXTERNAL_MODULE_12__, __WEBPACK_EXTERNAL_MODULE_13__) { return /******/ (function(modules) { // webpackBootstrap
+define("8be81a5c-af38-4bb2-af97-afa3b64dfbed_1.5.1", ["@microsoft/sp-lodash-subset","@microsoft/office-ui-fabric-react-bundle","@microsoft/load-themed-styles","@microsoft/sp-core-library","@ms/sp-telemetry","@microsoft/sp-diagnostics","react","react-dom","@microsoft/sp-webpart-base","@microsoft/sp-loader","@microsoft/sp-page-context","@microsoft/sp-application-base"], function(__WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_2__, __WEBPACK_EXTERNAL_MODULE_3__, __WEBPACK_EXTERNAL_MODULE_4__, __WEBPACK_EXTERNAL_MODULE_5__, __WEBPACK_EXTERNAL_MODULE_6__, __WEBPACK_EXTERNAL_MODULE_8__, __WEBPACK_EXTERNAL_MODULE_9__, __WEBPACK_EXTERNAL_MODULE_10__, __WEBPACK_EXTERNAL_MODULE_11__, __WEBPACK_EXTERNAL_MODULE_12__, __WEBPACK_EXTERNAL_MODULE_13__) { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
 /******/
@@ -69,8 +69,8 @@ define("8be81a5c-af38-4bb2-af97-afa3b64dfbed_1.5.0", ["@microsoft/sp-lodash-subs
 
 var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_DEFINE_ARRAY__ = [__webpack_require__(2),__webpack_require__(8),__webpack_require__(3),__webpack_require__(4),__webpack_require__(5),__webpack_require__(6),__webpack_require__(7),__webpack_require__(1),__webpack_require__(9),__webpack_require__(10),__webpack_require__(11),__webpack_require__(12),__webpack_require__(13)], __WEBPACK_AMD_DEFINE_RESULT__ = function(__WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_2__, __WEBPACK_EXTERNAL_MODULE_3__, __WEBPACK_EXTERNAL_MODULE_5__, __WEBPACK_EXTERNAL_MODULE_6__, __WEBPACK_EXTERNAL_MODULE_9__, __WEBPACK_EXTERNAL_MODULE_15__, __WEBPACK_EXTERNAL_MODULE_17__, __WEBPACK_EXTERNAL_MODULE_23__, __WEBPACK_EXTERNAL_MODULE_30__, __WEBPACK_EXTERNAL_MODULE_50__, __WEBPACK_EXTERNAL_MODULE_67__, __WEBPACK_EXTERNAL_MODULE_129__) { return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// install a JSONP callback for chunk loading
-/******/ 	var parentJsonpFunction = window["webpackJsonp8be81a5c_af38_4bb2_af97_afa3b64dfbed_1_5_0"];
-/******/ 	window["webpackJsonp8be81a5c_af38_4bb2_af97_afa3b64dfbed_1_5_0"] = function webpackJsonpCallback(chunkIds, moreModules, executeModules) {
+/******/ 	var parentJsonpFunction = window["webpackJsonp8be81a5c_af38_4bb2_af97_afa3b64dfbed_1_5_1"];
+/******/ 	window["webpackJsonp8be81a5c_af38_4bb2_af97_afa3b64dfbed_1_5_1"] = function webpackJsonpCallback(chunkIds, moreModules, executeModules) {
 /******/ 		// add "moreModules" to the modules object,
 /******/ 		// then flag all "chunkIds" as loaded and fire callback
 /******/ 		var moduleId, chunkId, i = 0, resolves = [], result;
@@ -155,7 +155,7 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
 /******/ 		if (__webpack_require__.nc) {
 /******/ 			script.setAttribute("nonce", __webpack_require__.nc);
 /******/ 		}
-/******/ 		script.src = __webpack_require__.p + "" + chunkId + "." + ({"2":"toolbox"}[chunkId]||chunkId) + "_" + {"0":"c7851748dcc155c3ad06","1":"336432bff44f61a235db","2":"b461b628ca4c4ba9c457","3":"3d37e24290a78cfa0752"}[chunkId] + ".js";
+/******/ 		script.src = __webpack_require__.p + "" + chunkId + "." + ({"2":"toolbox"}[chunkId]||chunkId) + "_" + {"0":"fce1c0eae20d23a268e7","1":"c9f3a4c0b2c394334ea0","2":"22eed92addc729e76f15","3":"0cbb2a75e01e6db813d8"}[chunkId] + ".js";
 /******/ 		var timeout = setTimeout(onScriptComplete, 120000);
 /******/ 		script.onerror = script.onload = onScriptComplete;
 /******/ 		function onScriptComplete() {
@@ -723,7 +723,7 @@ __export(__webpack_require__(145));
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/dom/DomTraversal.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/dom/DomTraversal.js
 var DomTraversal = (function () {
     function DomTraversal() {
     }
@@ -818,7 +818,7 @@ var DomTraversal = (function () {
 }());
 /* harmony default export */ var dom_DomTraversal = (DomTraversal);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/focus/Focus.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/focus/Focus.js
 
 var Focus_Focus = (function () {
     function Focus() {
@@ -993,7 +993,7 @@ var Focus_Focus = (function () {
 }());
 /* harmony default export */ var focus_Focus = (Focus_Focus);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/keyboard/Keyboard.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/keyboard/Keyboard.js
 var Keyboard = (function () {
     function Keyboard() {
     }
@@ -1025,7 +1025,7 @@ var Keyboard = (function () {
 }());
 /* harmony default export */ var keyboard_Keyboard = (Keyboard);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/screenReader/ScreenReader.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/screenReader/ScreenReader.js
 var ScreenReader = (function () {
     function ScreenReader() {
     }
@@ -1055,7 +1055,7 @@ var ScreenReader = (function () {
 }());
 /* harmony default export */ var screenReader_ScreenReader = (ScreenReader);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/a11yManager/A11yAttribute.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/a11yManager/A11yAttribute.js
 
 var A11yAttributeType;
 (function (A11yAttributeType) {
@@ -1166,7 +1166,7 @@ var A11yAttribute_A11yAttribute = (function () {
 }());
 /* harmony default export */ var a11yManager_A11yAttribute = (A11yAttribute_A11yAttribute);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/focus/FocusTransition.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/focus/FocusTransition.js
 
 var FocusTransition_FocusTransition = (function () {
     function FocusTransition(src, dest, root) {
@@ -1202,7 +1202,7 @@ var FocusTransition_FocusTransition = (function () {
 }());
 /* harmony default export */ var focus_FocusTransition = (FocusTransition_FocusTransition);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/a11yManager/A11yManager.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/a11yManager/A11yManager.js
 
 
 
@@ -1658,7 +1658,7 @@ var A11yManager_A11yManager = (function () {
 }());
 /* harmony default export */ var a11yManager_A11yManager = (A11yManager_A11yManager);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "Focus", function() { return focus_Focus; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "Keyboard", function() { return keyboard_Keyboard; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "ScreenReader", function() { return screenReader_ScreenReader; });
@@ -1722,7 +1722,7 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_15__;
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -1733,13 +1733,13 @@ var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(
 var sp_webpart_base_ = __webpack_require__(30);
 var sp_webpart_base__default = /*#__PURE__*/__webpack_require__.n(sp_webpart_base_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
 var CanvasControlType = __webpack_require__(7);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
 var CanvasStrings_resx = __webpack_require__(11);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePropertyPaneControl.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePropertyPaneControl.js
 
 
 
@@ -1846,13 +1846,13 @@ var sp_lodash_subset__default = /*#__PURE__*/__webpack_require__.n(sp_lodash_sub
 var sp_telemetry_ = __webpack_require__(6);
 var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePart.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePart.js
 var CanvasZonePart = __webpack_require__(104);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
 var CanvasFullWidthSection = __webpack_require__(45);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js
 
 
 
@@ -5798,7 +5798,7 @@ function getCanvasZoneA11yId(zoneIndex) {
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -5809,21 +5809,21 @@ var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/animation.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/animation.module.scss.js
 __webpack_require__(227);
 var styles = {
-    fromNoneToSmall: 'fromNoneToSmall_ad0abd2b',
-    upIn: 'upIn_ad0abd2b',
-    fromNoneToSmallUpIn: 'fromNoneToSmallUpIn_ad0abd2b',
-    downIn: 'downIn_ad0abd2b',
-    fromNoneToSmallDownInLTR: 'fromNoneToSmallDownInLTR_ad0abd2b',
-    fromNoneToSmallDownInRTL: 'fromNoneToSmallDownInRTL_ad0abd2b',
-    fromSmallToLarge: 'fromSmallToLarge_ad0abd2b',
-    fromLargeToSmall: 'fromLargeToSmall_ad0abd2b',
+    fromNoneToSmall: 'fromNoneToSmall_5df8966d',
+    upIn: 'upIn_5df8966d',
+    fromNoneToSmallUpIn: 'fromNoneToSmallUpIn_5df8966d',
+    downIn: 'downIn_5df8966d',
+    fromNoneToSmallDownInLTR: 'fromNoneToSmallDownInLTR_5df8966d',
+    fromNoneToSmallDownInRTL: 'fromNoneToSmallDownInRTL_5df8966d',
+    fromSmallToLarge: 'fromSmallToLarge_5df8966d',
+    fromLargeToSmall: 'fromLargeToSmall_5df8966d',
 };
 /* harmony default export */ var animation_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/animation.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/animation.js
 
 
 
@@ -5869,7 +5869,7 @@ function animation(ToolboxComponent,
     }(external__react_["PureComponent"]));
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return animation; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "b", function() { return animation_module_scss; });
 
@@ -5882,7 +5882,7 @@ function animation(ToolboxComponent,
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "react"
@@ -5901,7 +5901,7 @@ var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 var sp_diagnostics_ = __webpack_require__(9);
 var sp_diagnostics__default = /*#__PURE__*/__webpack_require__.n(sp_diagnostics_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
 var lib = __webpack_require__(12);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 
@@ -5913,7 +5913,7 @@ var sp_core_library__default = /*#__PURE__*/__webpack_require__.n(sp_core_librar
 var sp_loader_ = __webpack_require__(50);
 var sp_loader__default = /*#__PURE__*/__webpack_require__.n(sp_loader_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/common/deferred/DeferredPagePicker.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/common/deferred/DeferredPagePicker.js
 
 
 
@@ -5941,14 +5941,14 @@ var DeferredPagePicker_DeferredPagePicker = (function (_super) {
 var office_ui_fabric_react_bundle_ = __webpack_require__(1);
 var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(office_ui_fabric_react_bundle_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteFormattingBar.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteFormattingBar.scss.js
 var SPRteFormattingBar_scss = __webpack_require__(205);
 var SPRteFormattingBar_scss_default = /*#__PURE__*/__webpack_require__.n(SPRteFormattingBar_scss);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
 var RteStrings_resx = __webpack_require__(18);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteFormattingBar.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteFormattingBar.js
 
 
 
@@ -6008,17 +6008,17 @@ var SPRteFormattingBar_SPRteFormattingBar = (function (_super) {
 }(office_ui_fabric_react_bundle_["BaseComponent"]));
 /* harmony default export */ var formattingbar_SPRteFormattingBar = (SPRteFormattingBar_SPRteFormattingBar);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js + 1 modules
 var RteA11y = __webpack_require__(60);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteLinkDialog.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteLinkDialog.module.scss.js
 __webpack_require__(210);
 var styles = {
-    LinkDialogContainer: 'LinkDialogContainer_3c6683c6',
+    LinkDialogContainer: 'LinkDialogContainer_aae2b8dc',
 };
 /* harmony default export */ var SPRteLinkDialog_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteLinkDialog.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/formattingbar/SPRteLinkDialog.js
 
 
 
@@ -6140,26 +6140,26 @@ var SPRteLinkDialog_SPRteLinkDialog = (function (_super) {
 }(office_ui_fabric_react_bundle_["BaseComponent"]));
 /* harmony default export */ var formattingbar_SPRteLinkDialog = (SPRteLinkDialog_SPRteLinkDialog);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
 var CKTextEditor = __webpack_require__(59);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
 var ToolbarButton = __webpack_require__(35);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarSubMenu/ToolbarSubmenu.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarSubMenu/ToolbarSubmenu.js
 var ToolbarSubmenu = __webpack_require__(109);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
 var Flights = __webpack_require__(24);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.scss.js
 var BaseRte_scss = __webpack_require__(212);
 var BaseRte_scss_default = /*#__PURE__*/__webpack_require__.n(BaseRte_scss);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
 var KillSwitches = __webpack_require__(22);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js
 /* unused harmony export CREATE_EDITOR_MONITOR */
 /* unused harmony export CREATE_EDITOR_MONITOR_FAILURE */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return Format; });
@@ -8729,7 +8729,7 @@ exports.default = EventGroup;
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -8748,11 +8748,11 @@ var sp_diagnostics__default = /*#__PURE__*/__webpack_require__.n(sp_diagnostics_
 var sp_core_library_ = __webpack_require__(5);
 var sp_core_library__default = /*#__PURE__*/__webpack_require__.n(sp_core_library_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/dompurify/1.0.3/node_modules/dompurify/dist/purify.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/dompurify/1.0.3/node_modules/dompurify/dist/purify.js
 var purify = __webpack_require__(184);
 var purify_default = /*#__PURE__*/__webpack_require__.n(purify);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-safehtml/lib/SafeHtml.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-safehtml/lib/SafeHtml.js
 
 var SafeHtml_config = {
     ADD_TAGS: ['iframe']
@@ -8793,13 +8793,13 @@ var SafeHtml_SafeHtml = (function () {
 }());
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-safehtml/lib/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-safehtml/lib/index.js
 
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
 var Flights = __webpack_require__(24);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKLoader.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKLoader.js
 
 
 var CKEDITOR_PATH_KEY = 'CKEDITOR_BASEPATH';
@@ -8850,11 +8850,11 @@ var CKLoader_CKLoader = (function () {
 }());
 /* harmony default export */ var ckeditor_CKLoader = (CKLoader_CKLoader);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.scss.js
 var CKTextEditor_scss = __webpack_require__(185);
 var CKTextEditor_scss_default = /*#__PURE__*/__webpack_require__.n(CKTextEditor_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/common/ImageUtilities.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/common/ImageUtilities.js
 function Base64MimeType(encoded) {
     var result = undefined;
     var mime = encoded.match(/data:([a-zA-Z0-9]+\/[a-zA-Z0-9-.+]+).*,.*/);
@@ -8884,14 +8884,14 @@ function Base64toBlob(b64Data, contentType) {
     return blob;
 }
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
 var RteStrings_resx = __webpack_require__(18);
 
 // EXTERNAL MODULE: external "@microsoft/sp-lodash-subset"
 var sp_lodash_subset_ = __webpack_require__(17);
 var sp_lodash_subset__default = /*#__PURE__*/__webpack_require__.n(sp_lodash_subset_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTableHelpers.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTableHelpers.js
 
 
 
@@ -9108,7 +9108,7 @@ var CKTableHelpers_CKTableHelpers = (function () {
 }());
 /* harmony default export */ var ckeditor_CKTableHelpers = (CKTableHelpers_CKTableHelpers);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js
 
 
 
@@ -10292,14 +10292,14 @@ var CKTextEditor_CKTextEditor = (function () {
 
 "use strict";
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.module.scss.js
 __webpack_require__(208);
 var styles = {
-    screenReaderOnly: 'screenReaderOnly_f6e74b04',
+    screenReaderOnly: 'screenReaderOnly_8986b021',
 };
 /* harmony default export */ var RteA11y_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js
 /* harmony export (immutable) */ __webpack_exports__["c"] = isEscape;
 /* harmony export (immutable) */ __webpack_exports__["b"] = isEnter;
 /* harmony export (immutable) */ __webpack_exports__["e"] = isShiftTab;
@@ -15534,14 +15534,14 @@ var CanvasSectionPart = (function () {
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "react"
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/prop-types/15.5.7/node_modules/prop-types/index.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/prop-types/15.5.7/node_modules/prop-types/index.js
 var prop_types = __webpack_require__(14);
 var prop_types_default = /*#__PURE__*/__webpack_require__.n(prop_types);
 
@@ -15557,7 +15557,7 @@ var sp_core_library__default = /*#__PURE__*/__webpack_require__.n(sp_core_librar
 var office_ui_fabric_react_bundle_ = __webpack_require__(1);
 var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(office_ui_fabric_react_bundle_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
 var lib = __webpack_require__(12);
 var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 
@@ -15565,41 +15565,41 @@ var lib_default = /*#__PURE__*/__webpack_require__.n(lib);
 var sp_telemetry_ = __webpack_require__(6);
 var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
 var CanvasControlType = __webpack_require__(7);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
 var CKTextEditor = __webpack_require__(59);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
 var CanvasLayout = __webpack_require__(16);
 
 // EXTERNAL MODULE: external "@microsoft/sp-lodash-subset"
 var sp_lodash_subset_ = __webpack_require__(17);
 var sp_lodash_subset__default = /*#__PURE__*/__webpack_require__.n(sp_lodash_subset_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
 var ToolbarButton = __webpack_require__(35);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarSubMenu/ToolbarSubmenu.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarSubMenu/ToolbarSubmenu.js
 var ToolbarSubmenu = __webpack_require__(109);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js + 4 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js + 4 modules
 var BaseRte = __webpack_require__(49);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteCKEditorConfiguration.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteCKEditorConfiguration.js
 var SPRteCKEditorConfiguration = __webpack_require__(110);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
 var RteStrings_resx = __webpack_require__(18);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/index.js + 7 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/index.js + 7 modules
 var sp_a11y_lib = __webpack_require__(13);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
 var Flights = __webpack_require__(24);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/SPRte.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/SPRte.js
 
 
 
@@ -16046,7 +16046,7 @@ var SPRte_SPRte = (function (_super) {
 }(BaseRte["a" /* BaseRte */]));
 /* harmony default export */ var rte_SPRte = (SPRte_SPRte);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteTouchDevice.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteTouchDevice.js
 
 
 
@@ -16106,10 +16106,10 @@ var SPRteTouchDevice_SPRteTouchDevice = (function (_super) {
 }(rte_SPRte));
 /* harmony default export */ var rte_SPRteTouchDevice = (SPRteTouchDevice_SPRteTouchDevice);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasAnimations/CanvasScrollAnimation.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasAnimations/CanvasScrollAnimation.js
 var CanvasScrollAnimation = __webpack_require__(46);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/webPartZone/WebPartZone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/webPartZone/WebPartZone.js
 
 
 
@@ -16259,10 +16259,10 @@ var WebPartZone_WebPartZone = (function (_super) {
 }(external__react_["Component"]));
 /* harmony default export */ var webPartZone_WebPartZone = (WebPartZone_WebPartZone);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/Utilities.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/Utilities.js
 var Utilities = __webpack_require__(108);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlFactory.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlFactory.js
 
 
 
@@ -16299,22 +16299,22 @@ var CanvasControlFactory_CanvasControlFactory = (function () {
 }());
 /* harmony default export */ var canvasControl_CanvasControlFactory = (CanvasControlFactory_CanvasControlFactory);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZoneConstants.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZoneConstants.js
 var CanvasDragZoneConstants = __webpack_require__(29);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasToolboxHint/CanvasToolboxHint.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasToolboxHint/CanvasToolboxHint.js
 var CanvasToolboxHint = __webpack_require__(111);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/a11y/CanvasA11yConstants.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/a11y/CanvasA11yConstants.js
 var CanvasA11yConstants = __webpack_require__(47);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
 var CanvasFullWidthSection = __webpack_require__(45);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
 var CanvasStrings_resx = __webpack_require__(11);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/controlZone/ControlZone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/controlZone/ControlZone.js
 
 
 
@@ -16505,14 +16505,14 @@ var ControlZone_ControlZone = (function (_super) {
 }(external__react_["PureComponent"]));
 /* harmony default export */ var controlZone_ControlZone = (ControlZone_ControlZone);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbar/Toolbar.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbar/Toolbar.js
 var Toolbar = __webpack_require__(112);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.scss.js
 var CanvasSection_scss = __webpack_require__(113);
 var CanvasSection_scss_default = /*#__PURE__*/__webpack_require__.n(CanvasSection_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.js
 
 
 
@@ -17820,7 +17820,7 @@ __webpack_require__(224);
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -17831,14 +17831,14 @@ var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/LessText.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/LessText.module.scss.js
 __webpack_require__(233);
 var styles = {
-    lessText: 'lessText_9e40a2f4',
+    lessText: 'lessText_4f2ba2fd',
 };
 /* harmony default export */ var LessText_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/LessText.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/LessText.js
 
 
 
@@ -17977,7 +17977,7 @@ var LessText_LessText = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/DelayLessText.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/DelayLessText.js
 
 
 
@@ -18016,7 +18016,7 @@ var DelayLessText_DelayLessText = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return DelayLessText_DelayLessText; });
 
 
@@ -18035,25 +18035,25 @@ var sp_core_library__default = /*#__PURE__*/__webpack_require__.n(sp_core_librar
 var sp_telemetry_ = __webpack_require__(6);
 var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
 var CanvasLayout = __webpack_require__(16);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePart.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasZonePart.js
 var CanvasZonePart = __webpack_require__(104);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
 var CanvasControlType = __webpack_require__(7);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
 var CanvasFullWidthSection = __webpack_require__(45);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
 var KillSwitches = __webpack_require__(22);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasWebPartClassification.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasWebPartClassification.js
 var CanvasWebPartClassification = __webpack_require__(116);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/shouldExcludeFromToolbox.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/shouldExcludeFromToolbox.js
 var CONNECTORS_ID = '893a257e-9c92-49bc-8a36-2f6bb058da34';
 var O365_VIDEO_ID = '275c0095-a77e-4f6d-a2a0-6a7626911518';
 var LINK_PREVIEW_ID = '6410b3b6-d440-4663-8744-378976dc041e';
@@ -18079,7 +18079,7 @@ function missingRequiredGroup(manifest, pageContext) {
         GROUP_ONLY_PARTS.has(manifest.id));
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreCommonActions.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreCommonActions.js
 
 
 
@@ -18308,18 +18308,18 @@ Object.defineProperty(module.exports, "__esModule", { value: true });
 "use strict";
 __webpack_require__(180);
 var styles = {
-    defaultIconClass: 'defaultIconClass_b6c4dfc3',
-    dropLocation: 'dropLocation_b6c4dfc3',
-    horizontalLine: 'horizontalLine_b6c4dfc3',
-    verticalLine: 'verticalLine_b6c4dfc3',
-    noselect: 'noselect_b6c4dfc3',
-    linePositionAbsolute: 'linePositionAbsolute_b6c4dfc3',
-    iconVisible: 'iconVisible_b6c4dfc3',
-    iconCollapsed: 'iconCollapsed_b6c4dfc3',
-    iconAdditionalStyle: 'iconAdditionalStyle_b6c4dfc3',
-    cursorDragging: 'cursorDragging_b6c4dfc3',
-    handleGrab: 'handleGrab_b6c4dfc3',
-    hideLine: 'hideLine_b6c4dfc3',
+    defaultIconClass: 'defaultIconClass_c1d5bca2',
+    dropLocation: 'dropLocation_c1d5bca2',
+    horizontalLine: 'horizontalLine_c1d5bca2',
+    verticalLine: 'verticalLine_c1d5bca2',
+    noselect: 'noselect_c1d5bca2',
+    linePositionAbsolute: 'linePositionAbsolute_c1d5bca2',
+    iconVisible: 'iconVisible_c1d5bca2',
+    iconCollapsed: 'iconCollapsed_c1d5bca2',
+    iconAdditionalStyle: 'iconAdditionalStyle_c1d5bca2',
+    cursorDragging: 'cursorDragging_c1d5bca2',
+    handleGrab: 'handleGrab_c1d5bca2',
+    hideLine: 'hideLine_c1d5bca2',
 };
 /* harmony default export */ __webpack_exports__["a"] = (styles);
 
@@ -18330,7 +18330,7 @@ var styles = {
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "react"
@@ -18341,21 +18341,21 @@ var external__react__default = /*#__PURE__*/__webpack_require__.n(external__reac
 var office_ui_fabric_react_bundle_ = __webpack_require__(1);
 var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(office_ui_fabric_react_bundle_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/index.js + 7 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/index.js + 7 modules
 var lib = __webpack_require__(13);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
 var toolboxAnimation = __webpack_require__(48);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/ToolboxCallout.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/ToolboxCallout.module.scss.js
 __webpack_require__(229);
 var styles = {
-    container: 'container_49b46d69',
-    callout: 'callout_49b46d69',
+    container: 'container_fc1d0225',
+    callout: 'callout_fc1d0225',
 };
 /* harmony default export */ var ToolboxCallout_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/ToolboxCallout.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/ToolboxCallout.js
 
 
 
@@ -18456,7 +18456,7 @@ var ToolboxCallout_ToolboxCallout = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return ToolboxCallout_ToolboxCallout; });
 
 
@@ -18479,7 +18479,7 @@ var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 var sp_diagnostics_ = __webpack_require__(9);
 var sp_diagnostics__default = /*#__PURE__*/__webpack_require__.n(sp_diagnostics_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/search.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/search.js
 
 
 var logSource = sp_diagnostics_["_LogSource"].create('Toolbox');
@@ -18511,7 +18511,7 @@ function filterItems(items, query, source) {
     return result;
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return search_namespaceObject; });
 
 
@@ -18523,7 +18523,7 @@ function filterItems(items, query, source) {
 
 "use strict";
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxModel/ICanvasControl.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxModel/ICanvasControl.js
 var CanvasControlType;
 (function (CanvasControlType) {
     CanvasControlType[CanvasControlType["WebPartZone"] = 3] = "WebPartZone";
@@ -18536,7 +18536,7 @@ var CanvasControlType;
     CanvasControlType[CanvasControlType["OneColumn"] = 10] = "OneColumn";
 })(CanvasControlType = CanvasControlType || (CanvasControlType = {}));
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxModel/IToolboxItemShim.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxModel/IToolboxItemShim.js
 function mapToolboxItem(itemShim) {
     var id = itemShim.key ? itemShim.key.toString() : Math.random().toString();
     var item = {
@@ -18555,7 +18555,7 @@ function mapToolboxItem(itemShim) {
     };
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxModel/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxModel/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return CanvasControlType; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "b", function() { return mapToolboxItem; });
 
@@ -18576,20 +18576,20 @@ var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js + 3 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js + 3 modules
 var lessText = __webpack_require__(114);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.module.scss.js
 __webpack_require__(235);
 var styles = {
-    item: 'item_225ebed8',
-    flexBox: 'flexBox_225ebed8',
-    icon: 'icon_225ebed8',
-    title: 'title_225ebed8',
+    item: 'item_b3dbc3d7',
+    flexBox: 'flexBox_b3dbc3d7',
+    icon: 'icon_b3dbc3d7',
+    title: 'title_b3dbc3d7',
 };
 /* harmony default export */ var ToolboxItemBase_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.js
 /* harmony export (immutable) */ __webpack_exports__["a"] = ToolboxItemBase;
 
 
@@ -18637,7 +18637,7 @@ Object.defineProperty(module.exports, "__esModule", { value: true });
 
 "use strict";
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
 var toolboxAnimation = __webpack_require__(48);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -18648,17 +18648,17 @@ var office_ui_fabric_react_bundle__default = /*#__PURE__*/__webpack_require__.n(
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/index.js + 2 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxCallout/index.js + 2 modules
 var toolboxCallout = __webpack_require__(121);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoading.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoading.module.scss.js
 __webpack_require__(231);
 var styles = {
-    spinner: 'spinner_4e13307d',
+    spinner: 'spinner_1fa96147',
 };
 /* harmony default export */ var ToolboxLoading_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoading.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoading.js
 
 
 
@@ -18668,12 +18668,12 @@ function ToolboxLoading(props) {
         external__react_["createElement"](office_ui_fabric_react_bundle_["Spinner"], { type: office_ui_fabric_react_bundle_["SpinnerType"].large, className: ToolboxLoading_module_scss.spinner })));
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoadingAnimationLayer.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/ToolboxLoadingAnimationLayer.js
 
 
 var ToolboxLoadingAnimationLayer = Object(toolboxAnimation["a" /* animation */])(ToolboxLoading, 1 );
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "a", function() { return ToolboxLoadingAnimationLayer; });
 
 
@@ -18685,7 +18685,7 @@ var ToolboxLoadingAnimationLayer = Object(toolboxAnimation["a" /* animation */])
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "react"
@@ -18696,7 +18696,7 @@ var external__react__default = /*#__PURE__*/__webpack_require__.n(external__reac
 var external__react_dom_ = __webpack_require__(23);
 var external__react_dom__default = /*#__PURE__*/__webpack_require__.n(external__react_dom_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-a11y/lib/index.js + 7 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-a11y/lib/index.js + 7 modules
 var lib = __webpack_require__(13);
 
 // EXTERNAL MODULE: external "@microsoft/sp-application-base"
@@ -18761,7 +18761,7 @@ var ErrorDialog_ErrorDialog = (function (_super) {
 }(external__react_["Component"]));
 /* harmony default export */ var error_ErrorDialog = (ErrorDialog_ErrorDialog);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/prop-types/15.5.7/node_modules/prop-types/index.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/prop-types/15.5.7/node_modules/prop-types/index.js
 var prop_types = __webpack_require__(14);
 var prop_types_default = /*#__PURE__*/__webpack_require__.n(prop_types);
 
@@ -18870,7 +18870,7 @@ var sp_diagnostics__default = /*#__PURE__*/__webpack_require__.n(sp_diagnostics_
 var sp_page_context_ = __webpack_require__(67);
 var sp_page_context__default = /*#__PURE__*/__webpack_require__.n(sp_page_context_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/@ms/odsp-utilities-bundle/1.1.9/node_modules/@ms/odsp-utilities-bundle/lib/index.js
 var odsp_utilities_bundle_lib = __webpack_require__(12);
 var lib_default = /*#__PURE__*/__webpack_require__.n(odsp_utilities_bundle_lib);
 
@@ -18878,10 +18878,10 @@ var lib_default = /*#__PURE__*/__webpack_require__.n(odsp_utilities_bundle_lib);
 var sp_lodash_subset_ = __webpack_require__(17);
 var sp_lodash_subset__default = /*#__PURE__*/__webpack_require__.n(sp_lodash_subset_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-dragzone/lib/css/DragZone.module.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-dragzone/lib/css/DragZone.module.scss.js
 var DragZone_module_scss = __webpack_require__(120);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-dragzone/lib/DragZone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-dragzone/lib/DragZone.js
 
 
 
@@ -18956,31 +18956,31 @@ var DragZone_DragZone = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-dragzone/lib/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-dragzone/lib/index.js
 
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasControl/CanvasControlType.js
 var CanvasControlType = __webpack_require__(7);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZone.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZone.module.scss.js
 __webpack_require__(182);
 var styles = {
-    dragIconContainer: 'dragIconContainer_3e9b13d2',
-    dragIcon: 'dragIcon_3e9b13d2',
-    dragText: 'dragText_3e9b13d2',
-    singleColumn: 'singleColumn_3e9b13d2',
-    doubleColumn: 'doubleColumn_3e9b13d2',
-    tripleColumn: 'tripleColumn_3e9b13d2',
-    columnLeftTwoThirds: 'columnLeftTwoThirds_3e9b13d2',
-    columnRightTwoThirds: 'columnRightTwoThirds_3e9b13d2',
-    disabledArea: 'disabledArea_3e9b13d2',
+    dragIconContainer: 'dragIconContainer_e7dbee2e',
+    dragIcon: 'dragIcon_e7dbee2e',
+    dragText: 'dragText_e7dbee2e',
+    singleColumn: 'singleColumn_e7dbee2e',
+    doubleColumn: 'doubleColumn_e7dbee2e',
+    tripleColumn: 'tripleColumn_e7dbee2e',
+    columnLeftTwoThirds: 'columnLeftTwoThirds_e7dbee2e',
+    columnRightTwoThirds: 'columnRightTwoThirds_e7dbee2e',
+    disabledArea: 'disabledArea_e7dbee2e',
 };
 /* harmony default export */ var CanvasDragZone_module_scss = (styles);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/loc/CanvasStrings.resx.js
 var CanvasStrings_resx = __webpack_require__(11);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragIcon.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragIcon.js
 
 
 
@@ -19108,13 +19108,13 @@ var CanvasDragIcon_CanvasDragIcon = (function () {
 }());
 /* harmony default export */ var canvasDragZone_CanvasDragIcon = (CanvasDragIcon_CanvasDragIcon);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZoneConstants.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZoneConstants.js
 var CanvasDragZoneConstants = __webpack_require__(29);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/KillSwitches.js
 var KillSwitches = __webpack_require__(22);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasDragZone/CanvasDragZone.js
 
 
 
@@ -19342,32 +19342,32 @@ var CanvasDragZone_CanvasDragZone = (function (_super) {
 }(external__react_["Component"]));
 /* harmony default export */ var canvasDragZone_CanvasDragZone = (CanvasDragZone_CanvasDragZone);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasLayout.js + 1 modules
 var CanvasLayout = __webpack_require__(16);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasToolboxHint/CanvasToolboxHint.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasToolboxHint/CanvasToolboxHint.js
 var CanvasToolboxHint = __webpack_require__(111);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.js + 5 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasSection.js + 5 modules
 var CanvasSection = __webpack_require__(106);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasSection/CanvasFullWidthSection.js
 var CanvasFullWidthSection = __webpack_require__(45);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbar/Toolbar.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbar/Toolbar.js
 var Toolbar = __webpack_require__(112);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasZone/CanvasZone.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasZone/CanvasZone.scss.js
 var CanvasZone_scss = __webpack_require__(241);
 var CanvasZone_scss_default = /*#__PURE__*/__webpack_require__.n(CanvasZone_scss);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/a11y/CanvasA11yConstants.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/a11y/CanvasA11yConstants.js
 var CanvasA11yConstants = __webpack_require__(47);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/Flights.js
 var Flights = __webpack_require__(24);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasZone/CanvasZone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasZone/CanvasZone.js
 
 
 
@@ -19664,10 +19664,10 @@ var CanvasZone_CanvasZone = (function (_super) {
 }(office_ui_fabric_react_bundle_["BaseComponent"]));
 /* harmony default export */ var canvasZone_CanvasZone = (CanvasZone_CanvasZone);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasAnimations/CanvasScrollAnimation.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasAnimations/CanvasScrollAnimation.js
 var CanvasScrollAnimation = __webpack_require__(46);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/confirmationDialog/ConfirmationDialog.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/confirmationDialog/ConfirmationDialog.js
 
 
 
@@ -19719,7 +19719,7 @@ var ConfirmationDialog_ConfirmationDialog = (function (_super) {
 }(external__react_["Component"]));
 /* harmony default export */ var confirmationDialog_ConfirmationDialog = (ConfirmationDialog_ConfirmationDialog);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CreateEmptyZoneLayout.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CreateEmptyZoneLayout.js
 function CreateEmptyZoneLayout(zoneIndex, sectionIndex, controlIndex) {
     return {
         zoneIndex: zoneIndex,
@@ -19728,11 +19728,11 @@ function CreateEmptyZoneLayout(zoneIndex, sectionIndex, controlIndex) {
     };
 }
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxGroup/ToolboxGroup.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxGroup/ToolboxGroup.scss.js
 var ToolboxGroup_scss = __webpack_require__(244);
 var ToolboxGroup_scss_default = /*#__PURE__*/__webpack_require__.n(ToolboxGroup_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxGroup/ToolboxGroup.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxGroup/ToolboxGroup.js
 
 
 function ToolboxGroup(props) {
@@ -19741,14 +19741,14 @@ function ToolboxGroup(props) {
         external__react_["createElement"]("div", { className: 'CanvasToolboxItemsGroup-items' }, props.children)));
 }
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/common/DeferredCanvasToolbox.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/common/DeferredCanvasToolbox.js
 var DeferredCanvasToolbox = __webpack_require__(61);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxItem/ToolboxItem.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxItem/ToolboxItem.scss.js
 var ToolboxItem_scss = __webpack_require__(247);
 var ToolboxItem_scss_default = /*#__PURE__*/__webpack_require__.n(ToolboxItem_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxItem/ToolboxItem.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxItem/ToolboxItem.js
 
 
 
@@ -19765,11 +19765,11 @@ function ToolboxItem(props) {
             } })));
 }
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxSmall/ToolboxSmall.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxSmall/ToolboxSmall.scss.js
 var ToolboxSmall_scss = __webpack_require__(250);
 var ToolboxSmall_scss_default = /*#__PURE__*/__webpack_require__.n(ToolboxSmall_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxSmall/ToolboxSmall.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbox/toolboxSmall/ToolboxSmall.js
 
 
 
@@ -19939,11 +19939,11 @@ var ToolboxSmall_ToolboxSmall = (function (_super) {
 }(office_ui_fabric_react_bundle_["BaseComponent"]));
 /* harmony default export */ var toolboxSmall_ToolboxSmall = (ToolboxSmall_ToolboxSmall);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasComponent.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasComponent.scss.js
 var CanvasComponent_scss = __webpack_require__(253);
 var CanvasComponent_scss_default = /*#__PURE__*/__webpack_require__.n(CanvasComponent_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasComponent.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasComponent.js
 
 
 
@@ -20171,7 +20171,7 @@ var CanvasComponent_CanvasComponent = (function (_super) {
 var sp_webpart_base_ = __webpack_require__(30);
 var sp_webpart_base__default = /*#__PURE__*/__webpack_require__.n(sp_webpart_base_);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasFields.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasFields.js
 
 var CanvasFields_CanvasFields = (function () {
     function CanvasFields() {
@@ -20248,16 +20248,16 @@ var CanvasFields_CanvasFields = (function () {
 }());
 /* harmony default export */ var canvasComponent_CanvasFields = (CanvasFields_CanvasFields);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasSectionPart.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasLayout/CanvasSectionPart.js
 var CanvasSectionPart = __webpack_require__(105);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreCommonActions.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreCommonActions.js + 1 modules
 var CanvasStoreCommonActions = __webpack_require__(115);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreEditActions.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStoreEditActions.js
 var CanvasStoreEditActions = __webpack_require__(351);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasWebPartHost/CanvasWebPartHost.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasWebPartHost/CanvasWebPartHost.js
 var CanvasWebPartHost = (function () {
     function CanvasWebPartHost(serviceScope, handleResize, isViewportLoadingDisabled, handleCanvasChanged, reclaimFocus, setSelectedWebPartId) {
         this._handleCanvasChanged = handleCanvasChanged;
@@ -20305,7 +20305,7 @@ var CanvasWebPartHost = (function () {
 }());
 /* harmony default export */ var canvasWebPartHost_CanvasWebPartHost = (CanvasWebPartHost);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/DeferredCanvasStoreEditActions.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/DeferredCanvasStoreEditActions.js
 
 
 var DeferredCanvasStoreEditActions_DeferredCanvasStoreEditActions = (function (_super) {
@@ -20327,12 +20327,12 @@ var DeferredCanvasStoreEditActions_DeferredCanvasStoreEditActions = (function (_
 }(sp_core_library_["_DeferredClass"]));
 /* harmony default export */ var canvasComponent_DeferredCanvasStoreEditActions = (DeferredCanvasStoreEditActions_DeferredCanvasStoreEditActions);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/utilities/HTMLCleanupUtils.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/utilities/HTMLCleanupUtils.js
 function StripOutNewLinesAndSpacesFromInnerHTML(innerHTML) {
     return innerHTML.replace(/>\s+</g, '><');
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStore.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvasComponent/CanvasStore.js
 
 
 
@@ -21199,11 +21199,11 @@ var CanvasStore_CanvasStore = (function () {
 }());
 /* harmony default export */ var canvasComponent_CanvasStore = (CanvasStore_CanvasStore);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvas/LayoutCanvas.scss.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvas/LayoutCanvas.scss.js
 var LayoutCanvas_scss = __webpack_require__(256);
 var LayoutCanvas_scss_default = /*#__PURE__*/__webpack_require__.n(LayoutCanvas_scss);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvas/Canvas.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/canvas/canvas/Canvas.js
 
 
 
@@ -21328,13 +21328,13 @@ var Canvas_Canvas = (function () {
 }());
 /* harmony default export */ var canvas_Canvas = (Canvas_Canvas);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js + 4 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/BaseRte.js + 4 modules
 var BaseRte = __webpack_require__(49);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/ckeditor/CKTextEditor.js + 5 modules
 var CKTextEditor = __webpack_require__(59);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/webPartRte/CKEditorForWebPartRte.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/webPartRte/CKEditorForWebPartRte.js
 
 
 
@@ -21401,16 +21401,16 @@ var CKEditorForWebPartRte_CKEditorForWebPartRte = (function (_super) {
 }(CKTextEditor["a" /* default */]));
 /* harmony default export */ var webPartRte_CKEditorForWebPartRte = (CKEditorForWebPartRte_CKEditorForWebPartRte);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteCKEditorConfiguration.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/SPRteCKEditorConfiguration.js
 var SPRteCKEditorConfiguration = __webpack_require__(110);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/a11y/RteA11y.js + 1 modules
 var RteA11y = __webpack_require__(60);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/loc/RteStrings.resx.js
 var RteStrings_resx = __webpack_require__(18);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-rte/rte/webPartRte/WebPartRte.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-rte/rte/webPartRte/WebPartRte.js
 
 
 
@@ -21517,33 +21517,33 @@ var WebPartRte_WebPartRte = (function (_super) {
 }(BaseRte["a" /* BaseRte */]));
 /* harmony default export */ var webPartRte_WebPartRte = (WebPartRte_WebPartRte);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/sp-canvas/toolbar/toolbarButton/ToolbarButton.js
 var ToolbarButton = __webpack_require__(35);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas/lib/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas/lib/index.js
 
 
 
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/spfx-core/sp-webpart-base/lib/propertyPane/propertyPaneController/PropertyPaneController.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/spfx-core/sp-webpart-base/lib/propertyPane/propertyPaneController/PropertyPaneController.module.scss.js
 __webpack_require__(259);
 var PropertyPaneController_module_scss_styles = {
-    showPane: 'showPane_fbeb0b4e',
-    spPropertyPaneContainer: 'spPropertyPaneContainer_fbeb0b4e',
-    shrinkContent: 'shrinkContent_fbeb0b4e',
+    showPane: 'showPane_89b3125a',
+    spPropertyPaneContainer: 'spPropertyPaneContainer_89b3125a',
+    shrinkContent: 'shrinkContent_89b3125a',
 };
 /* harmony default export */ var PropertyPaneController_module_scss = (PropertyPaneController_module_scss_styles);
 
 // CONCATENATED MODULE: ./lib/components/canvasHost/CanvasHost.module.scss.js
 __webpack_require__(261);
 var CanvasHost_module_scss_styles = {
-    canvasHost: 'canvasHost_dcfd991b',
-    belowHeader: 'belowHeader_dcfd991b',
-    content: 'content_dcfd991b',
-    hasHeader: 'hasHeader_dcfd991b',
-    hasCommandBar: 'hasCommandBar_dcfd991b',
-    NavPane: 'NavPane_dcfd991b',
+    canvasHost: 'canvasHost_638866c1',
+    belowHeader: 'belowHeader_638866c1',
+    content: 'content_638866c1',
+    hasHeader: 'hasHeader_638866c1',
+    hasCommandBar: 'hasCommandBar_638866c1',
+    NavPane: 'NavPane_638866c1',
 };
 /* harmony default export */ var CanvasHost_module_scss = (CanvasHost_module_scss_styles);
 
@@ -21662,9 +21662,9 @@ var mobilePreviewDevices = {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewClickStop/MobilePreviewClickStop.module.scss.js
 __webpack_require__(263);
 var MobilePreviewClickStop_module_scss_styles = {
-    clickStop: 'clickStop_45a24174',
-    clickStopSelected: 'clickStopSelected_45a24174',
-    navBarItem: 'navBarItem_45a24174',
+    clickStop: 'clickStop_fc9eaa34',
+    clickStopSelected: 'clickStopSelected_fc9eaa34',
+    navBarItem: 'navBarItem_fc9eaa34',
 };
 /* harmony default export */ var MobilePreviewClickStop_module_scss = (MobilePreviewClickStop_module_scss_styles);
 
@@ -21743,9 +21743,9 @@ var MobilePreviewClickStop_MobilePreviewClickStop = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewClickStopBar/MobilePreviewClickStopBar.module.scss.js
 __webpack_require__(265);
 var MobilePreviewClickStopBar_module_scss_styles = {
-    clickStopNavBar: 'clickStopNavBar_6e64a0bb',
-    navBarItems: 'navBarItems_6e64a0bb',
-    mobilePreviewDeviceTitle: 'mobilePreviewDeviceTitle_6e64a0bb',
+    clickStopNavBar: 'clickStopNavBar_a84e46a7',
+    navBarItems: 'navBarItems_a84e46a7',
+    mobilePreviewDeviceTitle: 'mobilePreviewDeviceTitle_a84e46a7',
 };
 /* harmony default export */ var MobilePreviewClickStopBar_module_scss = (MobilePreviewClickStopBar_module_scss_styles);
 
@@ -21789,25 +21789,25 @@ var MobilePreviewClickStopBar_MobilePreviewClickStopBar = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewHeaderBar/MobilePreviewHeaderBar.module.scss.js
 __webpack_require__(267);
 var MobilePreviewHeaderBar_module_scss_styles = {
-    mobilePreviewNavBar: 'mobilePreviewNavBar_63d32c29',
-    navBarItems: 'navBarItems_63d32c29',
-    navBarItemSm: 'navBarItemSm_63d32c29',
-    navBarItemMd: 'navBarItemMd_63d32c29',
-    navBarItem: 'navBarItem_63d32c29',
-    'ms-Grid': 'ms-Grid_63d32c29',
-    navBarItemRight: 'navBarItemRight_63d32c29',
-    mobilePreviewTitle: 'mobilePreviewTitle_63d32c29',
-    mobilePreviewXIcon: 'mobilePreviewXIcon_63d32c29',
-    col: 'col_63d32c29',
+    mobilePreviewNavBar: 'mobilePreviewNavBar_f4b368a4',
+    navBarItems: 'navBarItems_f4b368a4',
+    navBarItemSm: 'navBarItemSm_f4b368a4',
+    navBarItemMd: 'navBarItemMd_f4b368a4',
+    navBarItem: 'navBarItem_f4b368a4',
+    'ms-Grid': 'ms-Grid_f4b368a4',
+    navBarItemRight: 'navBarItemRight_f4b368a4',
+    mobilePreviewTitle: 'mobilePreviewTitle_f4b368a4',
+    mobilePreviewXIcon: 'mobilePreviewXIcon_f4b368a4',
+    col: 'col_f4b368a4',
 };
 /* harmony default export */ var MobilePreviewHeaderBar_module_scss = (MobilePreviewHeaderBar_module_scss_styles);
 
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewHeaderBar/mobilePreviewURLEntry/MobilePreviewURLEntry.module.scss.js
 __webpack_require__(269);
 var MobilePreviewURLEntry_module_scss_styles = {
-    mobilePreviewURLbar: 'mobilePreviewURLbar_a4941063',
-    mobilePreviewTextfield: 'mobilePreviewTextfield_a4941063',
-    mobilePreviewURLbutton: 'mobilePreviewURLbutton_a4941063',
+    mobilePreviewURLbar: 'mobilePreviewURLbar_5b0060f7',
+    mobilePreviewTextfield: 'mobilePreviewTextfield_5b0060f7',
+    mobilePreviewURLbutton: 'mobilePreviewURLbutton_5b0060f7',
 };
 /* harmony default export */ var MobilePreviewURLEntry_module_scss = (MobilePreviewURLEntry_module_scss_styles);
 
@@ -21847,8 +21847,8 @@ var MobilePreviewURLEntry_MobilePreviewURLEntry = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewHeaderBar/mobilePreviewDeviceTypeSelector/MobilePreviewDeviceTypeSelector.module.scss.js
 __webpack_require__(271);
 var MobilePreviewDeviceTypeSelector_module_scss_styles = {
-    mobilePreviewDeviceIcon: 'mobilePreviewDeviceIcon_962913c5',
-    navBarItemRight: 'navBarItemRight_962913c5',
+    mobilePreviewDeviceIcon: 'mobilePreviewDeviceIcon_2ea82b5f',
+    navBarItemRight: 'navBarItemRight_2ea82b5f',
 };
 /* harmony default export */ var MobilePreviewDeviceTypeSelector_module_scss = (MobilePreviewDeviceTypeSelector_module_scss_styles);
 
@@ -21915,11 +21915,11 @@ var MobilePreviewHeaderBar_MobilePreviewHeaderBar = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewDeviceView/MobilePreviewDeviceView.module.scss.js
 __webpack_require__(273);
 var MobilePreviewDeviceView_module_scss_styles = {
-    mobilePreviewDevice: 'mobilePreviewDevice_97cdcc69',
-    mobilePreviewPortrait: 'mobilePreviewPortrait_97cdcc69',
-    mobilePreviewLandscape: 'mobilePreviewLandscape_97cdcc69',
-    mobilePreviewTablet: 'mobilePreviewTablet_97cdcc69',
-    mobilePreviewIframe: 'mobilePreviewIframe_97cdcc69',
+    mobilePreviewDevice: 'mobilePreviewDevice_53a07474',
+    mobilePreviewPortrait: 'mobilePreviewPortrait_53a07474',
+    mobilePreviewLandscape: 'mobilePreviewLandscape_53a07474',
+    mobilePreviewTablet: 'mobilePreviewTablet_53a07474',
+    mobilePreviewIframe: 'mobilePreviewIframe_53a07474',
 };
 /* harmony default export */ var MobilePreviewDeviceView_module_scss = (MobilePreviewDeviceView_module_scss_styles);
 
@@ -21964,11 +21964,11 @@ var MobilePreviewDeviceView_MobilePreviewDeviceView = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewDimensionInput/MobilePreviewDimensionInput.module.scss.js
 __webpack_require__(275);
 var MobilePreviewDimensionInput_module_scss_styles = {
-    xField: 'xField_ac708d6d',
-    yField: 'yField_ac708d6d',
-    mobilePreviewTextfieldXY: 'mobilePreviewTextfieldXY_ac708d6d',
-    xyTextfields: 'xyTextfields_ac708d6d',
-    xyLabels: 'xyLabels_ac708d6d',
+    xField: 'xField_98088b94',
+    yField: 'yField_98088b94',
+    mobilePreviewTextfieldXY: 'mobilePreviewTextfieldXY_98088b94',
+    xyTextfields: 'xyTextfields_98088b94',
+    xyLabels: 'xyLabels_98088b94',
 };
 /* harmony default export */ var MobilePreviewDimensionInput_module_scss = (MobilePreviewDimensionInput_module_scss_styles);
 
@@ -22001,7 +22001,7 @@ var MobilePreviewDimensionInput_MobilePreviewDimensionInput = (function (_super)
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreviewRotate/MobilePreviewRotate.module.scss.js
 __webpack_require__(277);
 var MobilePreviewRotate_module_scss_styles = {
-    mobilePreviewRotateIcon: 'mobilePreviewRotateIcon_a98dc566',
+    mobilePreviewRotateIcon: 'mobilePreviewRotateIcon_c5c15c50',
 };
 /* harmony default export */ var MobilePreviewRotate_module_scss = (MobilePreviewRotate_module_scss_styles);
 
@@ -22038,8 +22038,8 @@ var MobilePreviewRotate_MobilePreviewRotate = (function (_super) {
 // CONCATENATED MODULE: ./lib/components/mobilePreview/mobilePreview/MobilePreview.module.scss.js
 __webpack_require__(279);
 var MobilePreview_module_scss_styles = {
-    mobilePreviewContainer: 'mobilePreviewContainer_ac7879ff',
-    mobilePreviewDeviceContainer: 'mobilePreviewDeviceContainer_ac7879ff',
+    mobilePreviewContainer: 'mobilePreviewContainer_0a30e6a9',
+    mobilePreviewDeviceContainer: 'mobilePreviewDeviceContainer_0a30e6a9',
 };
 /* harmony default export */ var MobilePreview_module_scss = (MobilePreview_module_scss_styles);
 
@@ -22247,11 +22247,11 @@ var MobilePreview_MobilePreview = (function (_super) {
 }(external__react_["Component"]));
 /* harmony default export */ var mobilePreview_MobilePreview = (MobilePreview_MobilePreview);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/office-ui-fabric-react/5.83.0/react-dom@15.6.2+react@15.6.2/node_modules/office-ui-fabric-react/lib/components/Pivot/Pivot.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/office-ui-fabric-react/5.83.0/react-dom@15.6.2+react@15.6.2/node_modules/office-ui-fabric-react/lib/components/Pivot/Pivot.js
 var Pivot = __webpack_require__(281);
 var Pivot_default = /*#__PURE__*/__webpack_require__.n(Pivot);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/office-ui-fabric-react/5.83.0/react-dom@15.6.2+react@15.6.2/node_modules/office-ui-fabric-react/lib/components/Pivot/PivotItem.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/office-ui-fabric-react/5.83.0/react-dom@15.6.2+react@15.6.2/node_modules/office-ui-fabric-react/lib/components/Pivot/PivotItem.js
 var PivotItem = __webpack_require__(288);
 var PivotItem_default = /*#__PURE__*/__webpack_require__.n(PivotItem);
 
@@ -22281,18 +22281,18 @@ function getReactLines(str) {
 // CONCATENATED MODULE: ./lib/components/serializedCanvasView/serializedWebPart/SerializedWebPart.module.scss.js
 __webpack_require__(289);
 var SerializedWebPart_module_scss_styles = {
-    serializedWebPartItem: 'serializedWebPartItem_eefeedf6',
+    serializedWebPartItem: 'serializedWebPartItem_65922bc8',
 };
 /* harmony default export */ var SerializedWebPart_module_scss = (SerializedWebPart_module_scss_styles);
 
 // CONCATENATED MODULE: ./lib/components/serializedCanvasView/SerializedCanvasView.module.scss.js
 __webpack_require__(291);
 var SerializedCanvasView_module_scss_styles = {
-    container: 'container_4f1b79f3',
-    content: 'content_4f1b79f3',
-    pivotItem: 'pivotItem_4f1b79f3',
-    learnMoreLink: 'learnMoreLink_4f1b79f3',
-    serializedTextArea: 'serializedTextArea_4f1b79f3',
+    container: 'container_5def56c1',
+    content: 'content_5def56c1',
+    pivotItem: 'pivotItem_5def56c1',
+    learnMoreLink: 'learnMoreLink_5def56c1',
+    serializedTextArea: 'serializedTextArea_5def56c1',
 };
 /* harmony default export */ var SerializedCanvasView_module_scss = (SerializedCanvasView_module_scss_styles);
 
@@ -22396,13 +22396,13 @@ var Workbench_resx_strings = ( false) ?
 // CONCATENATED MODULE: ./lib/components/workbench/Workbench.module.scss.js
 __webpack_require__(293);
 var Workbench_module_scss_styles = {
-    workbench: 'workbench_803fb3fb',
-    header: 'header_803fb3fb',
-    headerMenu: 'headerMenu_803fb3fb',
-    headerTitle: 'headerTitle_803fb3fb',
-    headerPerson: 'headerPerson_803fb3fb',
-    pageContent: 'pageContent_803fb3fb',
-    commandBar: 'commandBar_803fb3fb',
+    workbench: 'workbench_41829fcd',
+    header: 'header_41829fcd',
+    headerMenu: 'headerMenu_41829fcd',
+    headerTitle: 'headerTitle_41829fcd',
+    headerPerson: 'headerPerson_41829fcd',
+    pageContent: 'pageContent_41829fcd',
+    commandBar: 'commandBar_41829fcd',
 };
 /* harmony default export */ var Workbench_module_scss = (Workbench_module_scss_styles);
 
@@ -29018,7 +29018,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".defaultIconClass_b6c4dfc3{border:1px solid;border-color:\"[theme:themePrimary, default: #0078d4]\";height:35px;position:absolute;width:35px}.dropLocation_b6c4dfc3{background-color:\"[theme:themePrimary, default: #0078d4]\";z-index:10}.dropLocation_b6c4dfc3.horizontalLine_b6c4dfc3{height:3px}.dropLocation_b6c4dfc3.verticalLine_b6c4dfc3{width:3px}.noselect_b6c4dfc3{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.linePositionAbsolute_b6c4dfc3{position:absolute}.linePositionAbsolute_b6c4dfc3.horizontalLine_b6c4dfc3{left:0;right:0}.linePositionAbsolute_b6c4dfc3.verticalLine_b6c4dfc3{top:0;bottom:0}.iconVisible_b6c4dfc3{visibility:visible}.iconCollapsed_b6c4dfc3{visibility:collapse}.iconAdditionalStyle_b6c4dfc3{pointer-events:none;z-index:11}.cursorDragging_b6c4dfc3 *{cursor:-webkit-grabbing!important;cursor:grabbing!important}.handleGrab_b6c4dfc3{cursor:-webkit-grab!important;cursor:grab!important}.hideLine_b6c4dfc3{display:none}", ""]);
+exports.push([module.i, ".defaultIconClass_c1d5bca2{border:1px solid;border-color:\"[theme:themePrimary, default: #0078d4]\";height:35px;position:absolute;width:35px}.dropLocation_c1d5bca2{background-color:\"[theme:themePrimary, default: #0078d4]\";z-index:10}.dropLocation_c1d5bca2.horizontalLine_c1d5bca2{height:3px}.dropLocation_c1d5bca2.verticalLine_c1d5bca2{width:3px}.noselect_c1d5bca2{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.linePositionAbsolute_c1d5bca2{position:absolute}.linePositionAbsolute_c1d5bca2.horizontalLine_c1d5bca2{left:0;right:0}.linePositionAbsolute_c1d5bca2.verticalLine_c1d5bca2{top:0;bottom:0}.iconVisible_c1d5bca2{visibility:visible}.iconCollapsed_c1d5bca2{visibility:collapse}.iconAdditionalStyle_c1d5bca2{pointer-events:none;z-index:11}.cursorDragging_c1d5bca2 *{cursor:-webkit-grabbing!important;cursor:grabbing!important}.handleGrab_c1d5bca2{cursor:-webkit-grab!important;cursor:grab!important}.hideLine_c1d5bca2{display:none}", ""]);
 
 // exports
 
@@ -29046,7 +29046,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".dragIconContainer_3e9b13d2{position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-align:center;align-items:center;text-align:center;font-size:32px;color:\"[theme:neutralLighterAlt, default: #f8f8f8]\"}.dragIconContainer_3e9b13d2 .dragIcon_3e9b13d2{width:50px;height:50px;background-color:\"[theme:themePrimary, default:#0078d4]\";display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.dragIconContainer_3e9b13d2 .dragIcon_3e9b13d2 .ms-Icon{font-size:32px;padding:9px}.dragIconContainer_3e9b13d2 .dragText_3e9b13d2{height:22px;padding:4px;max-width:200px;font-size:15px!important;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;background-color:rgba(0,0,0,.5);color:#fff;font-family:Segoe UI Light WestEuropean,Segoe UI Light,Segoe WP Light,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif}.dragIconContainer_3e9b13d2 .singleColumn_3e9b13d2:before{content:\"\\F1D3\"}.dragIconContainer_3e9b13d2 .doubleColumn_3e9b13d2:before{content:\"\\F1D4\"}.dragIconContainer_3e9b13d2 .tripleColumn_3e9b13d2:before{content:\"\\F1D5\"}.dragIconContainer_3e9b13d2 .columnLeftTwoThirds_3e9b13d2:before{content:\"\\F1D6\"}.dragIconContainer_3e9b13d2 .columnRightTwoThirds_3e9b13d2:before{content:\"\\F1D7\"}.disabledArea_3e9b13d2{position:relative}.disabledArea_3e9b13d2:before{background-color:\"[theme:neutralSecondary, default: #666666]\";content:\"\";display:block;position:absolute;height:100%;width:100%;z-index:100;opacity:.6}", ""]);
+exports.push([module.i, ".dragIconContainer_e7dbee2e{position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-align:center;align-items:center;text-align:center;font-size:32px;color:\"[theme:neutralLighterAlt, default: #f8f8f8]\"}.dragIconContainer_e7dbee2e .dragIcon_e7dbee2e{width:50px;height:50px;background-color:\"[theme:themePrimary, default:#0078d4]\";display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.dragIconContainer_e7dbee2e .dragIcon_e7dbee2e .ms-Icon{font-size:32px;padding:9px}.dragIconContainer_e7dbee2e .dragText_e7dbee2e{height:22px;padding:4px;max-width:200px;font-size:15px!important;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;background-color:rgba(0,0,0,.5);color:#fff;font-family:Segoe UI Light WestEuropean,Segoe UI Light,Segoe WP Light,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif}.dragIconContainer_e7dbee2e .singleColumn_e7dbee2e:before{content:\"\\F1D3\"}.dragIconContainer_e7dbee2e .doubleColumn_e7dbee2e:before{content:\"\\F1D4\"}.dragIconContainer_e7dbee2e .tripleColumn_e7dbee2e:before{content:\"\\F1D5\"}.dragIconContainer_e7dbee2e .columnLeftTwoThirds_e7dbee2e:before{content:\"\\F1D6\"}.dragIconContainer_e7dbee2e .columnRightTwoThirds_e7dbee2e:before{content:\"\\F1D7\"}.disabledArea_e7dbee2e{position:relative}.disabledArea_e7dbee2e:before{background-color:\"[theme:neutralSecondary, default: #666666]\";content:\"\";display:block;position:absolute;height:100%;width:100%;z-index:100;opacity:.6}", ""]);
 
 // exports
 
@@ -30473,7 +30473,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".screenReaderOnly_f6e74b04{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}", ""]);
+exports.push([module.i, ".screenReaderOnly_8986b021{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}", ""]);
 
 // exports
 
@@ -30501,7 +30501,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".LinkDialogContainer_3c6683c6{min-width:360px!important;max-width:none!important}", ""]);
+exports.push([module.i, ".LinkDialogContainer_aae2b8dc{min-width:360px!important;max-width:none!important}", ""]);
 
 // exports
 
@@ -31541,7 +31541,7 @@ exports.push([module.i, ".CanvasSection-col{position:relative;min-height:1px;pad
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/common/temp/node_modules/.onedrive.pkgs.visualstudio.com/tslib/1.8.1/node_modules/tslib/tslib.es6.js
 var tslib_es6 = __webpack_require__(0);
 
 // EXTERNAL MODULE: external "@microsoft/office-ui-fabric-react-bundle"
@@ -31560,16 +31560,16 @@ var sp_telemetry__default = /*#__PURE__*/__webpack_require__.n(sp_telemetry_);
 var external__react_ = __webpack_require__(2);
 var external__react__default = /*#__PURE__*/__webpack_require__.n(external__react_);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/index.js + 3 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxLoading/index.js + 3 modules
 var toolboxLoading = __webpack_require__(127);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxAnimation/index.js + 2 modules
 var toolboxAnimation = __webpack_require__(48);
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/index.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxSearch/index.js + 1 modules
 var toolboxSearch = __webpack_require__(122);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxNone/ToolboxNone.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxNone/ToolboxNone.js
 
 
 function ToolboxNone(props) {
@@ -31577,15 +31577,15 @@ function ToolboxNone(props) {
     return (external__react_["createElement"]("div", { className: props.className }));
 }
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxNone/ToolboxNoneAnimationLayer.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxNone/ToolboxNoneAnimationLayer.js
 
 
 var ToolboxNoneAnimationLayer = Object(toolboxAnimation["a" /* animation */])(ToolboxNone, 0 );
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxNone/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxNone/index.js
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolbox/ToolboxOpenLayer.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolbox/ToolboxOpenLayer.js
 
 
 
@@ -31688,22 +31688,22 @@ var ToolboxOpenLayer_ToolboxOpenLayer = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolbox/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolbox/index.js
 
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.js + 1 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemBase.js + 1 modules
 var ToolboxItemBase = __webpack_require__(124);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemFullBleed.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemFullBleed.module.scss.js
 __webpack_require__(237);
 var styles = {
-    item: 'item_d0eca494',
-    icon: 'icon_d0eca494',
-    title: 'title_d0eca494',
+    item: 'item_a4c651e2',
+    icon: 'icon_a4c651e2',
+    title: 'title_a4c651e2',
 };
 /* harmony default export */ var ToolboxItemFullBleed_module_scss = (styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemFullBleed.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxItem/ToolboxItemFullBleed.js
 
 
 
@@ -31712,24 +31712,24 @@ function ToolboxItemFullBleed(props) {
     return (external__react_["createElement"](ToolboxItemBase["a" /* ToolboxItemBase */], tslib_es6["a" /* __assign */]({}, props, { titleLineCount: 2, itemClassName: ToolboxItemFullBleed_module_scss.item, iconClassName: ToolboxItemFullBleed_module_scss.icon, titleClassName: ToolboxItemFullBleed_module_scss.title })));
 }
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxModel/index.js + 2 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxModel/index.js + 2 modules
 var toolboxModel = __webpack_require__(123);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleed.module.scss.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleed.module.scss.js
 __webpack_require__(239);
 var ToolboxFullBleed_module_scss_styles = {
-    toolboxFullBleed: 'toolboxFullBleed_f49090c9',
-    header: 'header_f49090c9',
+    toolboxFullBleed: 'toolboxFullBleed_bfc47e55',
+    header: 'header_bfc47e55',
 };
 /* harmony default export */ var ToolboxFullBleed_module_scss = (ToolboxFullBleed_module_scss_styles);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleedStrings.resx.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleedStrings.resx.js
 var strings = ( false) ?
     require("../resx-strings/en-us.json") :
     __webpack_require__(15);
 /* harmony default export */ var ToolboxFullBleedStrings_resx = (strings['_6tOZemhV08aF1IgNDNeiwQ']);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleed.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/ToolboxFullBleed.js
 
 
 
@@ -31778,13 +31778,13 @@ var ToolboxFullBleed_ToolboxFullBleed = (function (_super) {
 }(external__react_["PureComponent"]));
 
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/toolboxFullBleed/index.js
 
 
-// EXTERNAL MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js + 3 modules
+// EXTERNAL MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/legacy/lessText/index.js + 3 modules
 var lessText = __webpack_require__(114);
 
-// CONCATENATED MODULE: C:/agent/1/_work/7/s/libraries/sp-canvas-toolbox/lib/index.js
+// CONCATENATED MODULE: C:/agent/1/_work/60/s/libraries/sp-canvas-toolbox/lib/index.js
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "Toolbox", function() { return ToolboxOpenLayer_ToolboxOpenLayer; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "ToolboxFullBleed", function() { return ToolboxFullBleed_ToolboxFullBleed; });
 /* concated harmony reexport */__webpack_require__.d(__webpack_exports__, "LessText", function() { return lessText["a" /* LessText */]; });
@@ -31816,7 +31816,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, "@keyframes fromNoneToSmallUpIn_ad0abd2b{0%{height:30px}to{height:330px}}@keyframes fromNoneToSmallDownInLTR_ad0abd2b{0%{height:30px;transform:translate(-50%,300px)}to{height:330px;transform:translate(-50%)}}@keyframes fromNoneToSmallDownInRTL_ad0abd2b{0%{height:30px;transform:translate(50%,300px)}to{height:330px;transform:translate(50%)}}@keyframes fromSmallToLarge_ad0abd2b{0%{transform:scale(.2)}to{transform:scale(1)}}@keyframes fromLargeToSmall_ad0abd2b{0%{width:1024px;height:712px}to{width:292px;height:330px}}.fromNoneToSmall_ad0abd2b.upIn_ad0abd2b{animation:fromNoneToSmallUpIn_ad0abd2b .3s}[dir=ltr] .fromNoneToSmall_ad0abd2b.downIn_ad0abd2b{animation:fromNoneToSmallDownInLTR_ad0abd2b .3s}[dir=rtl] .fromNoneToSmall_ad0abd2b.downIn_ad0abd2b{animation:fromNoneToSmallDownInRTL_ad0abd2b .3s}.fromSmallToLarge_ad0abd2b{animation:fromSmallToLarge_ad0abd2b .3s;overflow:hidden}.fromLargeToSmall_ad0abd2b{animation:fromLargeToSmall_ad0abd2b .3s}", ""]);
+exports.push([module.i, "@keyframes fromNoneToSmallUpIn_5df8966d{0%{height:30px}to{height:330px}}@keyframes fromNoneToSmallDownInLTR_5df8966d{0%{height:30px;transform:translate(-50%,300px)}to{height:330px;transform:translate(-50%)}}@keyframes fromNoneToSmallDownInRTL_5df8966d{0%{height:30px;transform:translate(50%,300px)}to{height:330px;transform:translate(50%)}}@keyframes fromSmallToLarge_5df8966d{0%{transform:scale(.2)}to{transform:scale(1)}}@keyframes fromLargeToSmall_5df8966d{0%{width:1024px;height:712px}to{width:292px;height:330px}}.fromNoneToSmall_5df8966d.upIn_5df8966d{animation:fromNoneToSmallUpIn_5df8966d .3s}[dir=ltr] .fromNoneToSmall_5df8966d.downIn_5df8966d{animation:fromNoneToSmallDownInLTR_5df8966d .3s}[dir=rtl] .fromNoneToSmall_5df8966d.downIn_5df8966d{animation:fromNoneToSmallDownInRTL_5df8966d .3s}.fromSmallToLarge_5df8966d{animation:fromSmallToLarge_5df8966d .3s;overflow:hidden}.fromLargeToSmall_5df8966d{animation:fromLargeToSmall_5df8966d .3s}", ""]);
 
 // exports
 
@@ -31844,7 +31844,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".container_49b46d69{position:absolute;top:0;width:100%;max-width:1284px}[dir=ltr] .container_49b46d69{left:0}[dir=rtl] .container_49b46d69{right:0}.callout_49b46d69{background:\"[theme:white, default: #ffffff]\";border:1px solid #d6d6d6;box-shadow:0 0 8px 0 rgba(0,0,0,.2);box-sizing:border-box;height:330px;margin-top:26px;position:absolute;width:292px;z-index:10;margin-left:0;margin-right:0}[dir=ltr] .callout_49b46d69{left:0}[dir=rtl] .callout_49b46d69{right:0}[dir=ltr] .callout_49b46d69{transform:translateX(-50%)}[dir=rtl] .callout_49b46d69{transform:translateX(50%)}.callout_49b46d69 .ms-Spinner-container{margin-top:151px}[dir=ltr] .callout_49b46d69 .ms-Spinner-container{margin-left:132px}[dir=rtl] .callout_49b46d69 .ms-Spinner-container{margin-right:132px}", ""]);
+exports.push([module.i, ".container_fc1d0225{position:absolute;top:0;width:100%;max-width:1284px}[dir=ltr] .container_fc1d0225{left:0}[dir=rtl] .container_fc1d0225{right:0}.callout_fc1d0225{background:\"[theme:white, default: #ffffff]\";border:1px solid #d6d6d6;box-shadow:0 0 8px 0 rgba(0,0,0,.2);box-sizing:border-box;height:330px;margin-top:26px;position:absolute;width:292px;z-index:10;margin-left:0;margin-right:0}[dir=ltr] .callout_fc1d0225{left:0}[dir=rtl] .callout_fc1d0225{right:0}[dir=ltr] .callout_fc1d0225{transform:translateX(-50%)}[dir=rtl] .callout_fc1d0225{transform:translateX(50%)}.callout_fc1d0225 .ms-Spinner-container{margin-top:151px}[dir=ltr] .callout_fc1d0225 .ms-Spinner-container{margin-left:132px}[dir=rtl] .callout_fc1d0225 .ms-Spinner-container{margin-right:132px}", ""]);
 
 // exports
 
@@ -31872,7 +31872,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".spinner_4e13307d{margin:0;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}", ""]);
+exports.push([module.i, ".spinner_1fa96147{margin:0;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}", ""]);
 
 // exports
 
@@ -31900,7 +31900,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".lessText_9e40a2f4{word-wrap:break-word!important}", ""]);
+exports.push([module.i, ".lessText_4f2ba2fd{word-wrap:break-word!important}", ""]);
 
 // exports
 
@@ -31928,7 +31928,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".item_225ebed8{margin:0;padding:0;border:1px solid transparent;background-clip:padding-box}.item_225ebed8:focus,.item_225ebed8:hover{background-color:\"[theme:themeLighter, default: #deecf9]\"}.item_225ebed8:focus *,.item_225ebed8:hover *{color:\"[theme:themeDarkAlt, default: #106ebe]\"}@media screen and (-ms-high-contrast:active){.item_225ebed8:focus,.item_225ebed8:hover{color:#1aebff}}@media screen and (-ms-high-contrast:black-on-white){.item_225ebed8:focus,.item_225ebed8:hover{color:#37006e}}.flexBox_225ebed8{width:100%;height:100%;box-sizing:border-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:start;justify-content:flex-start;-ms-flex-align:center;align-items:center}.icon_225ebed8{color:\"[theme:neutralPrimary, default: #333333]\"}.icon_225ebed8 .ms-Image{width:100%;height:100%}.title_225ebed8{max-width:100%;color:\"[theme:neutralSecondary, default: #666666]\";font-weight:400;line-height:17px}", ""]);
+exports.push([module.i, ".item_b3dbc3d7{margin:0;padding:0;border:1px solid transparent;background-clip:padding-box}.item_b3dbc3d7:focus,.item_b3dbc3d7:hover{background-color:\"[theme:themeLighter, default: #deecf9]\"}.item_b3dbc3d7:focus *,.item_b3dbc3d7:hover *{color:\"[theme:themeDarkAlt, default: #106ebe]\"}@media screen and (-ms-high-contrast:active){.item_b3dbc3d7:focus,.item_b3dbc3d7:hover{color:#1aebff}}@media screen and (-ms-high-contrast:black-on-white){.item_b3dbc3d7:focus,.item_b3dbc3d7:hover{color:#37006e}}.flexBox_b3dbc3d7{width:100%;height:100%;box-sizing:border-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:start;justify-content:flex-start;-ms-flex-align:center;align-items:center}.icon_b3dbc3d7{color:\"[theme:neutralPrimary, default: #333333]\"}.icon_b3dbc3d7 .ms-Image{width:100%;height:100%}.title_b3dbc3d7{max-width:100%;color:\"[theme:neutralSecondary, default: #666666]\";font-weight:400;line-height:17px}", ""]);
 
 // exports
 
@@ -31956,7 +31956,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".item_d0eca494{width:120px;height:88px}.icon_d0eca494{font-size:28px;line-height:48px}.title_d0eca494{font-size:13px}", ""]);
+exports.push([module.i, ".item_a4c651e2{width:120px;height:88px}.icon_a4c651e2{font-size:28px;line-height:48px}.title_a4c651e2{font-size:13px}", ""]);
 
 // exports
 
@@ -31984,7 +31984,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".toolboxFullBleed_f49090c9{text-align:center;margin:100px auto;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column}.header_f49090c9{color:\"[theme:neutralSecondary, default: #666666]\";font-weight:600;letter-spacing:1px;line-height:32px;padding:0 12px}", ""]);
+exports.push([module.i, ".toolboxFullBleed_bfc47e55{text-align:center;margin:100px auto;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column}.header_bfc47e55{color:\"[theme:neutralSecondary, default: #666666]\";font-weight:600;letter-spacing:1px;line-height:32px;padding:0 12px}", ""]);
 
 // exports
 
@@ -32222,7 +32222,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, "[id^=spPropertyPaneContainer].showPane_fbeb0b4e{width:340px}[id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_fbeb0b4e{position:absolute;top:50px;bottom:0;z-index:999}[dir=ltr] [id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_fbeb0b4e{right:-340px}[dir=rtl] [id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_fbeb0b4e{left:-340px}[dir=ltr] [id^=spPropertyPaneContainerNoFlexbox].showPane_fbeb0b4e{right:0}[dir=rtl] [id^=spPropertyPaneContainerNoFlexbox].showPane_fbeb0b4e{left:0}[dir=ltr] [id^=spPageChromeAppDiv].shrinkContent_fbeb0b4e{right:340px}[dir=rtl] [id^=spPageChromeAppDiv].shrinkContent_fbeb0b4e{left:340px}[dir=ltr] [id^=workbenchPageContent].shrinkContent_fbeb0b4e{right:340px}[dir=rtl] [id^=workbenchPageContent].shrinkContent_fbeb0b4e{left:340px}[dir=ltr] [id^=workbenchCommandBar].shrinkContent_fbeb0b4e{padding-right:340px}[dir=rtl] [id^=workbenchCommandBar].shrinkContent_fbeb0b4e{padding-left:340px}", ""]);
+exports.push([module.i, "[id^=spPropertyPaneContainer].showPane_89b3125a{width:340px}[id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_89b3125a{position:absolute;top:50px;bottom:0;z-index:999}[dir=ltr] [id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_89b3125a{right:-340px}[dir=rtl] [id^=spPropertyPaneContainerNoFlexbox].spPropertyPaneContainer_89b3125a{left:-340px}[dir=ltr] [id^=spPropertyPaneContainerNoFlexbox].showPane_89b3125a{right:0}[dir=rtl] [id^=spPropertyPaneContainerNoFlexbox].showPane_89b3125a{left:0}[dir=ltr] [id^=spPageChromeAppDiv].shrinkContent_89b3125a{right:340px}[dir=rtl] [id^=spPageChromeAppDiv].shrinkContent_89b3125a{left:340px}[dir=ltr] [id^=workbenchPageContent].shrinkContent_89b3125a{right:340px}[dir=rtl] [id^=workbenchPageContent].shrinkContent_89b3125a{left:340px}[dir=ltr] [id^=workbenchCommandBar].shrinkContent_89b3125a{padding-right:340px}[dir=rtl] [id^=workbenchCommandBar].shrinkContent_89b3125a{padding-left:340px}", ""]);
 
 // exports
 
@@ -32250,7 +32250,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".belowHeader_dcfd991b,.canvasHost_dcfd991b,.content_dcfd991b{position:absolute;left:0;top:0;right:0;bottom:0}.belowHeader_dcfd991b,.content_dcfd991b{overflow:hidden}.content_dcfd991b{transition:margin-right .6s ease;-webkit-transition:margin-right .6s ease;padding:10px 30px;overflow-y:auto}.hasHeader_dcfd991b .belowHeader_dcfd991b{top:50px}.hasCommandBar_dcfd991b .content_dcfd991b{top:40px}.canvasHost_dcfd991b .NavPane_dcfd991b{width:220px;right:auto}", ""]);
+exports.push([module.i, ".belowHeader_638866c1,.canvasHost_638866c1,.content_638866c1{position:absolute;left:0;top:0;right:0;bottom:0}.belowHeader_638866c1,.content_638866c1{overflow:hidden}.content_638866c1{transition:margin-right .6s ease;-webkit-transition:margin-right .6s ease;padding:10px 30px;overflow-y:auto}.hasHeader_638866c1 .belowHeader_638866c1{top:50px}.hasCommandBar_638866c1 .content_638866c1{top:40px}.canvasHost_638866c1 .NavPane_638866c1{width:220px;right:auto}", ""]);
 
 // exports
 
@@ -32278,7 +32278,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".clickStop_45a24174{border-width:0;border-left-width:2px;border-right-width:2px;border-style:solid;height:30px;line-height:30px;position:absolute}.clickStop_45a24174:hover{background-color:#c8c8c8;cursor:pointer}.clickStopSelected_45a24174{background-color:#c8c8c8}.navBarItem_45a24174{border-color:#fff;float:left;margin-right:18px;font-size:14px;padding:0;box-sizing:border-box;display:block}", ""]);
+exports.push([module.i, ".clickStop_fc9eaa34{border-width:0;border-left-width:2px;border-right-width:2px;border-style:solid;height:30px;line-height:30px;position:absolute}.clickStop_fc9eaa34:hover{background-color:#c8c8c8;cursor:pointer}.clickStopSelected_fc9eaa34{background-color:#c8c8c8}.navBarItem_fc9eaa34{border-color:#fff;float:left;margin-right:18px;font-size:14px;padding:0;box-sizing:border-box;display:block}", ""]);
 
 // exports
 
@@ -32306,7 +32306,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".clickStopNavBar_6e64a0bb{border:0 solid #c8c8c8;background-color:#f4f4f4;color:#333;height:30px;border-top-width:1px;box-sizing:content-box;font-size:14px;font-weight:400;margin:0;box-shadow:none;padding:0 10px;width:100%;outline:1px solid transparent}.navBarItems_6e64a0bb{display:block;list-style:none;margin:0 7px 0 0;padding:0}.mobilePreviewDeviceTitle_6e64a0bb{width:200px;margin:auto;text-align:center;padding:4px;position:relative}", ""]);
+exports.push([module.i, ".clickStopNavBar_a84e46a7{border:0 solid #c8c8c8;background-color:#f4f4f4;color:#333;height:30px;border-top-width:1px;box-sizing:content-box;font-size:14px;font-weight:400;margin:0;box-shadow:none;padding:0 10px;width:100%;outline:1px solid transparent}.navBarItems_a84e46a7{display:block;list-style:none;margin:0 7px 0 0;padding:0}.mobilePreviewDeviceTitle_a84e46a7{width:200px;margin:auto;text-align:center;padding:4px;position:relative}", ""]);
 
 // exports
 
@@ -32334,7 +32334,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewNavBar_63d32c29{color:#333;background-color:#f4f4f4;height:50px;font-size:14px;font-weight:400;box-sizing:border-box;margin:0;box-shadow:none;padding:0 10px;width:100%;outline:1px solid transparent}.navBarItems_63d32c29{margin:0 -8px;box-sizing:border-box;display:block;list-style:none;margin:0 7px 0 0;padding:0}.navBarItems_63d32c29:after,.navBarItems_63d32c29:before{display:table;content:\"\";line-height:0}.navBarItems_63d32c29:after{clear:both}.navBarItemSm_63d32c29{width:50%}@media (min-width:480px){.navBarItemSm_63d32c29{width:50%}}@media (min-width:640px){.navBarItemSm_63d32c29{width:25%}}@media (min-width:640px){.navBarItemMd_63d32c29{width:50%}}.navBarItem_63d32c29,.navBarItemMd_63d32c29,.navBarItemSm_63d32c29{min-height:1px;padding-left:8px;padding-right:8px;margin-right:0;float:left;font-size:14px;padding:0;box-sizing:border-box;display:block;height:40px;line-height:40px;position:relative}[dir=ltr] .navBarItem_63d32c29,[dir=ltr] .navBarItemMd_63d32c29,[dir=ltr] .navBarItemSm_63d32c29{float:left}[dir=rtl] .navBarItem_63d32c29,[dir=rtl] .navBarItemMd_63d32c29,[dir=rtl] .navBarItemSm_63d32c29{float:right}.navBarItem_63d32c29 .ms-Grid_63d32c29,.navBarItemMd_63d32c29 .ms-Grid_63d32c29,.navBarItemSm_63d32c29 .ms-Grid_63d32c29{padding:0}.navBarItemRight_63d32c29{float:right;margin:0}.mobilePreviewTitle_63d32c29{line-height:50px;margin-left:15px;font-size:xx-large}.mobilePreviewXIcon_63d32c29{color:#a6a6a6;border-color:#c8c8c8;font-size:30px;border-left-width:1px;margin:auto;margin-left:30px;line-height:50px}.mobilePreviewXIcon_63d32c29:hover{cursor:pointer;color:#767676}.col_63d32c29{position:relative;min-height:1px;padding-left:8px;padding-right:8px;box-sizing:border-box;width:50%}[dir=ltr] .col_63d32c29{float:left}[dir=rtl] .col_63d32c29{float:right}.col_63d32c29 .ms-Grid_63d32c29{padding:0}@media (min-width:480px){.col_63d32c29{width:50%}}@media (min-width:640px){.col_63d32c29{width:25%}}", ""]);
+exports.push([module.i, ".mobilePreviewNavBar_f4b368a4{color:#333;background-color:#f4f4f4;height:50px;font-size:14px;font-weight:400;box-sizing:border-box;margin:0;box-shadow:none;padding:0 10px;width:100%;outline:1px solid transparent}.navBarItems_f4b368a4{margin:0 -8px;box-sizing:border-box;display:block;list-style:none;margin:0 7px 0 0;padding:0}.navBarItems_f4b368a4:after,.navBarItems_f4b368a4:before{display:table;content:\"\";line-height:0}.navBarItems_f4b368a4:after{clear:both}.navBarItemSm_f4b368a4{width:50%}@media (min-width:480px){.navBarItemSm_f4b368a4{width:50%}}@media (min-width:640px){.navBarItemSm_f4b368a4{width:25%}}@media (min-width:640px){.navBarItemMd_f4b368a4{width:50%}}.navBarItem_f4b368a4,.navBarItemMd_f4b368a4,.navBarItemSm_f4b368a4{min-height:1px;padding-left:8px;padding-right:8px;margin-right:0;float:left;font-size:14px;padding:0;box-sizing:border-box;display:block;height:40px;line-height:40px;position:relative}[dir=ltr] .navBarItem_f4b368a4,[dir=ltr] .navBarItemMd_f4b368a4,[dir=ltr] .navBarItemSm_f4b368a4{float:left}[dir=rtl] .navBarItem_f4b368a4,[dir=rtl] .navBarItemMd_f4b368a4,[dir=rtl] .navBarItemSm_f4b368a4{float:right}.navBarItem_f4b368a4 .ms-Grid_f4b368a4,.navBarItemMd_f4b368a4 .ms-Grid_f4b368a4,.navBarItemSm_f4b368a4 .ms-Grid_f4b368a4{padding:0}.navBarItemRight_f4b368a4{float:right;margin:0}.mobilePreviewTitle_f4b368a4{line-height:50px;margin-left:15px;font-size:xx-large}.mobilePreviewXIcon_f4b368a4{color:#a6a6a6;border-color:#c8c8c8;font-size:30px;border-left-width:1px;margin:auto;margin-left:30px;line-height:50px}.mobilePreviewXIcon_f4b368a4:hover{cursor:pointer;color:#767676}.col_f4b368a4{position:relative;min-height:1px;padding-left:8px;padding-right:8px;box-sizing:border-box;width:50%}[dir=ltr] .col_f4b368a4{float:left}[dir=rtl] .col_f4b368a4{float:right}.col_f4b368a4 .ms-Grid_f4b368a4{padding:0}@media (min-width:480px){.col_f4b368a4{width:50%}}@media (min-width:640px){.col_f4b368a4{width:25%}}", ""]);
 
 // exports
 
@@ -32362,7 +32362,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewURLbar_a4941063{height:100%;padding:5px;width:100%}.mobilePreviewTextfield_a4941063{position:absolute;left:0;width:calc(100% - 135px)}.mobilePreviewURLbutton_a4941063{position:absolute;right:0;margin:6px;background-color:#c8c8c8;border:1px solid #c8c8c8;border-radius:2px;top:4px}.mobilePreviewURLbutton_a4941063:hover{background-color:#a6a6a6}.mobilePreviewURLbutton_a4941063:active,.mobilePreviewURLbutton_a4941063:focus{background-color:#c8c8c8;border:1px solid #a6a6a6}", ""]);
+exports.push([module.i, ".mobilePreviewURLbar_5b0060f7{height:100%;padding:5px;width:100%}.mobilePreviewTextfield_5b0060f7{position:absolute;left:0;width:calc(100% - 135px)}.mobilePreviewURLbutton_5b0060f7{position:absolute;right:0;margin:6px;background-color:#c8c8c8;border:1px solid #c8c8c8;border-radius:2px;top:4px}.mobilePreviewURLbutton_5b0060f7:hover{background-color:#a6a6a6}.mobilePreviewURLbutton_5b0060f7:active,.mobilePreviewURLbutton_5b0060f7:focus{background-color:#c8c8c8;border:1px solid #a6a6a6}", ""]);
 
 // exports
 
@@ -32390,7 +32390,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewDeviceIcon_962913c5{color:#a6a6a6;margin:auto;padding:auto;font-size:40px;line-height:50px}.mobilePreviewDeviceIcon_962913c5:hover{cursor:pointer;color:#767676}.navBarItemRight_962913c5{font-size:14px;padding:0;box-sizing:border-box;display:block;height:40px;line-height:40px;position:relative;float:right;margin:0}", ""]);
+exports.push([module.i, ".mobilePreviewDeviceIcon_2ea82b5f{color:#a6a6a6;margin:auto;padding:auto;font-size:40px;line-height:50px}.mobilePreviewDeviceIcon_2ea82b5f:hover{cursor:pointer;color:#767676}.navBarItemRight_2ea82b5f{font-size:14px;padding:0;box-sizing:border-box;display:block;height:40px;line-height:40px;position:relative;float:right;margin:0}", ""]);
 
 // exports
 
@@ -32418,7 +32418,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewDevice_97cdcc69{border-color:#767676;border-radius:15px;border-style:solid;position:relative;margin:auto;margin-top:70px}.mobilePreviewPortrait_97cdcc69{border-width:60px 16px}.mobilePreviewLandscape_97cdcc69{border-width:16px 60px}.mobilePreviewTablet_97cdcc69{border-width:40px}.mobilePreviewIframe_97cdcc69{background-color:#fff;width:100%;height:100%;position:absolute;border:none}", ""]);
+exports.push([module.i, ".mobilePreviewDevice_53a07474{border-color:#767676;border-radius:15px;border-style:solid;position:relative;margin:auto;margin-top:70px}.mobilePreviewPortrait_53a07474{border-width:60px 16px}.mobilePreviewLandscape_53a07474{border-width:16px 60px}.mobilePreviewTablet_53a07474{border-width:40px}.mobilePreviewIframe_53a07474{background-color:#fff;width:100%;height:100%;position:absolute;border:none}", ""]);
 
 // exports
 
@@ -32446,7 +32446,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".xField_ac708d6d{left:15px}.yField_ac708d6d{left:140px}.mobilePreviewTextfieldXY_ac708d6d{margin:10px;position:absolute;top:15px;width:114px}.mobilePreviewTextfieldXY_ac708d6d .xyTextfields_ac708d6d{border-color:#c8c8c8;color:#666;position:absolute;min-width:20px;width:50px;right:0;height:28px;box-sizing:border-box;margin:0;box-shadow:none;border:1px solid;font-size:12px;padding:6px 10px 8px;outline:0}.mobilePreviewTextfieldXY_ac708d6d .xyLabels_ac708d6d{color:#c8c8c8;position:absolute;font-size:20px;left:0;padding:0;font-weight:400;margin:0;box-shadow:none;box-sizing:border-box;display:block}", ""]);
+exports.push([module.i, ".xField_98088b94{left:15px}.yField_98088b94{left:140px}.mobilePreviewTextfieldXY_98088b94{margin:10px;position:absolute;top:15px;width:114px}.mobilePreviewTextfieldXY_98088b94 .xyTextfields_98088b94{border-color:#c8c8c8;color:#666;position:absolute;min-width:20px;width:50px;right:0;height:28px;box-sizing:border-box;margin:0;box-shadow:none;border:1px solid;font-size:12px;padding:6px 10px 8px;outline:0}.mobilePreviewTextfieldXY_98088b94 .xyLabels_98088b94{color:#c8c8c8;position:absolute;font-size:20px;left:0;padding:0;font-weight:400;margin:0;box-shadow:none;box-sizing:border-box;display:block}", ""]);
 
 // exports
 
@@ -32474,7 +32474,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewRotateIcon_a98dc566{color:#eaeaea;position:absolute;right:30px;top:15px;font-size:50px;margin:5px;cursor:pointer;font-weight:100}", ""]);
+exports.push([module.i, ".mobilePreviewRotateIcon_c5c15c50{color:#eaeaea;position:absolute;right:30px;top:15px;font-size:50px;margin:5px;cursor:pointer;font-weight:100}", ""]);
 
 // exports
 
@@ -32502,7 +32502,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".mobilePreviewContainer_ac7879ff{padding:0 8px;position:fixed;top:0;bottom:0;left:0;right:0;background:rgba(0,0,0,.87);z-index:2147483647;box-sizing:border-box;padding:0;font-family:Segoe UI Semilight WestEuropean,Segoe UI Semilight,Segoe UI,Tahoma,Arial,sans-serif}.mobilePreviewContainer_ac7879ff:after,.mobilePreviewContainer_ac7879ff:before{display:table;content:\"\";line-height:0}.mobilePreviewContainer_ac7879ff:after{clear:both}.mobilePreviewDeviceContainer_ac7879ff{position:relative;height:calc(100% - 71px);-ms-flex-align:center;align-items:center;overflow:auto;display:-ms-flexbox;display:flex}", ""]);
+exports.push([module.i, ".mobilePreviewContainer_0a30e6a9{padding:0 8px;position:fixed;top:0;bottom:0;left:0;right:0;background:rgba(0,0,0,.87);z-index:2147483647;box-sizing:border-box;padding:0;font-family:Segoe UI Semilight WestEuropean,Segoe UI Semilight,Segoe UI,Tahoma,Arial,sans-serif}.mobilePreviewContainer_0a30e6a9:after,.mobilePreviewContainer_0a30e6a9:before{display:table;content:\"\";line-height:0}.mobilePreviewContainer_0a30e6a9:after{clear:both}.mobilePreviewDeviceContainer_0a30e6a9{position:relative;height:calc(100% - 71px);-ms-flex-align:center;align-items:center;overflow:auto;display:-ms-flexbox;display:flex}", ""]);
 
 // exports
 
@@ -32861,7 +32861,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".serializedWebPartItem_eefeedf6{margin:20px 0}", ""]);
+exports.push([module.i, ".serializedWebPartItem_65922bc8{margin:20px 0}", ""]);
 
 // exports
 
@@ -32889,7 +32889,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".container_4f1b79f3{min-width:90vw!important}.content_4f1b79f3{height:70vh}.pivotItem_4f1b79f3{overflow-y:scroll;height:66vh}.learnMoreLink_4f1b79f3{position:absolute;margin-top:20px!important;z-index:1}.serializedTextArea_4f1b79f3{font-family:monospace}", ""]);
+exports.push([module.i, ".container_5def56c1{min-width:90vw!important}.content_5def56c1{height:70vh}.pivotItem_5def56c1{overflow-y:scroll;height:66vh}.learnMoreLink_5def56c1{position:absolute;margin-top:20px!important;z-index:1}.serializedTextArea_5def56c1{font-family:monospace}", ""]);
 
 // exports
 
@@ -32917,7 +32917,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, ".workbench_803fb3fb{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;color:#333;font-family:\"Segoe UI Web (West European)\",Segoe UI,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;font-size:14px;position:absolute;top:0;right:0;bottom:0;left:0;overflow-x:hidden}.workbench_803fb3fb button,.workbench_803fb3fb input,.workbench_803fb3fb textarea{font-family:inherit}.header_803fb3fb{background:#000;height:50px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default}.headerMenu_803fb3fb{background-color:#0075c7;font-size:30px;height:50px;left:0;text-align:center;width:50px}.headerMenu_803fb3fb,.headerTitle_803fb3fb{color:#fff;line-height:50px;position:absolute;top:0}.headerTitle_803fb3fb{font-size:21px;font-weight:100;left:66px}.headerTitle_803fb3fb em{border-right:1px solid #666;font-style:normal;margin-right:12px;padding-right:20px}.headerPerson_803fb3fb{background-color:#a6a6a6;border-left:5px solid #b6cfd8;color:#fff;font-size:48px;height:50px;line-height:50px;position:absolute;right:0;text-align:center;width:50px}.pageContent_803fb3fb{border:1px solid #e5e5e5;border-bottom:0;bottom:0;margin:0 auto;max-width:924px;position:absolute;top:106px}[dir=ltr] .pageContent_803fb3fb{transition:right 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:right 367ms cubic-bezier(.1,.9,.2,1)}[dir=rtl] .pageContent_803fb3fb{transition:left 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:left 367ms cubic-bezier(.1,.9,.2,1)}[dir=ltr] .pageContent_803fb3fb{left:16px}[dir=ltr] .pageContent_803fb3fb,[dir=rtl] .pageContent_803fb3fb{right:16px}[dir=rtl] .pageContent_803fb3fb{left:16px}[dir=ltr] .commandBar_803fb3fb{transition:padding-right 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:padding-right 367ms cubic-bezier(.1,.9,.2,1)}[dir=rtl] .commandBar_803fb3fb{transition:padding-left 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:padding-left 367ms cubic-bezier(.1,.9,.2,1)}[dir=ltr] .commandBar_803fb3fb{padding-right:0}[dir=rtl] .commandBar_803fb3fb{padding-left:0}", ""]);
+exports.push([module.i, ".workbench_41829fcd{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;color:#333;font-family:\"Segoe UI Web (West European)\",Segoe UI,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;font-size:14px;position:absolute;top:0;right:0;bottom:0;left:0;overflow-x:hidden}.workbench_41829fcd button,.workbench_41829fcd input,.workbench_41829fcd textarea{font-family:inherit}.header_41829fcd{background:#000;height:50px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default}.headerMenu_41829fcd{background-color:#0075c7;font-size:30px;height:50px;left:0;text-align:center;width:50px}.headerMenu_41829fcd,.headerTitle_41829fcd{color:#fff;line-height:50px;position:absolute;top:0}.headerTitle_41829fcd{font-size:21px;font-weight:100;left:66px}.headerTitle_41829fcd em{border-right:1px solid #666;font-style:normal;margin-right:12px;padding-right:20px}.headerPerson_41829fcd{background-color:#a6a6a6;border-left:5px solid #b6cfd8;color:#fff;font-size:48px;height:50px;line-height:50px;position:absolute;right:0;text-align:center;width:50px}.pageContent_41829fcd{border:1px solid #e5e5e5;border-bottom:0;bottom:0;margin:0 auto;max-width:924px;position:absolute;top:106px}[dir=ltr] .pageContent_41829fcd{transition:right 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:right 367ms cubic-bezier(.1,.9,.2,1)}[dir=rtl] .pageContent_41829fcd{transition:left 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:left 367ms cubic-bezier(.1,.9,.2,1)}[dir=ltr] .pageContent_41829fcd{left:16px}[dir=ltr] .pageContent_41829fcd,[dir=rtl] .pageContent_41829fcd{right:16px}[dir=rtl] .pageContent_41829fcd{left:16px}[dir=ltr] .commandBar_41829fcd{transition:padding-right 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:padding-right 367ms cubic-bezier(.1,.9,.2,1)}[dir=rtl] .commandBar_41829fcd{transition:padding-left 367ms cubic-bezier(.1,.9,.2,1);-webkit-transition:padding-left 367ms cubic-bezier(.1,.9,.2,1)}[dir=ltr] .commandBar_41829fcd{padding-right:0}[dir=rtl] .commandBar_41829fcd{padding-left:0}", ""]);
 
 // exports
 
@@ -33738,14 +33738,6 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "***Fetching webpats failed with error \"{0}\". Render of a cached workbench may fail."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Warning",
-      "SubText": "Your web part will not appear in the toolbox. Please make sure \"gulp serve\" is running in a web part project. Please refresh the page once \"gulp serve\" is running.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Click ",
-      "ClickHereLink": "here",
-      "ClickHereSuffix": " for more information."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Enter a URL to view in Mobile Preview Tool.",
       "ScreenReaderMobilePreviewEntered": "You have entered the Mobile Preview Tool. If you want to preview a different page, enter the URL in URL text field. To close the tool and go back to Workbench, press Escape.",
@@ -33753,6 +33745,14 @@ var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;!(__WEBPACK_AMD_
       "ScreenReaderDevicePickerSelectionChanged": "Press Enter to choose this device.",
       "Width": "Width",
       "Height": "Height"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Warning",
+      "SubText": "Your web part will not appear in the toolbox. Please make sure \"gulp serve\" is running in a web part project. Please refresh the page once \"gulp serve\" is running.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Click ",
+      "ClickHereLink": "here",
+      "ClickHereSuffix": " for more information."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "***Web Part Data",

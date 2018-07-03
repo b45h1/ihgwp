@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Dohvaćanje web-dijelova nije uspjelo uz pogrešku \"{0}\". Stvaranje predmemorirane radne okoline možda neće uspjeti."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Upozorenje",
-      "SubText": "Vaš se web-dio neće prikazati u alatnom okviru. Pobrinite se da se zadatak \"gulp serve\" izvodi u projektu web-dijela. Osvježite stranicu kada utvrdite da se \"gulp serve\" izvodi.",
-      "OkButtonText": "U redu",
-      "ClickHerePrefix": "Kliknite ",
-      "ClickHereLink": "ovdje",
-      "ClickHereSuffix": " da biste se dodatno informirali."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Unesite URL koji želite pogledati u alatu za pretpregled na mobilnim uređajima.",
       "ScreenReaderMobilePreviewEntered": "Otvorili ste alat za pretpregled na mobilnim uređajima. Ako želite pretpregledati neku drugu stranicu, unesite URL u polje za tekst URL-a. Da biste zatvorili alati vratili se u radnu okolinu, pritisnite Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pritisnite Enter da biste odabrali uređaj.",
       "Width": "Širina",
       "Height": "Visina"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Upozorenje",
+      "SubText": "Vaš se web-dio neće prikazati u alatnom okviru. Pobrinite se da se zadatak \"gulp serve\" izvodi u projektu web-dijela. Osvježite stranicu kada utvrdite da se \"gulp serve\" izvodi.",
+      "OkButtonText": "U redu",
+      "ClickHerePrefix": "Kliknite ",
+      "ClickHereLink": "ovdje",
+      "ClickHereSuffix": " da biste se dodatno informirali."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Podaci web-dijela",

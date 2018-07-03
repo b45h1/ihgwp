@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Веб-бөліктерді шығарып алу \"{0}\" қатесімен сәтсіз аяқталды. Кэштелген жұмыс ортасын көрсету сәтсіз аяқталуы мүмкін."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Ескерту",
-      "SubText": "Веб-бөлік құралдар тақтасында көрсетілмейді. Веб-бөлік жобасында \"gulp serve\" функциясы жұмыс істеп тұрғанына көз жеткізіңіз. Бетті \"gulp serve\" іске қосылған кезде жаңартыңыз.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Қосымша ақпарат алу үшін",
-      "ClickHereLink": "осы жерді",
-      "ClickHereSuffix": " басыңыз."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Мобильді алдын ала қарау құралында көру үшін, URL мекенжайын енгізіңіз.",
       "ScreenReaderMobilePreviewEntered": "Мобильді алдын ала қарау құралын енгіздіңіз. Басқа бетті алдын ала қарау қажет болса, URL мәтіндік өрісіне URL мекенжайын енгізіңіз. Құралды жауып, жұмыс кеңістігіне оралу үшін, Escape пернесін басыңыз.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Осы құрылғыны таңдау үшін, Enter пернесін басыңыз.",
       "Width": "Ені",
       "Height": "Биіктік"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Ескерту",
+      "SubText": "Веб-бөлік құралдар тақтасында көрсетілмейді. Веб-бөлік жобасында \"gulp serve\" функциясы жұмыс істеп тұрғанына көз жеткізіңіз. Бетті \"gulp serve\" іске қосылған кезде жаңартыңыз.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Қосымша ақпарат алу үшін",
+      "ClickHereLink": "осы жерді",
+      "ClickHereSuffix": " басыңыз."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Веб-бөлік деректері",

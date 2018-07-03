@@ -1,9 +1,9 @@
 require('./PerformanceHeader.module.css');
 var styles = {
-    headerTable: 'headerTable_7ff8042f',
-    headerTableRows: 'headerTableRows_7ff8042f',
-    hint: 'hint_7ff8042f',
-    infoIcon: 'infoIcon_7ff8042f',
-    msThemeLighter: 'msThemeLighter_7ff8042f',
+    headerTable: 'headerTable_5ba6cf2c',
+    headerTableRows: 'headerTableRows_5ba6cf2c',
+    hint: 'hint_5ba6cf2c',
+    infoIcon: 'infoIcon_5ba6cf2c',
+    msThemeLighter: 'msThemeLighter_5ba6cf2c',
 };
 export default styles;

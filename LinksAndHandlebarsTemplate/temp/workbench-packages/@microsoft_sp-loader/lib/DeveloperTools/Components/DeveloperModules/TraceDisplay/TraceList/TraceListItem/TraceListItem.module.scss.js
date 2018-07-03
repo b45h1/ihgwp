@@ -1,16 +1,16 @@
 require('./TraceListItem.module.css');
 var styles = {
-    container: 'container_be54cb73',
-    blueBackground: 'blueBackground_be54cb73',
-    itemDetails: 'itemDetails_be54cb73',
-    verbose: 'verbose_be54cb73',
-    info: 'info_be54cb73',
-    warning: 'warning_be54cb73',
-    error: 'error_be54cb73',
-    message: 'message_be54cb73',
-    source: 'source_be54cb73',
-    scope: 'scope_be54cb73',
-    timestamp: 'timestamp_be54cb73',
-    redText: 'redText_be54cb73',
+    container: 'container_fbfb4ba1',
+    blueBackground: 'blueBackground_fbfb4ba1',
+    itemDetails: 'itemDetails_fbfb4ba1',
+    verbose: 'verbose_fbfb4ba1',
+    info: 'info_fbfb4ba1',
+    warning: 'warning_fbfb4ba1',
+    error: 'error_fbfb4ba1',
+    message: 'message_fbfb4ba1',
+    source: 'source_fbfb4ba1',
+    scope: 'scope_fbfb4ba1',
+    timestamp: 'timestamp_fbfb4ba1',
+    redText: 'redText_fbfb4ba1',
 };
 export default styles;

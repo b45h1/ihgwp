@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "擷取網頁組件失敗，錯誤碼為 \"{0}\"。轉譯快取的 Workbench 可能失敗。"
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "警告",
-      "SubText": "您的網頁組件將不會出現在工具箱中。請確認已執行網頁組件專案中的「Gulp 服務」。請在執行「Gulp 服務」後立即重新整理頁面。",
-      "OkButtonText": "確定",
-      "ClickHerePrefix": "按一下",
-      "ClickHereLink": "這裡",
-      "ClickHereSuffix": "以取得更多資訊。"
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "輸入 URL 以在行動裝置預覽工具中進行檢視。",
       "ScreenReaderMobilePreviewEntered": "您已進入行動裝置預覽工具。如果您想要預覽其他頁面，請在 URL 文字欄位中輸入 URL。若要關閉工具並返回 Workbench，請按下 ESC 鍵。",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "按下 Enter 鍵以選擇此裝置。",
       "Width": "寬度",
       "Height": "高度"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "警告",
+      "SubText": "您的網頁組件將不會出現在工具箱中。請確認已執行網頁組件專案中的「Gulp 服務」。請在執行「Gulp 服務」後立即重新整理頁面。",
+      "OkButtonText": "確定",
+      "ClickHerePrefix": "按一下",
+      "ClickHereLink": "這裡",
+      "ClickHereSuffix": "以取得更多資訊。"
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "網頁組件資料",

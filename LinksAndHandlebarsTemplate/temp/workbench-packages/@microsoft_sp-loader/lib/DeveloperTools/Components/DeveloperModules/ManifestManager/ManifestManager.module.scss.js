@@ -1,8 +1,8 @@
 require('./ManifestManager.module.css');
 var styles = {
-    container: 'container_cbb71965',
-    manifestListContainer: 'manifestListContainer_cbb71965',
-    manifestDetailsContainer: 'manifestDetailsContainer_cbb71965',
-    noManifestSelectedContainer: 'noManifestSelectedContainer_cbb71965',
+    container: 'container_e8d8370e',
+    manifestListContainer: 'manifestListContainer_e8d8370e',
+    manifestDetailsContainer: 'manifestDetailsContainer_e8d8370e',
+    noManifestSelectedContainer: 'noManifestSelectedContainer_e8d8370e',
 };
 export default styles;

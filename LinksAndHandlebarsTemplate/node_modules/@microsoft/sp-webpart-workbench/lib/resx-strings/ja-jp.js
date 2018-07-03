@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "エラー \"{0}\" により、Web パーツを取得できませんでした。キャッシュされたワークベンチのレンダリングが失敗する可能性があります。"
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "警告",
-      "SubText": "Web パーツはツールボックスで表示されません。\"gulp serve\" が Web パーツ プロジェクトで実行されていることをご確認ください。\"gulp serve\" が実行されたら、ページを更新してください。",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "詳細については",
-      "ClickHereLink": "ここを",
-      "ClickHereSuffix": "クリックしてください。"
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "モバイル プレビュー ツールで表示する URL を入力します。",
       "ScreenReaderMobilePreviewEntered": "モバイル プレビュー ツールに移動しました。別のページのプレビューを表示する場合は、[URL] テキスト フィールドに URL を入力します。ツールを終了して Workbench に戻るには、Esc キーを押します。",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Enter キーを押してこのデバイスを選択します。",
       "Width": "幅",
       "Height": "高さ"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "警告",
+      "SubText": "Web パーツはツールボックスで表示されません。\"gulp serve\" が Web パーツ プロジェクトで実行されていることをご確認ください。\"gulp serve\" が実行されたら、ページを更新してください。",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "詳細については",
+      "ClickHereLink": "ここを",
+      "ClickHereSuffix": "クリックしてください。"
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Web パーツ データ",

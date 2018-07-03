@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Не може да ги земеме веб-деловите и се појави грешката „{0}“. Прикажувањето на кешираната маса можеби не е успешно."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Предупредување",
-      "SubText": "Веб-делот нема да се појави во рамката со алатки. Проверете дали „gulp serve“ се извршува во проектот за веб-делови. Освежете ја страницата штом ќе се изврши „gulp serve“.",
-      "OkButtonText": "ОК",
-      "ClickHerePrefix": "Кликнете ",
-      "ClickHereLink": "тука",
-      "ClickHereSuffix": " за повеќе информации."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Внесете УРЛ за приказ во алатката за преглед на мобилен.",
       "ScreenReaderMobilePreviewEntered": "Влеговте во алатката за преглед на мобилен. Доколку сакате да прегледате друга страница, внесете УРЛ во полето за текст за УРЛ. За да ја затворите алатката и да се вратите во Workbench, притиснете Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Притиснете Enter за да го изберете уредов.",
       "Width": "Ширина",
       "Height": "Висина"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Предупредување",
+      "SubText": "Веб-делот нема да се појави во рамката со алатки. Проверете дали „gulp serve“ се извршува во проектот за веб-делови. Освежете ја страницата штом ќе се изврши „gulp serve“.",
+      "OkButtonText": "ОК",
+      "ClickHerePrefix": "Кликнете ",
+      "ClickHereLink": "тука",
+      "ClickHereSuffix": " за повеќе информации."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Податоци за веб-делот",

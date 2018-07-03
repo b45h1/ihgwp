@@ -1,7 +1,7 @@
 require('./MobilePreviewClickStop.module.css');
 var styles = {
-    clickStop: 'clickStop_45a24174',
-    clickStopSelected: 'clickStopSelected_45a24174',
-    navBarItem: 'navBarItem_45a24174',
+    clickStop: 'clickStop_fc9eaa34',
+    clickStopSelected: 'clickStopSelected_fc9eaa34',
+    navBarItem: 'navBarItem_fc9eaa34',
 };
 export default styles;

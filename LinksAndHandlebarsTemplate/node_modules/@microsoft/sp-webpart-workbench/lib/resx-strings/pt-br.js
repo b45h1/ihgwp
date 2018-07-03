@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Falha ao buscar as WebParts com o erro \"{0}\". A renderização de uma bancada de trabalho em cache pode falhar."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Aviso",
-      "SubText": "A Web Part não aparecerá na caixa de ferramentas. Verifique se o \"gulp serve\" está sendo executado em um projeto da Web Part. Atualize a página depois que o \"gulp serve\" estiver em execução.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Clique ",
-      "ClickHereLink": "aqui",
-      "ClickHereSuffix": " para saber mais."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Insira uma URL para exibir na Ferramenta de Visualização Móvel.",
       "ScreenReaderMobilePreviewEntered": "Você inseriu a Ferramenta de Visualização Móvel. Se desejar visualizar uma página diferente, insira a URL no campo de texto da URL. Para fechar a ferramenta e voltar ao Workbench, pressione Escape.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Pressione Enter para escolher este dispositivo.",
       "Width": "Largura",
       "Height": "Altura"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Aviso",
+      "SubText": "A Web Part não aparecerá na caixa de ferramentas. Verifique se o \"gulp serve\" está sendo executado em um projeto da Web Part. Atualize a página depois que o \"gulp serve\" estiver em execução.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Clique ",
+      "ClickHereLink": "aqui",
+      "ClickHereSuffix": " para saber mais."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Dados da Web Part",

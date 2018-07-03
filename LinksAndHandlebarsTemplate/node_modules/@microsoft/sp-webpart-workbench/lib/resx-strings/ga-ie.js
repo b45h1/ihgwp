@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Ag fáil comhpháirteanna Gréasáin ar theip orthu leis an earráid “{0}”. D’fhéadfadh go dteipfidh ar rindreáil binse oibre thaiscthe."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Rabhadh",
-      "SubText": "Ní thaispeánfar an chomhpháirt Ghréasáin sa bhosca uirlisí. Cinntigh go bhfuil “gulp-serve” á rith i dtionscadal comhpháirte Gréasáin. Athnuaigh an leathanach nuair a bheidh “gulp-serve” á rith.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Cliceáil ",
-      "ClickHereLink": "anseo",
-      "ClickHereSuffix": " chun tuilleadh faisnéise a fháil."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Cuir isteach URL chun amharc air san uirlis réamhamhairc mhóibíligh.",
       "ScreenReaderMobilePreviewEntered": "Tá tú san uirlis réamhamhairc mhóibíligh. Más mian leat réamhamharc a fháil ar leathanach eile, iontráil an URL sa réimse téacs URL. Brúigh ‘Esc’ chun an uirlis a dhúnadh agus chun filleadh ar an mbinse oibre.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Brúigh ‘Enter’ chun an gléas seo a roghnú.",
       "Width": "Leithead",
       "Height": "Airde"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Rabhadh",
+      "SubText": "Ní thaispeánfar an chomhpháirt Ghréasáin sa bhosca uirlisí. Cinntigh go bhfuil “gulp-serve” á rith i dtionscadal comhpháirte Gréasáin. Athnuaigh an leathanach nuair a bheidh “gulp-serve” á rith.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Cliceáil ",
+      "ClickHereLink": "anseo",
+      "ClickHereSuffix": " chun tuilleadh faisnéise a fháil."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Sonraí comhpháirte Gréasáin",

@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Veb-hissələrin \"{0}\" səhvi ilə uğursuz oldu. Keşlənmiş dəzgahın vizuallaşdırılması uğursuz ola bilər."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Xəbərdarlıq",
-      "SubText": "Veb hissəniz alətlər qutusunda görünməyəcək. Lütfən, \"udma xidməti\"-nin veb hissə layihəsində icra olunduğundan əmin olun. Lütfən, \"udma xidməti\" icra olunanda, səhifəni təzələyin.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klikləyin ",
-      "ClickHereLink": "burada",
-      "ClickHereSuffix": " ətraflı məlumat üçün."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Mobil Önbaxış Alətində baxmaq üçün URL daxil edin.",
       "ScreenReaderMobilePreviewEntered": "Mobil Önbaxış Alətinə daxil oldunuz. Əgər başqa səhifəyə önbaxış etmək istəyirsinizsə, URL-i URL mətn sahəsinə daxil edin. Aləti bağlayıb İş Mühitinə qayıtmaq üçün Escape basın.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Bu cihazı seçmək üçün Enter basın.",
       "Width": "En",
       "Height": "Hündürlük"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Xəbərdarlıq",
+      "SubText": "Veb hissəniz alətlər qutusunda görünməyəcək. Lütfən, \"udma xidməti\"-nin veb hissə layihəsində icra olunduğundan əmin olun. Lütfən, \"udma xidməti\" icra olunanda, səhifəni təzələyin.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klikləyin ",
+      "ClickHereLink": "burada",
+      "ClickHereSuffix": " ətraflı məlumat üçün."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Veb-Hissə Verilənləri",

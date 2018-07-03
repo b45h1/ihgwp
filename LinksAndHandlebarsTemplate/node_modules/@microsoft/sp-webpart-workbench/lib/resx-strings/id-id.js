@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "Gagal mengambil komponen web dengan kesalahan \"{0}\". Render workbench singgahan mungkin gagal."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Peringatan",
-      "SubText": "Komponen web Anda tidak akan muncul dalam kotak alat. Pastikan \"gulp serve\" berjalan di proyek komponen web. Refresh halaman setelah \"gulp serve\" berjalan.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Klik ",
-      "ClickHereLink": "di sini",
-      "ClickHereSuffix": " untuk informasi lebih lanjut."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Masukkan URL untuk melihat di Alat Pratinjau Seluler.",
       "ScreenReaderMobilePreviewEntered": "Anda telah masuk ke Alat Pratinjau Seluler. Apabila ingin melihat pratinjau halaman lain, masukkan URL di kolom teks URL. Tekan Escape untuk menutup alat dan kembali ke Workbench.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Tekan Enter untuk memilih perangkat ini.",
       "Width": "Lebar",
       "Height": "Tinggi"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Peringatan",
+      "SubText": "Komponen web Anda tidak akan muncul dalam kotak alat. Pastikan \"gulp serve\" berjalan di proyek komponen web. Refresh halaman setelah \"gulp serve\" berjalan.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Klik ",
+      "ClickHereLink": "di sini",
+      "ClickHereSuffix": " untuk informasi lebih lanjut."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "Data Komponen Web",

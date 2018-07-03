@@ -281,14 +281,6 @@ define([], function() {
     "_vd/LT/qfiQhbHFfeM1GtlA": {
       "FetchFailedError": "WWW-osien hakeminen epäonnistui, virhe {0}. Välimuistiin tallennetun työtilan hahmontaminen saattaa epäonnistua."
     },
-    "_FQya7ZjwIyrOEutOa+omIA": {
-      "Title": "Varoitus",
-      "SubText": "Verkko-osa ei tule näkymään työkaluryhmässä. Varmista, että \"gulp serve\" on käytössä verkko-osaprojektissa. Päivitä sivu, kun \"gulp serve\" on käynnissä.",
-      "OkButtonText": "OK",
-      "ClickHerePrefix": "Napsauta ",
-      "ClickHereLink": "tästä,",
-      "ClickHereSuffix": " jos haluat lisätietoja."
-    },
     "_1JArBGDet5Uj9pJOV/9sFw": {
       "UrlTextBoxPlaceholder": "Kirjoita URL-osoite, jos haluat tarkastella mobiiliesikatselutyökalussa.",
       "ScreenReaderMobilePreviewEntered": "Olet siirtynyt mobiiliesikatselutyökaluun. Jos haluat esikatsella toista sivua, kirjoita sivun URL-osoite URL-tekstikenttään. Jos haluat sulkea työkalun ja palata takaisin Workbenchiin, paina Esc-näppäintä.",
@@ -296,6 +288,14 @@ define([], function() {
       "ScreenReaderDevicePickerSelectionChanged": "Valitse tämä laite painamalla Enter-näppäintä.",
       "Width": "Leveys",
       "Height": "Korkeus"
+    },
+    "_FQya7ZjwIyrOEutOa+omIA": {
+      "Title": "Varoitus",
+      "SubText": "Verkko-osa ei tule näkymään työkaluryhmässä. Varmista, että \"gulp serve\" on käytössä verkko-osaprojektissa. Päivitä sivu, kun \"gulp serve\" on käynnissä.",
+      "OkButtonText": "OK",
+      "ClickHerePrefix": "Napsauta ",
+      "ClickHereLink": "tästä,",
+      "ClickHereSuffix": " jos haluat lisätietoja."
     },
     "_8EVKOH1av6NjR/ZNfdafrw": {
       "WebPartData": "WWW-osan tiedot",

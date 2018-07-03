@@ -6,14 +6,6 @@
   "_vd/LT/qfiQhbHFfeM1GtlA": {
     "FetchFailedError": "***Fetching webpats failed with error \"{0}\". Render of a cached workbench may fail."
   },
-  "_FQya7ZjwIyrOEutOa+omIA": {
-    "Title": "Warning",
-    "SubText": "Your web part will not appear in the toolbox. Please make sure \"gulp serve\" is running in a web part project. Please refresh the page once \"gulp serve\" is running.",
-    "OkButtonText": "OK",
-    "ClickHerePrefix": "Click ",
-    "ClickHereLink": "here",
-    "ClickHereSuffix": " for more information."
-  },
   "_1JArBGDet5Uj9pJOV/9sFw": {
     "UrlTextBoxPlaceholder": "Enter a URL to view in Mobile Preview Tool.",
     "ScreenReaderMobilePreviewEntered": "You have entered the Mobile Preview Tool. If you want to preview a different page, enter the URL in URL text field. To close the tool and go back to Workbench, press Escape.",
@@ -21,6 +13,14 @@
     "ScreenReaderDevicePickerSelectionChanged": "Press Enter to choose this device.",
     "Width": "Width",
     "Height": "Height"
+  },
+  "_FQya7ZjwIyrOEutOa+omIA": {
+    "Title": "Warning",
+    "SubText": "Your web part will not appear in the toolbox. Please make sure \"gulp serve\" is running in a web part project. Please refresh the page once \"gulp serve\" is running.",
+    "OkButtonText": "OK",
+    "ClickHerePrefix": "Click ",
+    "ClickHereLink": "here",
+    "ClickHereSuffix": " for more information."
   },
   "_8EVKOH1av6NjR/ZNfdafrw": {
     "WebPartData": "***Web Part Data",
