@@ -1,6 +1,7 @@
 div[class^="feedback_"]{
     display: none !important;
 }
+
 .app {
     .top {
         height:60px;
@@ -27,6 +28,10 @@ div[class^="feedback_"]{
         overflow:hidden;
 
         // position: relative;
+
+        
+        
+        
         .footerContainer{
             clear:both;
             width:60%;
@@ -89,6 +94,14 @@ div[class^="feedback_"]{
                 }
                 
             }
+        }
+        @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+            .footerContainer{
+                position:relative;}
+        }
+        @supports (-ms-accelerator:true) {
+            .footerContainer{
+                position:relative;}
         }
     }
 }
