@@ -13,10 +13,10 @@ import { escape } from '@microsoft/sp-lodash-subset';
 
 import * as strings from 'IhgOurPeopleFooterApplicationCustomizerStrings';
 
-const askmyImage: any = require('./img/askmy.png');
-const contactsImage: any = require('./img/contacts.png');
+const askmyImage: any = require('./img/askmyhr_white.png');
+const contactsImage: any = require('./img/contacts_white.png');
 const helpImage: any = require('./img/help.png');
-const myhrImage: any = require('./img/myhr.png');
+const myhrImage: any = require('./img/myhr_white.png');
 
 const LOG_SOURCE: string = 'IhgOurPeopleFooterApplicationCustomizer';
 

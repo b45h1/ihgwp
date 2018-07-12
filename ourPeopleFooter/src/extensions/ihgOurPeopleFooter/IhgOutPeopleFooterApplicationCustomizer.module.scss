@@ -21,8 +21,8 @@ div[class^="feedback_"]{
         display: flex;
         align-items: center;
         justify-content: center;
-        background-color: #f4f2ed;
-        color:#d96932;
+        background-color: #d96932 !important;
+        color:#fff;
         border-top: 1px solid;
         border-top-color: #eaeaea;
         overflow:hidden;
@@ -53,7 +53,7 @@ div[class^="feedback_"]{
                     width:60%;
                     float:left;
                     text-align:left;
-                    color:#d96932;
+                    color:#fff;
                 }
 
                 @media screen and (max-width:460px) and (min-width:0px) {
