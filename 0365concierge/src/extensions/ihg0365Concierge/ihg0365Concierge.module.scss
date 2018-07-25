@@ -7,9 +7,15 @@
     color:#707372;
     margin:20px 0 20px 0;
 }
-
+.topContainerDesc{
+    margin-top:15px;
+    margin-bottom:20px;
+}
+.homeContentContainer{
+    margin-top:20px;
+}
 .supportBtn{
-    background-color: #d96932;
+    background-color:"[theme: themePrimary]";// #d96932;
     width: 48%;
     float: left;
     text-align: center;
@@ -32,7 +38,7 @@
 }
 .supportBtn:hover{
     cursor: pointer;
-    background-color: #ffc600;
+    background-color: "[theme: accent]";//#ffc600;
     text-decoration: underline;
 }
 .supportBtnsContainer{
@@ -40,7 +46,7 @@
     height:190px;
 }
 .trainingBtn{
-    background-color: #d96932;
+    background-color: "[theme: themePrimary]";// #d96932;
     width: 48%;
     float: left;
     text-align: center;
@@ -51,7 +57,7 @@
 }
 .trainingBtn:hover{
     cursor: pointer;
-    background-color: #ffc600;
+    background-color: "[theme: accent]";//#ffc600;
     text-decoration: underline;
 }
 .supportBtn img{
@@ -91,6 +97,46 @@
         }
 }
 
+
+.submitTicketFormContainer{
+    margin-bottom:20px;
+    height:400px;
+    width:100%;
+}
+.speakToSomeoneST{
+    background-color:#d7d2cb;
+    height:100px;
+    width:100%;
+    clear:both;
+    padding:20px 0;
+    
+    .speakToSomeoneTitleST{
+        color:"[theme: themePrimary]";//#d96932;
+        text-align: center;
+        width:20%;
+        float:left;
+        .speakToSomeoneImg{
+            width:80px;
+            vertical-align: middle;
+            margin-right:0.5%;
+        }
+    }
+
+    .speakToSomeoneDescriptionST{
+        color:#707372;
+        padding: 0 0;
+        width:79%;
+        float:left;
+        
+        ul{
+            margin:0px;    
+            li{
+                margin-bottom:10px;
+            }
+        }
+    }
+}
+
 .homeBottomContainer{
     margin-top:20px;
     .homeBottomContainerTitle{
@@ -100,5 +146,59 @@
     }
     .homeBottomContainerDescription{
         color:#707372;
+    }
+}
+
+.trianingContainer{
+    color:#3f3c3c;
+    margin-top:20px;
+    .trainingContainerTitle{
+        margin:20px 0 10px 0;
+    }
+    .trianingContainerDescription{
+        margin:0 0 20px;
+    }
+    .clearBoth{
+        clear:both;
+    }
+    .trainingBoxContainer{
+        margin:20px 0;
+        width:100%;
+        height:170px;
+        .trainingBoxContainerLeftBox{
+            float:left;
+            width:49%;
+            margin-right:2%;
+            background-color:"[theme: themePrimary]";//#d96932;
+            height:165px;
+            text-align:center;
+            .microsoftLogo{
+                width:80%;
+                padding-top:33px;
+            }
+            .brainstormLogo{
+                width:40%;
+                padding-top:20px;
+            }
+            .trainingLeftBoxTitle{
+                color:#fff;
+            }
+            .trainingLeftBoxDesc{
+                color:#fff;
+            }
+        }
+        .trainingBoxContainerRightBox{
+            width:49%;
+            float:left;
+            .rightBoxTitle{
+                margin-bottom:15px;
+            }
+            .rightBoxDesc{
+                color:#3f3c3c;
+                ul{
+                    padding-left:20px;
+                }
+            }
+        }
     }
 }

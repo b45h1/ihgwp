@@ -10,7 +10,7 @@ var twoPeople = require('../assets/twoPeople.png');
 export class homeContent extends React.Component<any, any> {
   public render(): JSX.Element {
     return (
-      <div className="">
+      <div className={styles.homeContentContainer}>
         <hr/>
         <div className="homeTopContainer">
             <div className={styles.topContainerTitle + ' ms-font-l'}>What would you like to do today?</div>
@@ -30,7 +30,7 @@ export class homeContent extends React.Component<any, any> {
                 </div>
                 <div className={styles.speakToSomeoneDescription + ' ms-fontSize-m'}>
                     <ul>
-                        <li>Come and see us every Tuesday at the Smart SOlutions bar in Ravinia or Lrem ipsum dolor.</li>
+                        <li>Come and see us every Tuesday at the Smart Solutions bar in Ravinia or Lrem ipsum dolor.</li>
                         <li>Et placerat ac at a sed suspendisse adipiscing lacinia platea vitae commodo dui</li>
                     </ul>
                 </div>

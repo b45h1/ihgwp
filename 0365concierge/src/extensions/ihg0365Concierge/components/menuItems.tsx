@@ -2,7 +2,9 @@ import * as React from 'react';
 import { Label } from 'office-ui-fabric-react/lib/Label';
 import { Pivot, PivotItem, PivotLinkSize } from 'office-ui-fabric-react/lib/Pivot';
 
-import {homeContent} from './homeContent'
+import {homeContent} from './homeContent';
+import {trainingContent} from './trainingContent';
+import {submitTicket} from './submitTicket';
 
 export class menuItems extends React.Component<any, any> {
   public constructor(props: {}) {
@@ -13,6 +15,13 @@ export class menuItems extends React.Component<any, any> {
     const homeContents: React.ReactElement<any> = React.createElement(
       homeContent
     );
+    const trainingContents: React.ReactElement<any> = React.createElement(
+      trainingContent
+    );
+
+    const submitTickets: React.ReactElement<any> = React.createElement(
+      submitTicket
+    );
     // const homeContent: React.ReactElement<any> = React.createElement(
     //   homeContent
     // );
@@ -20,14 +29,13 @@ export class menuItems extends React.Component<any, any> {
       <div>
         <Pivot linkSize={PivotLinkSize.large}>
           <PivotItem linkText="Home">
-            {homeContents}
-            
+            {homeContents}     
           </PivotItem>
           <PivotItem linkText="Submit a Ticket">
-            <Label>Pivot #2</Label>
+            {submitTickets}
           </PivotItem>
           <PivotItem linkText="Training & resources">
-            <Label>Pivot #3</Label>
+            {trainingContents}
           </PivotItem>
         </Pivot>
       </div>
