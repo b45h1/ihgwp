@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "ihg-0365-concierge",
+    "libraryId": "c9e1335f-d70b-4e9f-9f01-bf5aa277701d",
+    "environment": "spo"
+  }
+}

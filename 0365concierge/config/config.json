@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ihg-0365-concierge-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/ihg0365Concierge/Ihg0365ConciergeApplicationCustomizer.js",
+          "manifest": "./src/extensions/ihg0365Concierge/Ihg0365ConciergeApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "Ihg0365ConciergeApplicationCustomizerStrings": "lib/extensions/ihg0365Concierge/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ihg-0365-concierge-client-side-solution",
+    "id": "c9e1335f-d70b-4e9f-9f01-bf5aa277701d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ihg-0365-concierge.sppkg"
+  }
+}

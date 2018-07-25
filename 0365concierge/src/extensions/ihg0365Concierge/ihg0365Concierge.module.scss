@@ -1,0 +1,104 @@
+.topPlaceholder{
+    position: absolute;
+    right:0;
+}
+.topContainerTitle{
+    // font-size:15px;
+    color:#707372;
+    margin:20px 0 20px 0;
+}
+
+.supportBtn{
+    background-color: #d96932;
+    width: 48%;
+    float: left;
+    text-align: center;
+    height: 130px;
+    padding: 3% 0;
+    color: #fff;
+    margin-right:4%;
+}
+.ms-Panel-header{
+    background-color:#000;
+}
+.panelClass>div>div:nth-child(2)>div:nth-child(1){
+    background-color: #707372;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    p{
+        color:#fff;
+    }
+}
+.supportBtn:hover{
+    cursor: pointer;
+    background-color: #ffc600;
+    text-decoration: underline;
+}
+.supportBtnsContainer{
+    clear:both;
+    height:190px;
+}
+.trainingBtn{
+    background-color: #d96932;
+    width: 48%;
+    float: left;
+    text-align: center;
+    height: 130px;
+    padding: 3% 0;
+    color: #fff;
+
+}
+.trainingBtn:hover{
+    cursor: pointer;
+    background-color: #ffc600;
+    text-decoration: underline;
+}
+.supportBtn img{
+    width:100px;
+}
+.trainingBtn img{
+    width:100px;
+}
+
+.speakToSomeone{
+    background-color:#d7d2cb;
+    height:210px;
+    width:100%;
+    clear:both;
+    margin-bottom:20px;
+        .speakToSomeoneTitle{
+            color:#d96932;
+            text-align: center;
+            
+            .speakToSomeoneImg{
+                width:100px;
+                vertical-align: middle;
+                margin-right:0.5%;
+            }
+        }
+
+        .speakToSomeoneDescription{
+            color:#707372;
+            padding: 0 5%;
+            
+            ul{
+                margin:0px;    
+                li{
+                    margin-bottom:10px;
+                }
+            }
+        }
+}
+
+.homeBottomContainer{
+    margin-top:20px;
+    .homeBottomContainerTitle{
+        margin-bottom:10px;
+        color:#707372;
+        
+    }
+    .homeBottomContainerDescription{
+        color:#707372;
+    }
+}
