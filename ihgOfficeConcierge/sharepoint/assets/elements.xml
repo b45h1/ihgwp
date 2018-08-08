@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="IhgOfficeConcierge"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="2169d22a-ae23-418a-b514-348e7758c226"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

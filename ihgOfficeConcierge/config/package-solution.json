@@ -1,16 +1,15 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "ihg-0365-concierge-client-side-solution",
-    "id": "c9e1335f-d70b-4e9f-9f01-bf5aa277701d",
+    "name": "ihg-office-concierge-client-side-solution",
+    "id": "dc93acd3-4d2c-4ca7-b27c-52dfc8093603",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
-    "skipFeatureDeployment": true,
     "features": [
       {
         "title": "Application Extension - Deployment of custom action.",
         "description": "Deploys a custom action with ClientSideComponentId association",
-        "id": "bb77043f-3b17-460a-9a89-64af19aad023",
+        "id": "bdaaece1-1035-4f07-a0b3-ddb67fe5a07f",
         "version": "1.0.0.0",
         "assets": {
           "elementManifests": [
@@ -21,6 +20,6 @@
     ]
   },
   "paths": {
-    "zippedPackage": "solution/ihg-0365-concierge.sppkg"
+    "zippedPackage": "solution/ihg-office-concierge.sppkg"
   }
 }
